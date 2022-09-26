@@ -4,7 +4,7 @@ import os
 import json
 from cdg_client import CDGClient
 
-with open(r'C:\Users\thatb\OneDrive\Desktop\Fall 2022\Data Driven Policy\election_candidate_sematics\midterm_election_semantics_2022\config.json', 'r') as f:
+with open(r'midterm_election_semantics_2022/config.json', 'r') as f:
     CONFIG = json.load(f)
 client = CDGClient(CONFIG['congress_API'])  # pass the key, response_format="xml" if needed
 
