@@ -28,33 +28,35 @@ endpoint = f"{BILL_PATH}/{CONGRESS}/{BILL_HR}/{BILL_NUM}/text"
 data, status_code = client.get(endpoint)
 
 
-#getting congressional based on chosen date
-CONGRES_RECORD = 'congressional-record'
-YEAR = '2022'
-MONTH = '6'
-DAY = '28'
-endpoint = f"{CONGRES_RECORD}/?y={YEAR}&m={MONTH}&d={DAY}"
 
-data,status_code = client.get(endpoint)
 
-full_record_url = data['Results']['Issues'][0]['Links']['FullRecord']['PDF'][0]['Url']
-
-# download file
-rqs = Request(full_record_url,headers={"User-Agent": "Mozilla/5.0"})
-resp = urlopen(rqs)
-file = open(f"Congress_Records_{YEAR}-{MONTH}-{DAY}.pdf",'wb')
-file.write(resp.read())
-file.close()
-print("completed")
 
 """
-#getting range of dates and 
-base=datetime.datetime.today()
-date_list = [base-datetime.timedelta(days=x) for x in range(10)]
-
+getting range of dates starting from July 7-September 7 (August 7 was climate bill).
+This will give us all records in 2 month span with climate bill in the middle
+"""
+base=datetime.datetime(2022,9,7)
+date_list = [base-datetime.timedelta(days=x) for x in range(61)]
 for day in date_list:
-    day = day.day
-    month = day.month
-    year = day.year
+    d = day.day
+    m = day.month
+    y = day.year
+    #getting congressional based on chosen date
 
-"""
+    CONGRES_RECORD = 'congressional-record'
+    endpoint = f"{CONGRES_RECORD}/?y={y}&m={m}&d={d}"
+    data,status_code = client.get(endpoint)
+    issues = data['Results']['Issues']
+    if len(issues)==0:
+        print("no records for this day")
+    else:
+        full_record_url = data['Results']['Issues'][0]['Links']['FullRecord']['PDF'][0]['Url']
+
+        # download file
+        rqs = Request(full_record_url,headers={"User-Agent": "Mozilla/5.0"})
+        resp = urlopen(rqs)
+        file = open(f"Congressional Records/Congress_Records_{y}-{m}-{d}.pdf",'wb')
+        file.write(resp.read())
+        file.close()
+        print("completed")
+
