@@ -75,9 +75,8 @@ for record in direct:
     print(no_pages)
     for i in range(0,no_pages):
         page = doc[i]
-        strpage=str(page)
         txt += page.get_text()
-        txt+=f"\n Page {strpage} \n"
+        txt+=f"\n -Page {i}-\n"
     with open(f"Records as txt/{txtname}.txt",'w') as f:
         f.write(txt)
     
