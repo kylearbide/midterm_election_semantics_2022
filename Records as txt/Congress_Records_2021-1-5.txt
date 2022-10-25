@@ -1,0 +1,5843 @@
+Congressional Record
+U
+N
+U
+M
+E
+P
+LU
+RI
+B
+U
+S
+United States
+of America
+PROCEEDINGS AND DEBATES OF THE 117th CONGRESS, FIRST SESSION
+b This symbol represents the time of day during the House proceedings, e.g., b 1407 is 2:07 p.m.
+Matter set in this typeface indicates words inserted or appended, rather than spoken, by a Member of the House on the floor.
+.
+H57 
+Vol. 167 
+WASHINGTON, TUESDAY, JANUARY 5, 2021 
+No. 3 
+Senate 
+The Senate was not in session today. Its next meeting will be held on Wednesday, January 6, 2021, at 12:30 p.m. 
+House of Representatives 
+TUESDAY, JANUARY 5, 2021 
+The House met at noon and was 
+called to order by the Speaker pro tem-
+pore (Mr. CUELLAR). 
+f 
+DESIGNATION OF THE SPEAKER 
+PRO TEMPORE 
+The SPEAKER pro tempore laid be-
+fore the House the following commu-
+nication from the Speaker: 
+WASHINGTON, DC, 
+January 5, 2021. 
+I hereby appoint the Honorable HENRY 
+CUELLAR to act as Speaker pro tempore on 
+this day. 
+NANCY PELOSI, 
+Speaker of the House of Representatives. 
+f 
+PRAYER 
+The Chaplain, the Reverend Margaret 
+Grun Kibben, offered the following 
+prayer: 
+Eternal God, we approach this new 
+day, in this new year, serving in this 
+new Congress, keenly aware of the 
+challenges all this newness brings. We 
+have new rules and new colleagues, in 
+some cases new offices, and new deci-
+sions, each of which threaten to test 
+our resilience and try our patience. 
+Remind us then, that on each new 
+morning, we are renewed with Your 
+mercies, grounded in Your steadfast 
+love for us, and inspired by the great-
+ness of Your faithfulness to each of us. 
+We wait on You, the one who has cre-
+ated this day, to refresh not just our 
+strength, but to renew the spirit of our 
+minds, that so fortified, we would yield 
+ourselves to You throughout the day. 
+Transform our attitudes that we would 
+not allow our debate, our actions, our-
+selves to be conformed by any other 
+purpose or perspective than Your own. 
+As we encounter the choices that will 
+be laid before us, give us discernment 
+to know and to do Your will—to seek 
+to do what is good and acceptable and 
+perfect. 
+For by the grace given to us this new 
+day, we give You thanks. 
+We pray these things in the strength 
+of Your holy name. 
+Amen. 
+f 
+THE JOURNAL 
+The SPEAKER pro tempore. Pursu-
+ant to section 5(a)(1)(A) of House Reso-
+lution 8, the Journal of the last day’s 
+proceedings is approved. 
+f 
+PLEDGE OF ALLEGIANCE 
+The SPEAKER pro tempore. Will the 
+gentleman from Alabama (Mr. PALMER) 
+come forward and lead the House in the 
+Pledge of Allegiance. 
+Mr. PALMER led the Pledge of Alle-
+giance as follows: 
+I pledge allegiance to the Flag of the 
+United States of America, and to the Repub-
+lic for which it stands, one nation under God, 
+indivisible, with liberty and justice for all. 
+f 
+COMMUNICATION FROM THE HON-
+ORABLE 
+DEBBIE 
+WASSERMAN 
+SCHULTZ, 
+MEMBER 
+OF 
+CON-
+GRESS 
+The SPEAKER pro tempore laid be-
+fore the House the following commu-
+nication from the Honorable DEBBIE 
+WASSERMAN SCHULTZ, Member of Con-
+gress: 
+HOUSE OF REPRESENTATIVES, 
+Washington, DC, January 4, 2021. 
+Hon. NANCY PELOSI, 
+Speaker, House of Representatives, 
+Washington, DC. 
+DEAR SPEAKER PELOSI: On January 3, 2021, 
+you designated me to administer the oath of 
+office to Representative-elect Alcee L. Has-
+tings of the Twentieth District of the State 
+of Florida pursuant to House Resolution 7, 
+One Hundred Seventeenth Congress. 
+Under such designation, I have the honor 
+to report that on January 4, 2021, at Fort 
+Lauderdale, Florida, I administered the oath 
+of office to Mr. Hastings. Mr. Hastings took 
+the oath prescribed by 5 U.S.C. 3331. I have 
+delivered two copies of the oath, signed by 
+Mr. Hastings, to the Clerk of the House of 
+Representatives. 
+Thank you very much. 
+Very truly yours, 
+DEBBIE WASSERMAN SCHULTZ, 
+Member of Congress. 
+f 
+ANNOUNCEMENT BY THE SPEAKER 
+PRO TEMPORE 
+The SPEAKER pro tempore. Under 
+clause 5(d) of rule XX, the Chair an-
+nounces to the House that, in light of 
+the administration of the oath to the 
+gentleman from Florida, the whole 
+number of the House is 431. 
+f 
+ANNOUNCEMENT BY THE SPEAKER 
+PRO TEMPORE 
+The SPEAKER pro tempore. Pursu-
+ant to clause 8 of rule XX, the Chair 
+will 
+postpone 
+further 
+proceedings 
+today on motions to suspend the rules 
+on which the yeas and nays are or-
+dered. 
+VerDate Sep 11 2014 
+02:27 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00001
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\A05JA7.000
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 0-
+CONGRESSIONAL RECORD — HOUSE
+H58 
+January 5, 2021 
+The House will resume proceedings 
+on postponed questions at a later time. 
+f 
+FEDERAL RISK AND AUTHORIZA-
+TION 
+MANAGEMENT 
+PROGRAM 
+AUTHORIZATION ACT OF 2021 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I move to suspend 
+the rules and pass the bill (H.R. 21) to 
+enhance the innovation, security, and 
+availability of cloud computing prod-
+ucts and services used in the Federal 
+Government by establishing the Fed-
+eral Risk and Authorization Manage-
+ment Program within the General 
+Services Administration and by estab-
+lishing a risk management, authoriza-
+tion, and continuous monitoring proc-
+ess to enable the Federal Government 
+to leverage cloud computing products 
+and services using a risk-based ap-
+proach consistent with the Federal In-
+formation Security Modernization Act 
+of 2014 and cloud-based operations, and 
+for other purposes. 
+The Clerk read the title of the bill. 
+The text of the bill is as follows: 
+H.R. 21 
+Be it enacted by the Senate and House of Rep-
+resentatives of the United States of America in 
+Congress assembled, 
+SECTION 1. SHORT TITLE. 
+This Act may be cited as the ‘‘Federal Risk 
+and Authorization Management Program 
+Authorization Act of 2021’’ or the ‘‘FedRAMP 
+Authorization Act’’. 
+SEC. 2. CODIFICATION OF THE FEDRAMP PRO-
+GRAM. 
+(a) AMENDMENT.—Chapter 36 of title 44, 
+United States Code, is amended by adding at 
+the end the following new sections: 
+‘‘§ 3607. Federal Risk and Authorization Man-
+agement Program 
+‘‘(a) ESTABLISHMENT.—There is established 
+within the General Services Administration 
+the Federal Risk and Authorization Manage-
+ment Program. The Administrator of Gen-
+eral Services, in accordance with section 
+3612, shall establish a governmentwide pro-
+gram that provides the authoritative stand-
+ardized approach to security assessment and 
+authorization for cloud computing products 
+and services that process unclassified infor-
+mation used by agencies. 
+‘‘(b) COMPONENTS OF FEDRAMP.—The Joint 
+Authorization Board and the FedRAMP Pro-
+gram Management Office are established as 
+components of FedRAMP. 
+‘‘§ 3608. FedRAMP Program Management Of-
+fice 
+‘‘(a) GSA DUTIES.— 
+‘‘(1) ROLES AND RESPONSIBILITIES.—The Ad-
+ministrator of General Services shall— 
+‘‘(A) determine the categories and charac-
+teristics of cloud computing products and 
+services that are within the jurisdiction of 
+FedRAMP and that require a FedRAMP au-
+thorization or a FedRAMP provisional au-
+thorization; 
+‘‘(B) develop, coordinate, and implement a 
+process for the FedRAMP Program Manage-
+ment Office, the Joint Authorization Board, 
+and agencies to review security assessments 
+of cloud computing products and services 
+pursuant to subsections (b) and (c) of section 
+3611, and appropriate oversight of continuous 
+monitoring of cloud computing products and 
+services; and 
+‘‘(C) ensure the continuous improvement of 
+FedRAMP. 
+‘‘(2) IMPLEMENTATION.—The Administrator 
+shall 
+oversee 
+the 
+implementation 
+of 
+FedRAMP, including— 
+‘‘(A) appointing a Program Director to 
+oversee the FedRAMP Program Management 
+Office; 
+‘‘(B) hiring professional staff as may be 
+necessary for the effective operation of the 
+FedRAMP Program Management Office, and 
+such other activities as are essential to prop-
+erly perform critical functions; 
+‘‘(C) entering into interagency agreements 
+to detail personnel on a reimbursable or non- 
+reimbursable basis to assist the FedRAMP 
+Program Management Office and the Joint 
+Authorization Board in discharging the re-
+sponsibilities of the Office under this sec-
+tion; and 
+‘‘(D) such other actions as the Adminis-
+trator may determine necessary to carry out 
+this section. 
+‘‘(b) 
+DUTIES.—The 
+FedRAMP 
+Program 
+Management Office shall have the following 
+duties: 
+‘‘(1) Provide guidance to independent as-
+sessment organizations, validate the inde-
+pendent assessments, and apply the require-
+ments and guidelines adopted in section 
+3609(c)(5). 
+‘‘(2) Oversee and issue guidelines regarding 
+the necessary requirements for accreditation 
+of third-party organizations seeking to be 
+awarded accreditation as independent assess-
+ment organizations, including qualifications, 
+roles, and responsibilities of independent as-
+sessment organizations. 
+‘‘(3) Develop templates and other materials 
+to support the Joint Authorization Board 
+and agencies in the authorization of cloud 
+computing products and services to increase 
+the speed, effectiveness, and transparency of 
+the authorization process, consistent with 
+standards defined by the National Institute 
+of Standards and Technology. 
+‘‘(4) Establish and maintain a public com-
+ment process for proposed guidance before 
+the issuance of such guidance by FedRAMP. 
+‘‘(5) Review any authorization to operate 
+issued by an agency to determine if the au-
+thorization meets the requirements and 
+guidelines adopted in section 3609(c)(5). 
+‘‘(6) Establish frameworks for agencies to 
+use authorization packages processed by the 
+FedRAMP Program Management Office and 
+Joint Authorization Board. 
+‘‘(7) Coordinate with the Secretary of De-
+fense and the Secretary of Homeland Secu-
+rity to establish a framework for continuous 
+monitoring under section 3553 and agency re-
+ports required under section 3554. 
+‘‘(8) Establish a centralized and secure re-
+pository to collect and share necessary data, 
+including security authorization packages, 
+from the Joint Authorization Board and 
+agencies to enable better sharing and reuse 
+of such packages across agencies. 
+‘‘(c) EVALUATION
+OF
+AUTOMATION
+PROCE-
+DURES.— 
+‘‘(1) IN GENERAL.—The FedRAMP Program 
+Management Office shall assess and evaluate 
+available automation capabilities and proce-
+dures to improve the efficiency and effective-
+ness of the issuance of FedRAMP authoriza-
+tions and FedRAMP provisional authoriza-
+tions, including continuous monitoring of 
+cloud computing products and services. 
+‘‘(2) MEANS
+FOR
+AUTOMATION.—Not later 
+than 1 year after the date of the enactment 
+of this section, and updated annually there-
+after, the FedRAMP Program Management 
+Office shall establish a means for the auto-
+mation of security assessments and reviews. 
+‘‘(d) METRICS
+FOR
+AUTHORIZATION.—The 
+FedRAMP Program Management Office shall 
+establish annual metrics regarding the time 
+and quality of the assessments necessary for 
+completion of a FedRAMP authorization 
+process in a manner that can be consistently 
+tracked over time in conjunction with the 
+periodic testing and evaluation process pur-
+suant to section 3554 in a manner that mini-
+mizes the agency reporting burden. 
+‘‘§ 3609. Joint Authorization Board 
+‘‘(a) ESTABLISHMENT.—The Joint Author-
+ization Board shall consist of cloud com-
+puting experts, appointed by the Director in 
+consultation with the Administrator, from 
+each of the following: 
+‘‘(1) The Department of Defense. 
+‘‘(2) The Department of Homeland Secu-
+rity. 
+‘‘(3) The General Services Administration. 
+‘‘(4) Such other agencies as determined by 
+the Director, in consultation with the Ad-
+ministrator. 
+‘‘(b) ISSUANCE
+OF FEDRAMP PROVISIONAL 
+AUTHORIZATIONS.—The Joint Authorization 
+Board shall conduct security assessments of 
+cloud computing products and services and 
+issue FedRAMP provisional authorizations 
+to cloud service providers that meet the re-
+quirements and guidelines established in 
+subsection (c)(5). 
+‘‘(c) 
+DUTIES.—The 
+Joint 
+Authorization 
+Board shall— 
+‘‘(1) develop and make publicly available 
+on a website, determined by the Adminis-
+trator, criteria for prioritizing and selecting 
+cloud computing products and services to be 
+assessed by the Joint Authorization Board; 
+‘‘(2) provide regular updates to applicant 
+cloud service providers on the status of any 
+cloud computing product or service during 
+the assessment and authorization process of 
+the Joint Authorization Board; 
+‘‘(3) review and validate cloud computing 
+products and services and materials sub-
+mitted by independent assessment organiza-
+tions or any documentation determined to be 
+necessary by the Joint Authorization Board 
+to evaluate the system security of a cloud 
+computing product or service; 
+‘‘(4) in consultation with the FedRAMP 
+Program Management Office, serve as a re-
+source for best practices to accelerate the 
+process for obtaining a FedRAMP authoriza-
+tion or FedRAMP provisional authorization; 
+‘‘(5) establish requirements and guidelines 
+for security assessments of cloud computing 
+products and services, consistent with stand-
+ards defined by the National Institute of 
+Standards and Technology, to be used by the 
+Joint Authorization Board and agencies; 
+‘‘(6) perform such other roles and respon-
+sibilities as the Administrator may assign, 
+in consultation with the FedRAMP Program 
+Management Office and members of the 
+Joint Authorization Board; and 
+‘‘(7) establish metrics and goals for reviews 
+and 
+activities 
+associated 
+with 
+issuing 
+FedRAMP provisional authorizations and 
+provide to the FedRAMP Program Manage-
+ment Office. 
+‘‘(d) 
+DETERMINATIONS
+OF
+DEMAND
+FOR 
+CLOUD COMPUTING PRODUCTS AND SERVICES.— 
+The Joint Authorization Board shall consult 
+with the Chief Information Officers Council 
+established in section 3603 to establish a 
+process, that shall be made available on a 
+public website, for prioritizing and accepting 
+the cloud computing products and services to 
+be granted a FedRAMP provisional author-
+ization. 
+‘‘(e) DETAIL OF PERSONNEL.—To assist the 
+Joint Authorization Board in discharging 
+the responsibilities under this section, per-
+sonnel of agencies may be detailed to the 
+Joint Authorization Board for the perform-
+ance of duties described under subsection (c). 
+‘‘§ 3610. Independent assessment organiza-
+tions 
+‘‘(a) REQUIREMENTS
+FOR ACCREDITATION.— 
+The Joint Authorization Board shall deter-
+mine the requirements for the accreditation 
+of a third-party organization seeking to be 
+accredited as an independent assessment or-
+ganization, ensuring adequate implementa-
+tion of section 3609. Such requirements may 
+VerDate Sep 11 2014 
+02:27 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00002
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\K05JA7.003
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 1-
+CONGRESSIONAL RECORD — HOUSE
+H59 
+January 5, 2021 
+include developing or requiring certification 
+programs for individuals employed by the 
+third-party organization seeking accredita-
+tion. The Program Director of the FedRAMP 
+Program Management Office shall accredit 
+any third-party organization that meets the 
+requirements for accreditation. 
+‘‘(b) ASSESSMENT.—An independent assess-
+ment organization may assess, validate, and 
+attest to the quality and compliance of secu-
+rity assessment materials provided by cloud 
+service providers as part of the FedRAMP 
+authorization or the FedRAMP provisional 
+authorization process. 
+‘‘§ 3611. Roles and responsibilities of agencies 
+‘‘(a) IN GENERAL.—In implementing the re-
+quirements of FedRAMP, the head of each 
+agency 
+shall, 
+consistent 
+with 
+guidance 
+issued by the Director pursuant to section 
+3612— 
+‘‘(1) create policies to ensure cloud com-
+puting products and services used by the 
+agency meet FedRAMP security require-
+ments and other risk-based performance re-
+quirements as defined by the Director; 
+‘‘(2) issue agency-specific authorizations to 
+operate for cloud computing services in com-
+pliance with section 3554; 
+‘‘(3) confirm whether there is a FedRAMP 
+authorization or FedRAMP provisional au-
+thorization in the cloud security repository 
+established under section 3608(b)(8) before be-
+ginning the process to award a FedRAMP au-
+thorization or a FedRAMP provisional au-
+thorization for a cloud computing product or 
+service; 
+‘‘(4) to the extent practicable, for any 
+cloud computing product or service the agen-
+cy seeks to authorize that has received a 
+FedRAMP authorization or FedRAMP provi-
+sional authorization, use the existing assess-
+ments of security controls and materials 
+within the authorization package; and 
+‘‘(5) provide data and information required 
+to the Director pursuant to section 3612 to 
+determine how agencies are meeting metrics 
+as defined by the FedRAMP Program Man-
+agement Office. 
+‘‘(b) SUBMISSION
+OF POLICIES REQUIRED.— 
+Not later than 6 months after the date of the 
+enactment of this section, the head of each 
+agency shall submit to the Director the poli-
+cies created pursuant to subsection (a)(1) for 
+review and approval. 
+‘‘(c) SUBMISSION OF AUTHORIZATIONS TO OP-
+ERATE REQUIRED.—Upon issuance of an agen-
+cy authorization to operate, the head of the 
+agency shall provide a copy of the authoriza-
+tion to operate letter and any supplementary 
+information required pursuant to section 
+3608(b) to the FedRAMP Program Manage-
+ment Office. 
+‘‘(d) PRESUMPTION OF ADEQUACY.— 
+‘‘(1) IN GENERAL.—The assessment of secu-
+rity controls and materials within the au-
+thorization package for a FedRAMP author-
+ization or FedRAMP provisional authoriza-
+tion shall be presumed adequate for use in an 
+agency authorization to operate cloud com-
+puting products and services. 
+‘‘(2) 
+INFORMATION
+SECURITY
+REQUIRE-
+MENTS.—The presumption under paragraph 
+(1) does not modify or alter the responsi-
+bility of any agency to ensure compliance 
+with subchapter II of chapter 35 for any 
+cloud computing products or services used by 
+the agency. 
+‘‘§ 3612. Roles and responsibilities of the Of-
+fice of Management and Budget 
+‘‘The Director shall have the following du-
+ties: 
+‘‘(1) Issue guidance to ensure that an agen-
+cy does not operate a Federal Government 
+cloud computing product or service using 
+Government data without an authorization 
+to operate issued by the agency that meets 
+the requirements of subchapter II of chapter 
+35 and the FedRAMP authorization or 
+FedRAMP provisional authorization. 
+‘‘(2) Ensure agencies are in compliance 
+with any guidance or other requirements 
+issued related to FedRAMP. 
+‘‘(3) Review, analyze, and update guidance 
+on the adoption, security, and use of cloud 
+computing services used by agencies. 
+‘‘(4) Ensure the Joint Authorization Board 
+is in compliance with section 3609(c). 
+‘‘(5) Adjudicate disagreements between the 
+Joint Authorization Board and cloud service 
+providers seeking a FedRAMP provisional 
+authorization. 
+‘‘(6) Promulgate regulations on the role of 
+FedRAMP authorizations and FedRAMP pro-
+visional authorizations in agency acquisition 
+of cloud computing products and services 
+that process unclassified information. 
+‘‘§ 3613. Authorization of appropriations for 
+FEDRAMP 
+‘‘There is authorized to be appropriated 
+$20,000,000 each year for the FedRAMP Pro-
+gram Management Office and the Joint Au-
+thorization Board. 
+‘‘§ 3614. Reports to Congress; GAO Report 
+‘‘(a) REPORTS TO CONGRESS.—Not later than 
+12 months after the date of the enactment of 
+this section, and annually thereafter, the Di-
+rector shall submit to the Committee on 
+Oversight and Reform of the House of Rep-
+resentatives and the Committee on Home-
+land Security and Governmental Affairs of 
+the Senate a report that includes the fol-
+lowing: 
+‘‘(1) The status, efficiency, and effective-
+ness of FedRAMP Program Management Of-
+fice and agencies during the preceding year 
+in supporting the speed, effectiveness, shar-
+ing, reuse, and security of authorizations to 
+operate for cloud computing products and 
+services, including progress towards meeting 
+the metrics adopted by the FedRAMP Pro-
+gram Management Office pursuant to section 
+3608(d) and the Joint Authorization Board 
+pursuant to section 3609(c)(5). 
+‘‘(2) Data on FedRAMP authorizations and 
+FedRAMP provisional authorizations. 
+‘‘(3) The average length of time for the 
+Joint Authorization Board to review applica-
+tions for and issue FedRAMP provisional au-
+thorizations. 
+‘‘(4) The average length of time for the 
+FedRAMP Program Management Office to 
+review authorizations to operate. 
+‘‘(5) The number of FedRAMP authoriza-
+tions and FedRAMP provisional authoriza-
+tions issued for the previous year. 
+‘‘(6) A review of progress made during the 
+preceding year in advancing automation 
+techniques to securely automate FedRAMP 
+processes and to accelerate reporting as de-
+scribed in this section. 
+‘‘(7) The number and characteristics of au-
+thorized cloud computing products and serv-
+ices in use at each agency consistent with 
+guidance provided by the Director in section 
+3612. 
+‘‘(8) The cost incurred by agencies and 
+cloud 
+service 
+providers 
+related 
+to 
+the 
+issuance of FedRAMP authorizations and 
+FedRAMP provisional authorizations, in-
+cluding information responsive to the report 
+required in subsection (b). 
+‘‘(b) 
+GAO 
+REPORT.—Not 
+later 
+than 
+6 
+months after the date of the enactment of 
+this section, the Comptroller General of the 
+United States shall publish a report that in-
+cludes an assessment of the cost incurred by 
+agencies and cloud service providers related 
+to the issuance of FedRAMP authorizations 
+and FedRAMP provisional authorizations. 
+‘‘§ 3615. Federal Secure Cloud Advisory Com-
+mittee 
+‘‘(a) ESTABLISHMENT, PURPOSES, AND DU-
+TIES.— 
+‘‘(1) ESTABLISHMENT.—There is established 
+a Federal Secure Cloud Advisory Committee 
+(referred to in this section as the ‘Com-
+mittee’) to ensure effective and ongoing co-
+ordination of agency adoption, use, author-
+ization, monitoring, acquisition, and secu-
+rity of cloud computing products and serv-
+ices to enable agency mission and adminis-
+trative priorities. 
+‘‘(2) PURPOSES.—The purposes of the Com-
+mittee are the following: 
+‘‘(A) 
+To 
+examine 
+the 
+operations 
+of 
+FedRAMP and determine ways that author-
+ization processes can continuously be im-
+proved, including the following: 
+‘‘(i) Measures to increase agency re-use of 
+FedRAMP provisional authorizations. 
+‘‘(ii) Proposed actions that can be adopted 
+to reduce the cost of FedRAMP authoriza-
+tions and FedRAMP provisional authoriza-
+tions for cloud service providers. 
+‘‘(iii) Measures to increase the number of 
+FedRAMP authorizations and FedRAMP pro-
+visional authorizations for cloud computing 
+services offered by small businesses (as de-
+fined by section 3(a) of the Small Business 
+Act (15 U.S.C. 632(a)). 
+‘‘(B) Collect information and feedback on 
+agency compliance with and implementation 
+of FedRAMP requirements. 
+‘‘(C) Serve as a forum that facilitates com-
+munication and collaboration among the 
+FedRAMP stakeholder community. 
+‘‘(3) DUTIES.—The duties of the Committee 
+are, at a minimum, to provide advice and 
+recommendations to the Administrator, the 
+Joint Authorization Board, and to agencies 
+on technical, financial, programmatic, and 
+operational matters regarding secure adop-
+tion of cloud computing products and serv-
+ices. 
+‘‘(b) MEMBERS.— 
+‘‘(1) COMPOSITION.—The Committee shall be 
+comprised of not more than 15 members who 
+are qualified representatives from the public 
+and private sectors, appointed by the Admin-
+istrator, in consultation with the Adminis-
+trator of the Office of Electronic Govern-
+ment, as follows: 
+‘‘(A) The Administrator or the Administra-
+tor’s designee, who shall be the Chair of the 
+Committee. 
+‘‘(B) At least one representative each from 
+the Cybersecurity and Infrastructure Secu-
+rity Agency and the National Institute of 
+Standards and Technology. 
+‘‘(C) At least two officials who serve as the 
+Chief Information Security Officer within an 
+agency, who shall be required to maintain 
+such a position throughout the duration of 
+their service on the Committee. 
+‘‘(D) At least one official serving as Chief 
+Procurement Officer (or equivalent) in an 
+agency, who shall be required to maintain 
+such a position throughout the duration of 
+their service on the Committee. 
+‘‘(E) At least one individual representing 
+an independent assessment organization. 
+‘‘(F) No fewer than five representatives 
+from unique businesses that primarily pro-
+vide cloud computing services or products, 
+including at least two representatives from a 
+small business (as defined by section 3(a) of 
+the Small Business Act (15 U.S.C. 632(a))). 
+‘‘(G) At least two other Government rep-
+resentatives as the Administrator deter-
+mines to be necessary to provide sufficient 
+balance, insights, or expertise to the Com-
+mittee. 
+‘‘(2) DEADLINE
+FOR
+APPOINTMENT.—Each 
+member of the Committee shall be appointed 
+not later than 30 days after the date of the 
+enactment of this section. 
+‘‘(3) PERIOD OF APPOINTMENT; VACANCIES.— 
+‘‘(A) IN GENERAL.—Each non-Federal mem-
+ber of the Committee shall be appointed for 
+a term of 3 years, except that the initial 
+terms for members may be staggered 1-, 2-, 
+VerDate Sep 11 2014 
+02:27 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00003
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\A05JA7.003
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 2-
+CONGRESSIONAL RECORD — HOUSE
+H60 
+January 5, 2021 
+or 3-year terms to establish a rotation in 
+which one-third of the members are selected 
+each year. Any such member may be ap-
+pointed for not more than 2 consecutive 
+terms. 
+‘‘(B) VACANCIES.—Any vacancy in the Com-
+mittee shall not affect its powers, but shall 
+be filled in the same manner in which the 
+original appointment was made. Any mem-
+ber appointed to fill a vacancy occurring be-
+fore the expiration of the term for which the 
+member’s predecessor was appointed shall be 
+appointed only for the remainder of that 
+term. A member may serve after the expira-
+tion of that member’s term until a successor 
+has taken office. 
+‘‘(c) MEETINGS
+AND
+RULES
+OF
+PROCE-
+DURES.— 
+‘‘(1) MEETINGS.—The Committee shall hold 
+not fewer than three meetings in a calendar 
+year, at such time and place as determined 
+by the Chair. 
+‘‘(2) INITIAL MEETING.—Not later than 120 
+days after the date of the enactment of this 
+section, the Committee shall meet and begin 
+the operations of the Committee. 
+‘‘(3) RULES OF PROCEDURE.—The Committee 
+may establish rules for the conduct of the 
+business of the Committee, if such rules are 
+not inconsistent with this section or other 
+applicable law. 
+‘‘(d) EMPLOYEE STATUS.— 
+‘‘(1) IN GENERAL.—A member of the Com-
+mittee (other than a member who is ap-
+pointed to the Committee in connection with 
+another Federal appointment) shall not be 
+considered an employee of the Federal Gov-
+ernment by reason of any service as such a 
+member, except for the purposes of section 
+5703 of title 5, relating to travel expenses. 
+‘‘(2) PAY NOT PERMITTED.—A member of the 
+Committee covered by paragraph (1) may not 
+receive pay by reason of service on the Com-
+mittee. 
+‘‘(e) APPLICABILITY TO THE FEDERAL ADVI-
+SORY COMMITTEE ACT.—Section 14 of the Fed-
+eral Advisory Committee Act (5 U.S.C. App.) 
+shall not apply to the Committee. 
+‘‘(f) HEARINGS
+AND EVIDENCE.—The Com-
+mittee, or on the authority of the Com-
+mittee, any subcommittee, may, for the pur-
+poses of carrying out this section, hold hear-
+ings, sit and act at such times and places, 
+take testimony, receive evidence, and ad-
+minister oaths. 
+‘‘(g) CONTRACTING.—The Committee, may, 
+to such extent and in such amounts as are 
+provided in appropriation Acts, enter into 
+contracts to enable the Committee to dis-
+charge its duties under this section. 
+‘‘(h) INFORMATION
+FROM
+FEDERAL
+AGEN-
+CIES.— 
+‘‘(1) IN
+GENERAL.—The Committee is au-
+thorized to secure directly from any execu-
+tive department, bureau, agency, board, 
+commission, office, independent establish-
+ment, or instrumentality of the Government, 
+information, suggestions, estimates, and sta-
+tistics for the purposes of the Committee. 
+Each department, bureau, agency, board, 
+commission, office, independent establish-
+ment, or instrumentality shall, to the extent 
+authorized by law, furnish such information, 
+suggestions, estimates, and statistics di-
+rectly to the Committee, upon request made 
+by the Chair, the Chair of any subcommittee 
+created by a majority of the Committee, or 
+any member designated by a majority of the 
+Committee. 
+‘‘(2) RECEIPT, HANDLING, STORAGE, AND DIS-
+SEMINATION.—Information may only be re-
+ceived, handled, stored, and disseminated by 
+members of the Committee and its staff con-
+sistent with all applicable statutes, regula-
+tions, and Executive orders. 
+‘‘(i) DETAIL
+OF EMPLOYEES.—Any Federal 
+Government employee may be detailed to 
+the Committee without reimbursement from 
+the Committee, and such detailee shall re-
+tain the rights, status, and privileges of his 
+or her regular employment without interrup-
+tion. 
+‘‘(j) POSTAL
+SERVICES.—The Committee 
+may use the United States mails in the same 
+manner and under the same conditions as 
+agencies. 
+‘‘(k) EXPERT AND CONSULTANT SERVICES.— 
+The Committee is authorized to procure the 
+services of experts and consultants in ac-
+cordance with section 3109 of title 5, but at 
+rates not to exceed the daily rate paid a per-
+son occupying a position at Level IV of the 
+Executive Schedule under section 5315 of 
+title 5. 
+‘‘(l) REPORTS.— 
+‘‘(1) INTERIM
+REPORTS.—The Committee 
+may submit to the Administrator and Con-
+gress interim reports containing such find-
+ings, conclusions, and recommendations as 
+have been agreed to by the Committee. 
+‘‘(2) ANNUAL REPORTS.—Not later than 18 
+months after the date of the enactment of 
+this section, and annually thereafter, the 
+Committee shall submit to the Adminis-
+trator and Congress a final report containing 
+such findings, conclusions, and recommenda-
+tions as have been agreed to by the Com-
+mittee. 
+‘‘§ 3616. Definitions 
+‘‘(a) IN
+GENERAL.—Except as provided 
+under subsection (b), the definitions under 
+sections 3502 and 3552 apply to sections 3607 
+through this section. 
+‘‘(b) ADDITIONAL DEFINITIONS.—In sections 
+3607 through this section: 
+‘‘(1) ADMINISTRATOR.—The term ‘Adminis-
+trator’ means the Administrator of General 
+Services. 
+‘‘(2) AUTHORIZATION
+PACKAGE.—The term 
+‘authorization package’— 
+‘‘(A) means the essential information used 
+to determine whether to authorize the oper-
+ation of an information system or the use of 
+a designated set of common controls; and 
+‘‘(B) at a minimum, includes the informa-
+tion system security plan, privacy plan, se-
+curity control assessment, privacy control 
+assessment, and any relevant plans of action 
+and milestones. 
+‘‘(3) CLOUD
+COMPUTING.—The term ‘cloud 
+computing’ has the meaning given that term 
+by the National Institutes of Standards and 
+Technology in NIST Special Publication 800– 
+145 and any amendatory or superseding docu-
+ment thereto. 
+‘‘(4) CLOUD
+SERVICE
+PROVIDER.—The term 
+‘cloud service provider’ means an entity of-
+fering cloud computing products or services 
+to agencies. 
+‘‘(5) DIRECTOR.—The term ‘Director’ means 
+the Director of the Office of Management 
+and Budget. 
+‘‘(6) 
+FEDRAMP.—The 
+term 
+‘FedRAMP’ 
+means the Federal Risk and Authorization 
+Management Program established under sec-
+tion 3607(a). 
+‘‘(7) FEDRAMP AUTHORIZATION.—The term 
+‘FedRAMP authorization’ means a certifi-
+cation that a cloud computing product or 
+service received from an agency that pro-
+vides an authorization to operate and the 
+FedRAMP Program Management Office has 
+determined the product or service has com-
+pleted the FedRAMP authorization process. 
+‘‘(8) FEDRAMP PROGRAM MANAGEMENT OF-
+FICE.—The term ‘FedRAMP Program Man-
+agement Office’ means the office that admin-
+isters FedRAMP established under section 
+3607(b). 
+‘‘(9) FEDRAMP 
+PROVISIONAL
+AUTHORIZA-
+TION.—The term ‘FedRAMP provisional au-
+thorization’ means a certification that a 
+cloud computing product or service has re-
+ceived from the Joint Authorization Board 
+that approves a provisional authorization to 
+operate. 
+‘‘(10) INDEPENDENT
+ASSESSMENT
+ORGANIZA-
+TION.—The term ‘independent assessment or-
+ganization’ means a third-party organization 
+accredited by the Program Director of the 
+FedRAMP Program Management Office to 
+undertake conformity assessments of cloud 
+service providers and their products or serv-
+ices. 
+‘‘(11) JOINT
+AUTHORIZATION
+BOARD.—The 
+term ‘Joint Authorization Board’ means the 
+Joint Authorization Board established under 
+section 3607(b).’’. 
+(b) TECHNICAL
+AND
+CONFORMING
+AMEND-
+MENT.—The table of sections for chapter 36 of 
+title 44, United States Code, is amended by 
+adding at the end the following new items: 
+‘‘3607. Federal Risk and Authorization Man-
+agement Program. 
+‘‘3608. FedRAMP Program Management Of-
+fice. 
+‘‘3609. Joint Authorization Board. 
+‘‘3610. Independent assessment organizations. 
+‘‘3611. Roles and responsibilities of agencies. 
+‘‘3612. Roles and responsibilities of the Office 
+of Management and Budget. 
+‘‘3613. Authorization of appropriations for 
+FEDRAMP. 
+‘‘3614. Reports to Congress. 
+‘‘3615. Federal Secure Cloud Advisory Com-
+mittee. 
+‘‘3616. Definitions.’’. 
+(c) SUNSET.—This Act and any amendment 
+made by this Act shall be repealed on the 
+date that is 10 years after the date of the en-
+actment of this Act. 
+(d) RULE
+OF
+CONSTRUCTION.—Nothing in 
+this Act or any amendment made by this Act 
+shall be construed as altering or impairing 
+the authorities of the Director of the Office 
+of Management and Budget or the Secretary 
+of Homeland Security under subchapter II of 
+chapter 35 of title 44, United States Code. 
+The SPEAKER pro tempore. Pursu-
+ant to the rule, the gentlewoman from 
+New York (Mrs. CAROLYN B. MALONEY) 
+and the gentleman from Alabama (Mr. 
+PALMER) each will control 20 minutes. 
+The Chair recognizes the gentle-
+woman from New York. 
+GENERAL LEAVE 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I ask unanimous 
+consent that all Members may have 5 
+legislative days in which to revise and 
+extend their remarks and include ex-
+traneous material on the measure be-
+fore us. 
+The SPEAKER pro tempore. Is there 
+objection to the request of the gentle-
+woman from New York? 
+There was no objection. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I yield myself such 
+time as I may consume. 
+I thank Representatives CONNOLLY 
+and COMER for working on this impor-
+tant bipartisan issue. 
+A version of this bill passed the 
+House in the last Congress, and it has 
+been improved after receiving tech-
+nical assistance from the General Serv-
+ices Administration. The Federal Risk 
+and Authorization Management Pro-
+gram Authorization Act would codify 
+and improve the existing FedRAMP in 
+the General Services Administration. 
+First established in 2011, FedRAMP is 
+an important program that certifies 
+cloud service providers who wish to 
+offer services and products to the Fed-
+eral Government. 
+The FedRAMP certification process 
+outlined in this bill is comprehensive, 
+VerDate Sep 11 2014 
+03:51 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00004
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\A05JA7.003
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 3-
+CONGRESSIONAL RECORD — HOUSE
+H61 
+January 5, 2021 
+facilitates easier agency adoption, pro-
+motes agency reuse, and encourages 
+savings. The FedRAMP process uses a 
+risk-based approach to ensure the reli-
+ability of any cloud platform that 
+hosts unclassified government data. 
+A significant provision of this bill is 
+the Federal Secure Cloud Advisory 
+Committee. This committee would be 
+tasked with key responsibilities, in-
+cluding providing technical expertise 
+on cloud products and services and 
+identifying ways to reduce costs associ-
+ated with FedRAMP certification. 
+The Director of the Office of Manage-
+ment and Budget would be required to 
+issue 
+regulations 
+pertaining 
+to 
+FedRAMP and would ensure that agen-
+cies are not using cloud service pro-
+viders without authorizations. This bill 
+supports a critical effort to keep our 
+Nation’s information secure in cloud 
+environments. 
+Mr. Speaker, I urge all Members to 
+support this bill, and I reserve the bal-
+ance of my time. 
+Mr. PALMER. Mr. Speaker, I yield 
+myself such time as I may consume. 
+Mr. Speaker, I rise in support of H.R. 
+21, the FedRAMP Authorization Act, 
+introduced by my distinguished col-
+league 
+and 
+friend, 
+Representative 
+GERRY CONNOLLY. 
+Cybersecurity and technology mod-
+ernization are both vital issues to en-
+sure this government runs efficiently 
+and effectively. This is even clearer in 
+light 
+of 
+the 
+unprecedented 
+recent 
+cyberattack that compromised both 
+the private and public sectors’ critical 
+information systems. Congress must 
+work to further the Federal Govern-
+ment’s cybersecurity while moving 
+Federal agencies to more modern solu-
+tions, which will help keep our public 
+data safe and provide improved serv-
+ices to our Nation’s citizens. 
+The Federal Risk and Authorization 
+Program, or FedRAMP, is the main 
+Federal program focused on helping 
+agencies procure secure cloud com-
+puting services. The FedRAMP pro-
+vides a consistent process for agencies 
+to procure modern cloud systems in ac-
+cordance with established Federal cy-
+bersecurity standards. Recent Federal 
+policies make the focus on securing 
+cloud services especially important. 
+With both the Cloud First initiative 
+in 2011 and the Cloud Smart initiative 
+from President Trump’s administra-
+tion, the government continues to 
+focus on adopting modern, cost-effec-
+tive cloud technology solutions. 
+The Federal Government is plagued 
+by reoccurring problems in information 
+technology, such as low asset utiliza-
+tion, duplicative systems, and frag-
+mented resources. Shifting to the cloud 
+provides for improved asset utilization, 
+increased innovation, and more agile 
+and responsive technology capabilities. 
+These improved efficiencies have led to 
+significant cost savings. 
+In fiscal year 2018, the government 
+spent roughly $6.5 billion on cloud com-
+puting, with 84 percent coming from 
+FedRAMP authorized cloud computing 
+providers. 
+The centralized security authoriza-
+tion process offered by the FedRAMP 
+program has saved agencies over $250 
+million in cost avoidance, according to 
+the General Services Administration. 
+Recognizing these cost benefits, this 
+legislation aims to increase the Fed-
+eral Government’s use of the con-
+sistent, centrally managed cloud com-
+puting security authorizations pro-
+vided by the FedRAMP program. Codi-
+fying this successful program into law 
+is an important step towards encour-
+aging Federal agencies to take full ad-
+vantage of this program and all the se-
+curity benefits that it offers. 
+Mr. Speaker, again, I thank my col-
+league, Representative CONNOLLY, for 
+introducing this bill. I urge my col-
+leagues to support the bill, and I re-
+serve the balance of my time. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I yield 5 minutes to 
+the gentleman from Virginia (Mr. CON-
+NOLLY). 
+Mr. CONNOLLY. Mr. Speaker, I 
+thank the distinguished chairwoman of 
+our committee for her graciousness in 
+not only bringing this bill back to the 
+floor, but making it the first legisla-
+tive bill we are going to consider in the 
+new Congress. I thank my good friend 
+from New York. I also thank my friend 
+from Alabama for his gracious words 
+and his partnership on so many issues 
+on our committee on a bipartisan 
+basis. 
+I want to thank the majority leader 
+for bringing this bill to the floor. I also 
+want to thank the ranking member of 
+the full committee, Mr. COMER; and the 
+ranking member of our subcommittee, 
+Mr. HICE, for cosponsoring this bill, 
+making it as bipartisan as we get. 
+H.R. 21, the FedRAMP Authorization 
+Act, would finally provide a statutory 
+framework—which we currently lack— 
+for the Federal Risk and Authorization 
+Management Program, FedRAMP. 
+FedRAMP is a standardized approach 
+to certifying and assessing in an ongo-
+ing manner the security of cloud com-
+puting technologies used across the 
+Federal Government. FedRAMP seeks 
+to reduce the redundancies of Federal 
+cloud migration by creating a ‘‘certify 
+once, reuse many times’’ model for 
+cloud products and services that pro-
+vide cost-effective, risk-based approach 
+to cloud adoption. Enabling the effi-
+cient and secure procurement of cloud 
+computing technology is an important 
+part of Federal IT modernization ef-
+forts and essential to the Federal Gov-
+ernment’s transition to a more virtual 
+posture amid the pandemic. 
+In the first 4 years of FedRAMP, the 
+program authorized only 20 cloud prod-
+ucts. Today, there are 211 FedRAMP 
+authorized cloud products that Federal 
+agencies can use and more than 240 
+cloud service providers participating in 
+FedRAMP, 30 percent of which are 
+small businesses—female-owned, mi-
+nority-owned, and veteran-owned busi-
+nesses. In fiscal year 2020, FedRAMP 
+saw a 50 percent increase in agencies 
+reusing authorized cloud products. 
+This bill already passed the House in 
+the last Congress with bipartisan sup-
+port not once, but twice; once under 
+suspension by voice vote and once as 
+an amendment to the House version of 
+the National Defense Authorization 
+Act. 
+After incorporating technical assist-
+ance that the chairwoman mentioned 
+from the General Services Administra-
+tion and other key stakeholders, I rise 
+again to offer the FedRAMP Authoriza-
+tion Act. 
+For nearly 4 years, we have worked 
+with the Office of Management and 
+Budget, GSA, industry stakeholders, 
+and our friends on both sides of the 
+aisle to make the needed improve-
+ments so FedRAMP can be codified in 
+law. 
+This bill is essential, and it will dem-
+onstrate a universal commitment to 
+FedRAMP and the accelerated adop-
+tion of secure cloud computing tech-
+nologies, a vital component of the 
+broader Federal IT modernization ef-
+fort. And we know it is needed after 
+the cyber hack, probably led by the 
+Russians, in the last few weeks. 
+The FedRAMP Authorization Act 
+would codify the program and address 
+many of the concerns raised by indus-
+try and government stakeholders. 
+First, the bill reduces duplication of 
+security assessments and other obsta-
+cles to agency adoption of cloud prod-
+ucts by establishing a presumption of 
+adequacy for cloud technologies that 
+have received FedRAMP certification. 
+This is important so that companies 
+are not spending millions of dollars 
+simply to get the same certification 
+over and over again. 
+b 1215 
+The bill would also facilitate agency 
+reuse of cloud technologies that have 
+already received an authorization-to- 
+operate by requiring agencies to check 
+a centralized and secure repository. 
+It requires that GSA work toward 
+automating their processes, which will 
+lead to more standard security. It will 
+establish a Federal secure cloud advi-
+sory committee to ensure dialogue 
+among GSA, agency cybersecurity and 
+procurement officials, and industry 
+representatives for effective and ongo-
+ing coordination. 
+Finally, it authorizes $20 million in 
+annual appropriations for the program, 
+providing sufficient resources to in-
+crease the number of secure cloud tech-
+nologies available and to allow free and 
+fair competition, especially for our 
+small and minority-owned businesses. 
+Mr. Speaker, I urge that the House 
+act on this first bill on the first day of 
+our legislative activity. Again, I thank 
+our 
+distinguished 
+chairwoman 
+for 
+being so generous in bringing this bill 
+up again. 
+Mr. PALMER. Mr. Speaker, I have no 
+further speakers. I am prepared to 
+close, and I yield myself the balance of 
+my time. 
+Mr. Speaker, protecting our public’s 
+valuable information by improving the 
+VerDate Sep 11 2014 
+02:27 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00005
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\K05JA7.004
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 4-
+CONGRESSIONAL RECORD — HOUSE
+H62 
+January 5, 2021 
+Federal 
+Government’s 
+cybersecurity 
+and 
+adopting 
+modern 
+technology 
+should be a top priority of Congress. 
+I look forward to working together 
+on issues like this that are in the best 
+interest of the Nation. I strongly urge 
+my colleagues to support this legisla-
+tion, and I yield back the balance of 
+my time. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I urge passage of 
+H.R. 21, and I yield back the balance of 
+my time. 
+The SPEAKER pro tempore. The 
+question is on the motion offered by 
+the gentlewoman from New York (Mrs. 
+CAROLYN B. MALONEY) that the House 
+suspend the rules and pass the bill, 
+H.R. 21. 
+The question was taken; and (two- 
+thirds being in the affirmative) the 
+rules were suspended and the bill was 
+passed. 
+A motion to reconsider was laid on 
+the table. 
+f 
+CONGRESSIONAL 
+BUDGET 
+JUS-
+TIFICATION TRANSPARENCY ACT 
+OF 2021 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I move to suspend 
+the rules and pass the bill (H.R. 22) to 
+amend the Federal Funding Account-
+ability and Transparency Act of 2006, 
+to require the budget justifications and 
+appropriation requests of agencies be 
+made publicly available. 
+The Clerk read the title of the bill. 
+The text of the bill is as follows: 
+H.R. 22 
+Be it enacted by the Senate and House of Rep-
+resentatives of the United States of America in 
+Congress assembled, 
+SECTION 1. SHORT TITLE. 
+This Act may be cited as the ‘‘Congres-
+sional Budget Justification Transparency 
+Act of 2021’’. 
+SEC. 2. PUBLIC AVAILABILITY OF BUDGET JUS-
+TIFICATIONS AND APPROPRIATION 
+REQUESTS. 
+(a) IN GENERAL.—Section 3 of the Federal 
+Funding Accountability and Transparency 
+Act of 2006 (Public Law 109–282; 31 U.S.C. 6101 
+note) is amended to read as follows: 
+‘‘SEC. 3. FULL DISCLOSURE OF FEDERAL FUNDS. 
+‘‘(a) IN GENERAL.—Not less frequently than 
+monthly when practicable, and in any event 
+not less frequently than quarterly, the Sec-
+retary (in consultation with the Director 
+and, with respect to information described in 
+subsection (b)(2), the head of the applicable 
+agency) shall ensure that updated informa-
+tion with respect to the information de-
+scribed in subsection (b) is posted on the 
+website established under section 2. 
+‘‘(b) INFORMATION TO BE POSTED.— 
+‘‘(1) FUNDS.—For any funds made available 
+to or expended by a Federal agency or com-
+ponent of a Federal agency, the information 
+to be posted shall include— 
+‘‘(A) for each appropriations account, in-
+cluding an expired or unexpired appropria-
+tions account, the amount— 
+‘‘(i) of budget authority appropriated; 
+‘‘(ii) that is obligated; 
+‘‘(iii) of unobligated balances; and 
+‘‘(iv) of any other budgetary resources; 
+‘‘(B) from which accounts and in what 
+amount— 
+‘‘(i) appropriations are obligated for each 
+program activity; and 
+‘‘(ii) outlays are made for each program ac-
+tivity; 
+‘‘(C) from which accounts and in what 
+amount— 
+‘‘(i) appropriations are obligated for each 
+object class; and 
+‘‘(ii) outlays are made for each object 
+class; and 
+‘‘(D) 
+for 
+each 
+program 
+activity, 
+the 
+amount— 
+‘‘(i) obligated for each object class; and 
+‘‘(ii) of outlays made for each object class. 
+‘‘(2) BUDGET JUSTIFICATIONS.— 
+‘‘(A) DEFINITION.—In this paragraph, the 
+term ‘budget justification materials’ means 
+the annual budget justification materials of 
+an agency that are submitted, in conjunction 
+with the budget of the United States Govern-
+ment submitted under section 1105(a) of title 
+31, United States Code, but does not include 
+budget justification materials that are clas-
+sified. 
+‘‘(B) INFORMATION.—The information to be 
+posted shall include any budget justification 
+materials— 
+‘‘(i) for the second fiscal year beginning 
+after the date of enactment of this para-
+graph, and each fiscal year thereafter; and 
+‘‘(ii) to the extent practicable, that were 
+released for any fiscal year before the date of 
+enactment of this paragraph. 
+‘‘(C) FORMAT.—Budget justification mate-
+rials shall be posted under subparagraph 
+(B)— 
+‘‘(i) as an open Government data asset (as 
+defined under section 3502 of title 44, United 
+States Code); 
+‘‘(ii) in a manner that enables users to 
+download individual reports, download all re-
+ports in bulk, and download in bulk the re-
+sults of a search, to the extent practicable; 
+and 
+‘‘(iii) in a structured data format, to the 
+extent practicable. 
+‘‘(D) DEADLINE.—The budget justification 
+materials required to be posted under sub-
+paragraph (B)(i) shall be posted not later 
+than 2 weeks after the date on which the 
+budget justification materials are first sub-
+mitted to Congress. 
+‘‘(E) RULE
+OF
+CONSTRUCTION.—Nothing in 
+this paragraph shall be construed to author-
+ize an agency to destroy any budget jus-
+tification materials relating to a fiscal year 
+before the fiscal year described in subpara-
+graph (B)(i).’’. 
+(b) INFORMATION REGARDING AGENCY BUDG-
+ET JUSTIFICATIONS.—Section 1105 of title 31, 
+United States Code, is amended by adding at 
+the end the following: 
+‘‘(i)(1) The Director of the Office of Man-
+agement and Budget shall make publicly 
+available on a website, and continuously up-
+date, a tabular list for each fiscal year of 
+each agency that submits budget justifica-
+tion materials, which shall include— 
+‘‘(A) the name of the agency; 
+‘‘(B) a unique identifier that identifies the 
+agency; 
+‘‘(C) to the extent practicable, the date on 
+which the budget justification materials of 
+the agency are first submitted to Congress; 
+‘‘(D) the date on which the budget jus-
+tification materials of the agency are posted 
+online under section 3 of the Federal Fund-
+ing Accountability and Transparency Act of 
+2006; 
+‘‘(E) the uniform resource locator where 
+the budget justification materials are pub-
+lished on the website of the agency; and 
+‘‘(F) a single data set that contains the in-
+formation described in subparagraphs (A) 
+through (E) with respect to the agency for 
+all fiscal years for which budget justifica-
+tions of the agency are made available under 
+section 3 of the Federal Funding Account-
+ability and Transparency Act of 2006 in a 
+structured data format. 
+‘‘(2)(A) Each agency that submits budget 
+justification materials shall make the mate-
+rials available on the website of the agency, 
+in accordance with the policies established 
+by the Director of the Office of Management 
+and Budget under subparagraph (B). 
+‘‘(B) The Director of the Office of Manage-
+ment and Budget, in consultation with the 
+Secretary of the Treasury, shall establish 
+policies for agencies relating to making 
+available materials under subparagraph (A), 
+which shall include guidelines for making 
+budget justification materials available in a 
+format aligned with the requirements of sec-
+tion 3(b)(2)(C) of the Federal Funding Ac-
+countability and Transparency Act of 2006 
+and using a uniform resource locator that is 
+in a consistent format across agencies and is 
+descriptive, memorable, and pronounceable, 
+such as the format of ‘agencyname.gov/budg-
+et’. 
+‘‘(C) If the Director of the Office of Man-
+agement and Budget maintains a public 
+website that contains the budget of the 
+United States Government submitted under 
+subsection (a) and any related materials, 
+such website shall also contain a link to the 
+tabular list required under paragraph (1). 
+‘‘(3) In this subsection, the term ‘budget 
+justification materials’ has the meaning 
+given that term in section 3 of the Federal 
+Funding Accountability and Transparency 
+Act of 2006.’’. 
+SEC. 3. DETERMINATION OF BUDGETARY EF-
+FECTS. 
+The budgetary effects of this Act, for the 
+purpose of complying with the Statutory 
+Pay-As-You-Go Act of 2010, shall be deter-
+mined by reference to the latest statement 
+titled ‘‘Budgetary Effects of PAYGO Legisla-
+tion’’ for this Act, submitted for printing in 
+the Congressional Record by the Chairman of 
+the House Budget Committee, provided that 
+such statement has been submitted prior to 
+the vote on passage. 
+The SPEAKER pro tempore. Pursu-
+ant to the rule, the gentlewoman from 
+New York (Mrs. CAROLYN B. MALONEY) 
+and the gentleman from Alabama (Mr. 
+PALMER) each will control 20 minutes. 
+The Chair recognizes the gentle-
+woman from New York. 
+GENERAL LEAVE 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I ask unanimous 
+consent that all Members may have 5 
+legislative days in which to revise and 
+extend their remarks and include ex-
+traneous material on the measure be-
+fore us. 
+The SPEAKER pro tempore. Is there 
+objection to the request of the gentle-
+woman from New York? 
+There was no objection. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I yield myself such 
+time as I may consume. 
+Mr. Speaker, the bill before us, the 
+Congressional 
+Budget 
+Justification 
+Transparency Act, is a commonsense, 
+good-government measure every Mem-
+ber should support. 
+It would require the congressional 
+budget justification documents that 
+agencies 
+prepare 
+for 
+congressional 
+committees to be posted online in a 
+centralized, searchable database. This 
+would make these detailed, plain-lan-
+guage explanations of how agencies 
+plan to spend taxpayer dollars more ac-
+cessible to the public. 
+I thank Representative MIKE QUIGLEY 
+for his work on this bill. He has a long 
+VerDate Sep 11 2014 
+02:27 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00006
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\K05JA7.006
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 5-
+CONGRESSIONAL RECORD — HOUSE
+H63 
+January 5, 2021 
+history as a strong advocate of trans-
+parency in the operations of the Fed-
+eral Government. 
+This bill builds on the work of the 
+committee 
+to 
+improve 
+government 
+transparency by allowing the public to 
+more easily learn how Federal agencies 
+spend their taxpayer dollars. 
+Mr. Speaker, I support this bill, and 
+I reserve the balance of my time. 
+Mr. PALMER. Mr. Speaker, I yield 
+myself such time as I may consume. 
+Mr. Speaker, I rise in support of H.R. 
+22, the Congressional Budget Justifica-
+tion Transparency Act. 
+The Congressional Budget Justifica-
+tion Transparency Act is a long-over-
+due reform that would ensure Congress 
+and the Nation’s taxpayers can under-
+stand the full scope and context of the 
+annual Federal budget. 
+I thank my colleagues, Congressman 
+MIKE
+QUIGLEY
+and Ranking Member 
+JAMES COMER, for working together on 
+this important bipartisan legislation. 
+Mr. Speaker, H.R. 22 will truly open 
+up the executive branch annual budget 
+request and provide needed trans-
+parency of each agency’s detailed budg-
+et justifications. The American public 
+and each of their congressional Rep-
+resentatives deserve full access to the 
+annual agency plans to spend their 
+hard-earned tax dollars. 
+This past year alone, the Federal 
+Government spent more than $6.5 tril-
+lion. Public spending transparency re-
+sources, like USAspending.gov, are cur-
+rently helping the public track ongoing 
+agency spending activity. However, the 
+annual congressional budget justifica-
+tions provide detailed and plain lan-
+guage explanations of how each Fed-
+eral agency plans to spend congres-
+sional appropriations. 
+Currently, these valuable budget doc-
+uments are sent directly to congres-
+sional appropriators and are then post-
+ed across hundreds of disconnected 
+agency web pages. This makes them ex-
+tremely hard to track down. 
+H.R. 22 simply requires the budget 
+justifications of every agency to be 
+made publicly available on a single 
+website. To do this, the bill requires 
+the Office of Management and Budget 
+to issue a full listing of agency budget 
+justifications and the individual agen-
+cy web pages where they are posted. 
+This will assure the public that they 
+have access to the complete publica-
+tion of these authoritative budget re-
+sources. 
+The bill also requires the U.S. Treas-
+ury Department to centrally publish 
+all the materials on USAspending.gov 
+as open data. 
+As established in 2014 by the DATA 
+Act, USAspending.gov is quickly be-
+coming the primary public resource for 
+the public to track how the govern-
+ment is using their tax dollars. Adding 
+congressional budget justifications to 
+USAspending.gov will provide even bet-
+ter context to agency spending activ-
+ity. 
+Thanks to another House Committee 
+on Oversight and Reform-produced law, 
+the 2018 Good Accounting Obligation in 
+Government Act, congressional budget 
+justifications 
+also 
+now 
+list 
+unimplemented inspector general audit 
+and 
+GAO 
+report 
+recommendations. 
+This means H.R. 22 will also help Con-
+gress and the public annually track 
+open 
+IG 
+and 
+GAO 
+oversight 
+rec-
+ommendations. 
+Mr. Speaker, I thank my colleague 
+from Illinois (Mr. QUIGLEY). I urge my 
+colleagues to support this legislation, 
+and I reserve the balance of my time. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I yield 3 minutes to 
+the 
+gentleman 
+from 
+Illinois 
+(Mr. 
+QUIGLEY). 
+Mr. QUIGLEY. Mr. Speaker, I proud-
+ly rise in support of my Congressional 
+Budget 
+Justification 
+Transparency 
+Act, H.R. 22. 
+The SPEAKER pro tempore. The gen-
+tleman will put on his mask. 
+Mr. QUIGLEY. Mr. Speaker, it is a 
+bipartisan bill that addresses the lack 
+of transparency around the documents 
+that explain why executive agencies 
+are requesting funds from Congress. 
+These justifications shed light on the 
+work and priorities of the Federal Gov-
+ernment far more effectively than 
+high-level spending figures. 
+Mr. Speaker, in 2018 and 2019, Con-
+gress encouraged OMB to publish all 
+executive branch congressional budget 
+justification materials on a centralized 
+web portal. However, there is no legal 
+requirement for congressional budget 
+justifications to be posted on a central-
+ized portal or on agency websites. 
+For these reasons, agencies are in-
+consistent in posting congressional 
+budget justifications online, making 
+them difficult to access because they 
+are either not publicly available or are 
+scattered across the internet. 
+Mr. Speaker, my bill will strengthen 
+Federal Government transparency by 
+requiring Federal agencies to publish 
+their annual budget justifications on-
+line in a central location. This will bet-
+ter allow oversight of our government 
+and allow the American people to 
+verify that their taxpayer dollars are 
+being used wisely to invest in their 
+communities. 
+All Illinoisans and Americans should 
+get the transparency they deserve on 
+government spending, and the bill does 
+just that. 
+Mr. Speaker, I recognize Chairwoman 
+MALONEY and Ranking Member COMER 
+for their unwavering support for this 
+bill and for prioritizing this legislation 
+early on in the 117th Congress. I thank 
+them again for their leadership. 
+Mr. Speaker, I urge my colleagues to 
+support this bipartisan bill. 
+Mr. PALMER. Mr. Speaker, I have no 
+further speakers, and I am prepared to 
+close. 
+Mr. Speaker, I yield myself such time 
+as I may consume. I strongly urge my 
+colleagues to support this common-
+sense transparency legislation, and I 
+yield back the balance of my time. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I yield 4 minutes to 
+the gentlewoman from Texas (Ms. 
+JACKSON LEE). 
+Ms. JACKSON LEE. Mr. Speaker, I 
+thank the chairwoman for her leader-
+ship and continued respect for the 
+oversight of this body. And I particu-
+larly thank the gentleman from Illi-
+nois and his cosponsors for this very 
+astute legislation. 
+I join with my bipartisan colleagues 
+to indicate that the transparency of 
+funding by way of the budget process is 
+absolutely crucial to be able to be 
+guided by what is right, as well, to en-
+sure that we, the Congress, have a 
+knowledge of the importance of the 
+funding process, the importance of the 
+programs that are used for taxpayer 
+dollars. 
+Mr. Speaker, let me just take a mi-
+crocosm of what I believe will be an 
+important aspect of this. Why don’t I 
+take COVID–19 as an example? 
+Mr. Speaker, I believe that we have 
+been hearing from all over the Nation 
+that the Federal Government needs to 
+be in charge. The agency that I think 
+would be most effective as a national 
+coordinator of vaccine transport and 
+delivery is FEMA. 
+For safe and effective supply chain 
+transport, delivery, and site use of vac-
+cines, FEMA has the ability to tell 
+other agencies what to do or to be able 
+to be part of the success of the dis-
+tribution of these vaccines. They have 
+broad stakeholder engagement. FEMA 
+has personnel all over the Nation, and 
+they are not in the business of picking 
+business winners or losers. And imple-
+menting CDC COVID–19 vaccine rec-
+ommendations, they know how to do 
+that. 
+Mr. Speaker, I say thank you to all 
+the private-sector volunteers, all the 
+pharmacies located in grocery stores 
+and well-known chains, but that is not 
+working. It is not going to work. 
+This particular legislation would let 
+us know the budget plan of an agency, 
+like FEMA, which really looms large in 
+our lives because whether you have ex-
+perienced a fire in California, or wheth-
+er or not you have experienced Hurri-
+cane Harvey in Texas, or whether or 
+not you have experienced tornadoes, 
+FEMA has been on the ground. They 
+know how to put large efforts together. 
+They can lead the effort for vaccine de-
+livery so that we don’t have these 
+kinds of episodes. 
+‘‘One American dies from COVID–19 
+every 33 seconds.’’ Mr. Speaker, I in-
+clude in the RECORD an article. 
+[From CNN, Jan. 5, 2021] 
+ONE AMERICAN DIES FROM COVID–19 EVERY 33 
+SECONDS
+AS
+THE
+VACCINE
+ROLLOUT
+HITS 
+SNAGS 
+(By Holly Yan and Madeline Holcombe) 
+While hopes of vaccinating 20 million peo-
+ple by New Year’s Day sputtered out, the US 
+now faces staggering new challenges in the 
+fight against Covid–19. 
+Over the past week, the US has averaged 
+2,637 coronavirus deaths every day, according 
+to Johns Hopkins University. 
+That’s an average of one Covid–19 death 
+every 33 seconds. 
+December was the deadliest month yet of 
+this pandemic, with 77,572 lives lost. And 
+VerDate Sep 11 2014 
+02:27 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00007
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\K05JA7.008
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 6-
+CONGRESSIONAL RECORD — HOUSE
+H64 
+January 5, 2021 
+deaths are likely to accelerate as new infec-
+tions and hospitalizations rise. 
+On Monday, more people were hospitalized 
+with Covid–19 than any other day in this 
+pandemic—128,210, according to the Covid 
+Tracking Project. 
+The US averaged 213,437 new infections 
+every day over the past week, largely fueled 
+by holiday gatherings, health experts say. 
+But while daily new infections soared 16% 
+over the past week, testing has actually de-
+creased 11.65% over the past week, according 
+to the Covid Tracking Project. 
+Doctors worry this rampant spread of 
+Covid–19 will push more hospitals beyond ca-
+pacity and lead to more deaths as the vac-
+cine rollout staggers along. 
+THE POSSIBILITY OF GIVING HALF-DOSES OF A 
+VACCINE 
+About 15.4 million vaccine doses have been 
+distributed in the US, but only 4.5 million 
+people have received their first doses, the US 
+Centers for Disease Control and Prevention 
+said Monday. 
+That’s far behind what officials had hoped 
+for by now. And it means herd immunity is 
+still many months away. 
+‘‘We agree that there is a lag. We’ll work 
+with the states,’’ said Moncef Slaoui, chief 
+scientific adviser of the federal Operation 
+Warp Speed vaccination effort. 
+To help expedite vaccinations, the US 
+might start giving half-doses of Moderna’s 
+Covid–19 vaccine to people age 18 to 55, which 
+could make the vaccine available to twice as 
+many people in that age group, Slaoui said. 
+Slaoui said Sunday the US Food and Drug 
+Administration would meet this week to 
+consider the idea. 
+But the FDA commissioner and its vaccine 
+division chief said in a joint statement that 
+people need to get two full doses instead of 
+two half-doses. 
+‘‘At this time, suggesting changes to the 
+FDA-authorized dosing or schedules of these 
+vaccines is premature and not rooted solidly 
+in the available evidence,’’ said FDA Com-
+missioner Dr. Stephen Hahn and Dr. Peter 
+Marks, who heads the agency’s vaccine divi-
+sion. ‘‘Without appropriate data supporting 
+such changes in vaccine administration, we 
+run a significant risk of placing public 
+health at risk, undermining the historic vac-
+cination efforts to protect the population 
+from Covid–19.’’ 
+It’s understandable that people may want 
+to stretch the vaccine supply, they said. But 
+it’s not advisable. 
+‘‘If people do not truly know how protec-
+tive a vaccine is, there is the potential for 
+harm because they may assume that they 
+are fully protected when they are not, and 
+accordingly, alter their behavior to take un-
+necessary risks,’’ they said. 
+The two 100-microgram Moderna vaccine 
+doses are intended to be spaced 28 days 
+apart. 
+CNN has reached out to Moderna for com-
+ment. 
+Dr. Jonathan Reiner, a professor of medi-
+cine at George Washington University, said 
+he does not agree with the idea of half-doses. 
+‘‘We have about 13 million doses that have 
+been shipped out to the states, and only 
+barely 4 million doses that have gone into 
+arms. So the bottleneck is not the lack of 
+availability of vaccine. The bottleneck is ac-
+tually the logistics of vaccinating people in 
+this country.’’ 
+It’s difficult enough to get some patients 
+on board with getting a vaccine, he said. 
+Going against the recommended dosing could 
+hurt patients’ confidence. 
+‘‘When I see people in clinic, I talk about 
+the vaccine every single day. I’m trying to 
+reduce vaccine hesitancy,’’ Reiner said Mon-
+day. 
+‘‘And the strongest weapon I have is the 
+data. I can tell people that these two vac-
+cines have been studied in 70,000 people— 
+more than 70,000 people—in this two-dose 
+strategy. And when given that way, they’re 
+both 95% effective, and basically no one gets 
+critically ill if you get this vaccine. . . . 
+Once you break from the data, I can no 
+longer say that.’’ 
+STUDY SAYS HOLDING BACK FEWER DOSES 
+COULD CUT CASES BY 29% 
+Right now, the federal government is allo-
+cating about half of the vaccines being pro-
+duced. The other half is held in reserve to be 
+used as a second dose or as replacements in 
+cases where doses are unusable. 
+But by reducing the amount withheld to 
+10% for the first three weeks and supplying a 
+steady dose of 6 million doses per week, the 
+US could avoid up to 29% more coronavirus 
+cases over eight weeks, a study published in 
+the Annals of Internal Medicine found. 
+‘‘We find that under most plausible sce-
+narios, a more balanced approach that with-
+holds fewer doses during early distribution 
+in order to vaccinate more people as soon as 
+possible could substantially increase the 
+benefits of vaccines, while enabling most re-
+cipients to receive second doses on sched-
+ule,’’ write the study’s authors, who were 
+supported by the Canadian Institutes for 
+Health Research and the Centers for Disease 
+Control and Prevention. 
+The researchers modeled several scenarios, 
+with variables including vaccine supply, pro-
+tection provided by the first dose, and wan-
+ing efficacy of a first dose if a second dose is 
+delayed. 
+AN EMERGENCY DEPARTMENT EMPLOYEE DIES 
+OF COVID–19 
+In California, health care workers are 
+treating an unprecedented number of Covid– 
+19 patients. Sometimes, those patients are 
+colleagues. 
+At Kaiser Permanente San Jose Medical 
+Center, 44 emergency department employees 
+tested positive for Covid–19 between Decem-
+ber 27 and January 1, said Irene Chavez, sen-
+ior vice president and area manager. 
+On Monday, the hospital said one employee 
+who was working on Christmas has died of 
+Covid–19. 
+‘‘Our thoughts and prayers are with those 
+affected by this terrible loss,’’ the hospital 
+said in a statement. ‘‘We are providing sup-
+port to our employees during this difficult 
+time,’’ according to a statement from the 
+hospital. 
+Over the weekend, Chavez said the medical 
+center is investigating whether an inflatable, 
+air-powered costume may have played a role 
+in the spread. 
+‘‘A staff member did appear briefly in the 
+emergency department on December 25th 
+wearing an air-powered costume,’’ she said. 
+‘‘Any exposure, if it occurred, would have 
+been completely innocent, and quite acci-
+dental, as the individual had no Covid symp-
+toms and only sought to lift the spirits of 
+those around them during what is a very 
+stressful time.’’ 
+Chavez said air-powered costumes will no 
+longer be allowed at the facility. 
+‘‘If anything, this should serve as a very 
+real reminder that the virus is widespread, 
+and often without symptoms, and we must 
+all be vigilant,’’ she said. 
+‘A ROUGH START TO 2021’ 
+On Sunday, five states reported their high-
+est number of new infections ever in one 
+day—Arizona, New Hampshire, Oklahoma, 
+South Carolina and Washington. 
+And over the past week, at least five states 
+have average test positivity rates higher 
+than 40%—meaning more than 40% of people 
+who take a Covid–19 test get a positive re-
+sult. 
+Those states include Idaho (57%), Alabama 
+(46.7%), Iowa (44.6%), Pennsylvania (44%) and 
+South Dakota (43.8%). For perspective, the 
+WHO has recommended governments not re-
+open until the test positivity rates stays at 
+or below 5% for 14 days. 
+In South Carolina, which had a 29.6% test 
+positivity rate Sunday, officials in four 
+counties said their hospitals were at 100% ca-
+pacity, according to the South Carolina De-
+partment of Health and Environmental Con-
+trol. 
+‘‘We’re in for a bit of a rough start to 
+2021,’’ said Maria Van Kerkhove, the World 
+Health Organization’s technical lead for 
+Covid–19 response. 
+But it’s possible daily life in the US could 
+be closer to normal by the summer or fall, 
+she said. Other countries are already well on 
+their way—thanks to quarantining, testing, 
+isolation and contact tracing. 
+‘‘We’ve seen countries bring this virus to 
+its 
+knees, 
+without 
+vaccination,’’ 
+Van 
+Kerkhove said. ‘‘We have the tools at hand 
+right now to actually bring this virus under 
+control.’’ 
+Ms. JACKSON LEE. The city of 
+Houston has done a phenomenal job by 
+trying to open up these centers, but 
+guess what? They are looking for their 
+next delivery. We should not be looking 
+for the next delivery. The delivery 
+should be organized, logistically. It 
+should be stored on the ground. 
+‘‘Houston, have you finished your 
+utilization? Are you ready for your 
+next?’’ 
+‘‘L.A., have you finished your utiliza-
+tion? Are you ready for your next?’’ 
+That is not happening. 
+‘‘COVID vaccine rollout is going 
+about as well as you’d feared.’’ Mr. 
+Speaker, I include in the RECORD that 
+article, along with an article regarding 
+the opening of Houston’s first public 
+COVID–19 vaccine location. 
+COVID VACCINE ROLLOUT IS GOING ABOUT AS 
+WELL AS YOU’D FEARED 
+Texans are beginning the new year the 
+same way we spent much of the last one: 
+straggling through a devastating pandemic 
+with a patchy public health infrastructure, a 
+confusing mishmash of rules and procedures, 
+and an ominous absence of effective state-
+wide leadership. 
+We have a COVID–19 vaccine now: that’s 
+the good news. Two of them, actually, one by 
+Pfizer and the other by Moderna, both devel-
+oped as part of the federal Operation Warp 
+Speed and approved by the Federal Drug Ad-
+ministration for emergency use last month. 
+We knew that distributing hundreds of mil-
+lions of vaccines would be a challenge. Each 
+requires two doses and careful handling—in-
+cluding ultra-cold storage for the Pfizer vac-
+cine. Each is being distributed to a popu-
+lation that includes potential recipients 
+skeptical of vaccines in general, and the 
+COVID vaccine in particular. 
+But we had several months to figure this 
+out. And it’s quickly become painfully clear 
+that we didn’t. 
+In Phase 1A of the plan put forward by the 
+Texas Department of State Health Services, 
+the first doses of the vaccine were distrib-
+uted to front-line health care workers and 
+residents of long-term care facilities, begin-
+ning last month. On Tuesday, the state an-
+nounced that vaccine providers could begin 
+immunizing Texans in group 1B—those over 
+age 65 and those with pre-existing condi-
+tions. 
+VerDate Sep 11 2014 
+03:51 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00008
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\A05JA7.005
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 7-
+CONGRESSIONAL RECORD — HOUSE
+H65 
+January 5, 2021 
+The experiences of Texans in that group 
+gives you the impression that we’ve re-
+sponded to an ongoing crisis with a mad-
+dening, high-stakes scavenger hunt. In Har-
+ris County, for example, there are dozens of 
+providers that have partnered with the state 
+to distribute vaccines, but making an ap-
+pointment at any of them seems to require 
+persistence, endless phone calls, and a hefty 
+dose of luck. 
+Overall, the distribution process has been 
+inefficient and confusing. As of Dec. 31, ac-
+cording to DSHS, some 283,000 people across 
+Texas—roughly 45,000 in Harris County—had 
+received the first dose of the vaccine. That’s 
+of the 773,000 doses the state had shipped to 
+various providers, up to that point. 
+And it’s a worrisomely low figure, accord-
+ing to public health professionals, given that 
+we’ll need to vaccinate up to 80 percent of 
+the population to achieve the herd immunity 
+that will allow normal life to resume. Dr. 
+Peter Hotez, professor and dean of the Na-
+tional School of Tropical Medicine at Baylor 
+College of Medicine, has pointed to the 
+straightforward back-of-the-envelope math: 
+with roughly 30 million people in Texas, we 
+should be aiming for a million immuniza-
+tions a week to achieve herd immunity by 
+mid-year. 
+Last week, as these difficulties began com-
+ing to light, Gov. Greg Abbott pointed the 
+finger at the state’s hospitals and other vac-
+cine providers. 
+‘‘A significant portion of vaccines distrib-
+uted across Texas might be sitting on hos-
+pital shelves as opposed to being given to 
+vulnerable Texans,’’ Abbott said on Twitter. 
+‘‘The state urges vaccine providers to 
+quickly provide all shots,’’ he continued. 
+‘‘We get plenty more each week.’’ 
+In the Houston area, at least, providers say 
+they’re doing just that. And Texans are hav-
+ing unpleasant memories of the early days of 
+the pandemic, when state leaders such as Ab-
+bott took a largely hands-off approach to the 
+public health response—intervening only 
+when local leaders in cities such as Houston 
+and Austin crossed what he deemed to be a 
+red line. 
+‘‘Here we are, once again, hoping that pri-
+vate companies will figure out a decent vac-
+cine distribution system since the State of 
+Texas sure hasn’t,’’ said state Rep. Erin 
+Zwiener, a Democrat, on Twitter. ‘‘But that 
+means it will be disparate and confusing and 
+hard for our constituents to navigate.’’ 
+These issues aren’t unique to Texas. Even 
+states with relatively robust public health 
+systems have seen what Massachusetts Gov. 
+Charlie Baker described this week as a 
+‘‘lumpy and bumpy’’ rollout. 
+An exasperated U.S. Sen. Mitt Romney of 
+Utah vented in a statement on New Year’s 
+Day. 
+‘‘That comprehensive vaccination plans 
+have not been developed at the federal level 
+and sent to the states as models is as incom-
+prehensible as it is inexcusable,’’ Romney 
+said. 
+‘‘It was unrealistic to assume that the 
+health care workers already overburdened 
+with COVID care could take on a massive 
+vaccination program,’’ he continued. ‘‘So too 
+is the claim that CVS and Walgreens will 
+save the day: they don’t have excess per-
+sonnel available to inoculate millions of 
+Americans. Nor are they equipped to deal 
+with the rare but serious reactions which 
+may occur.’’ 
+The distribution of COVID vaccines is, 
+without question, a matter of urgency. We 
+begin the new year with more than 12,000 
+Texans hospitalized due to the virus, and 
+public health experts fretting about the im-
+pact of holiday gatherings and travel on 
+those statistics—as well as reports that 
+cases of a more transmissible variant of the 
+virus have been confirmed in the United 
+States. 
+The state’s plan to rely on public/private 
+partnerships to distribute the vaccine may 
+be sensible, given Texas’s extant public 
+health infrastructure. But, at the minimum, 
+we need better communication from state 
+leaders about how Texans who are eligible 
+for the vaccine can access it—not finger- 
+pointing and politics. 
+HOUSTON’S FIRST PUBLIC COVID–19 VACCINE 
+LOCATION OFFICIALLY OPENS 
+HOUSTON.—On Saturday, Houston’s first 
+public COVID–19 vaccine location opened on 
+the city’s Southside. City and state leaders 
+believe this could be one of the first public 
+Coronavirus vaccine locations to open in the 
+country. ‘‘Houston may be the very first city 
+of this size to setup a massive distribution of 
+vaccines,’’ said Congresswoman Sheila Jack-
+son Lee. ‘‘I believe that deserves an ap-
+plause.’’ 
+The site, located off Knight Road in South 
+Houston, had a long line of cars surrounding 
+the parking lot early Saturday morning. 
+‘‘The goal will be to get these vaccines out 
+as quickly as we get them’’ said Houston 
+Mayor Sylvester Turner. 
+The free Coronavirus shots were originally 
+planned to be given to people who made ap-
+pointments over the phone. However, the 
+Houston Health Department quickly had to 
+change their plan after being overwhelmed 
+with calls. 
+Within an hour of opening their call cen-
+ter, 
+the 
+Houston 
+Health 
+Department 
+tweeted, ‘‘The volume of calls to our COVID– 
+19 call center overwhelmed the system and 
+it’s currently experiencing technical issues 
+. . .’’ 
+‘‘Call-in centers across the board received 
+about 250,000 calls today,’’ said Mayor Tur-
+ner. ‘‘The system was literally overwhelmed, 
+so we went to Plan B. Plan B was on-site reg-
+istration.’’ 
+‘‘Seven out of 10 people who die from 
+COVID are 65 years and older,’’ said Houston 
+Health Department Director Stephen Wil-
+liams. ‘‘If you look in line, we’re actually 
+seeing those folks, and I’m grateful for 
+that.’’ 
+Texas recently started Phase 1B of the 
+state’s COVID–19 vaccine distribution plan. 
+Now, front-line medical works, people at 
+least 65 years-old, or adults with chronic 
+health issues can get vaccinated. 
+‘‘Even though there’s a lot of vaccine hesi-
+tancy, there’s still a strong desire from peo-
+ple to get the vaccine,’’ said Mayor Turner. 
+According to Mayor Turner, he hopes to 
+have the City of Houston open a mass dis-
+tribution location for Coronavirus shots by 
+the end of the week. 
+‘‘The New York Mayor announced that 
+they were going to try to do 1-million vac-
+cines in the month of January,’’ said Mayor 
+Turner. ‘‘I think we can do the same thing in 
+the month of January. I’d like to do even 
+more than that.’’ 
+Ms. JACKSON LEE. Mr. Speaker, 
+FDA 
+is 
+considering 
+to 
+halve 
+the 
+amount of vaccines going to Ameri-
+cans. This haphazard way will not 
+work. And the budget bill that is before 
+us gives Congress the insight into how 
+agencies plan their work. 
+So, is FEMA well-funded to take care 
+of a pandemic? Were they funded the 
+way they should have been in case a 
+pandemic came and they were the right 
+agency to do it? 
+Please remember, when we were flag-
+ging around and flustering around at 
+the beginning of COVID–19, the PPE 
+had to be taken over by FEMA. 
+That is what happened. We were 
+struggling. People were fighting over 
+PPE. Governors were out on the mar-
+ket. They were making negotiations 
+individually with China while their 
+health professionals were dying or 
+reusing masks or reusing PPE. FEMA 
+came in and did it. 
+Mr. Speaker, I will be discussing this 
+even further, but I support this legisla-
+tion because it gives Members of Con-
+gress the ability to know budget and 
+appropriations so that if a pandemic 
+comes, what agency can handle it? 
+FEMA, because it has the funding. 
+Mr. Speaker, I ask my colleagues to 
+support the underlying legislation, and 
+I look forward to this further discus-
+sion. 
+Mr. Speaker, I rise to speak in support of 
+H.R. 22, the Congressional Budget Justifica-
+tion Transparency Act, which requires con-
+gressional budget justifications to be posted 
+online in a centralized, searchable database, 
+as well as on a Federal agency’s websites. 
+The bill also would require the Office of 
+Management and Budget to maintain and reg-
+ularly update a public list of agencies ex-
+pected to submit congressional budget jus-
+tifications, the date they are submitted to Con-
+gress, and when they are posted online. 
+This bill is identical to one that passed the 
+House under suspension in the last Congress. 
+As a member of the Budget Committee, I 
+applaud this progovernment budget trans-
+parency legislation because it will make sure 
+that the people we represent know and under-
+stand how each agency is spending taxpayer 
+dollars. 
+Budget transparency is important during or-
+dinary time but is much more important during 
+extraordinary times like a global pandemic. 
+I am particularly focused on federal pan-
+demic response that FEMA is engaged in as 
+it relates to the COVID–19 Pandemic. 
+Since the beginning of the pandemic, I have 
+worked on community access to testing and 
+through this effort have opened over 40 test-
+ing centers in and around Houston, Texas. 
+Now that there are vaccines it is time to 
+pivot to vaccinations. 
+For this reason, I will be introducing a new 
+bill that will address vaccine delivery to every 
+community across the nation. 
+Making FEMA the lead agency is the first 
+step, the next important is making sure the 
+American people have access to information 
+on how the agency is accomplishing the task 
+and at what cost. 
+My bill would establish: FEMA as the Na-
+tional Coordinator of vaccine transport and de-
+livery; Safe and effective supply chain trans-
+port, delivery, and site use of vaccines; Broad 
+Stakeholder Engagement; No picking business 
+winners or losers; and Implementing CDC 
+COVID–19 Vaccine Recommendations. 
+FEMA will be empowered to: 
+Lead the effort for vaccine delivery from the 
+receipt from manufacturing facilities to delivery 
+to designated inoculation sites (hospital, clinic, 
+doctors’ offices, schools, places of worship, 
+community centers, parks, or neighborhood 
+gathering locations, etc.) 
+Develop and deploy a fully staffed and 
+resourced 24–7 advanced real-time tracking 
+system that allows FEMA to monitor ship-
+ments of vaccine units that can provide end- 
+to-end transparency on the temperature, real- 
+VerDate Sep 11 2014 
+04:25 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00009
+Fmt 0636
+Sfmt 9920
+E:\CR\FM\A05JA7.008
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 8-
+CONGRESSIONAL RECORD — HOUSE
+H66 
+January 5, 2021 
+time location, origin, and destination data, an-
+ticipated time of arrival, and update recipients 
+on the progress of their delivery and report on 
+changes that may impact expected delivery or 
+the viability of the vaccine while in transit; 
+Provide an advanced communication sys-
+tem that allows public health departments to 
+communicate their vaccine readiness, their ca-
+pability of receiving vaccines, delivery loca-
+tions, details of facility capability of storing, se-
+curing, personnel authorized to receive deliv-
+eries, logistics for delivering vaccines to pa-
+tients, report on vaccine receipts, condition of 
+vaccines, patient reactions, and feedback on 
+how to improve the process; 
+Design custom Apps for use by public 
+health agencies, doctors’ offices, etc. to be 
+provided to patients to communicate informa-
+tion on the vaccine being received and the 
+date and location of a second dose if required. 
+The App should generate a token that cor-
+responds to their vaccination record to ensure 
+that the right vaccine is administered should a 
+second inoculation be required and to ensure 
+that a person is not vaccinated with different 
+vaccines, additional information such as vac-
+cine effectiveness period may be addressed 
+as more is learned about this; 
+Secure transportation for delivery or use of 
+vaccines, and, when requested, security for 
+the vaccine delivery sites or inoculation loca-
+tions to ensure the life and safety of personnel 
+and patients who seek to provide or receive 
+vaccinations are free of interference or threat; 
+Provide public education and patient en-
+gagement through the provision of inoculations 
+of persons in areas and locations where vul-
+nerable populations are under performing in 
+getting vaccinations; 
+Waive authority of the states to share vac-
+cination data with HHS; 
+Provide HHS with the capacity to manage 
+the inoculations data on persons and tracking 
+the second vaccination to ensure full immunity 
+and to determine when enough vaccinations 
+have been administered to unique persons to 
+achieve herd immunity. HHS shall protect Vac-
+cination Data as HIPAA protected data, and 
+under the Privacy Act, which shall not allow a 
+waiver of any provision of that law; and the 
+Freedom of Information Act shall not apply to 
+the records maintained. 
+Provide civil fines of up to $10,000 per vio-
+lation, per instance; and criminal penalties of 
+5 years in prison for violation of this section; 
+or for the use of the information outside the 
+specific purpose of the data collection, which 
+is to assure full inoculation of individuals; and 
+determination of local, state and national herd 
+immunity goals being achieved. Include a data 
+retention limitation—all records shall be de-
+stroyed after 5 years—Sunset this provision 
+after 5 years. 
+Provide an ombudsman to support: public 
+(tribal, territorial, state, and local government); 
+stakeholder input on the work being done; pro-
+vide advocacy and advice for those who elect 
+not to be vaccinated; and champion the pri-
+vacy, civil liberty rights on behalf of the Amer-
+ican people. 
+Waive state laws regarding management of 
+inoculation data; 
+Provide HHS with the capacity as evidenced 
+by the agency’s prior experience in managing 
+healthcare.gov, to manage the inoculations 
+data on persons; for the purpose of tracking 
+the second vaccination to ensure full immunity 
+and the management of national inoculation 
+goals. The protection of inoculation medical in-
+formation is provided by the: Federal HIPAA 
+medical information privacy law; the Privacy 
+Act and eliminate access to that information 
+through the Freedom of Information Act; and 
+providing for civil and criminal penalties for ac-
+cess or use of the information outside the spe-
+cific purposes of the collection, which are to 
+ensure inoculations; and determination of 
+progress in herd immunity goals. Patient In-
+oculation Data retention limitation—all medical 
+records on inoculation of persons under this 
+title shall be destroyed after 5 years—Sunset 
+this provision after 5 years. 
+Keep oversight Committees in the House 
+and Senate, and the American people in-
+formed through daily and weekly reporting re-
+quirements comprising data the CDC deter-
+mines to be relevant and have public benefit 
+in measuring and reporting on inoculation sta-
+tistics; 
+Establish a stakeholder advisory board to 
+support the collaboration and cooperation of 
+participants that shall include representatives 
+from, federal, state, and local governments, 
+businesses, 
+colleges, 
+universities, 
+K–12 
+schools, hospitals, clinics, professional med-
+ical associations. Others as deemed essential 
+to the success of a national vaccination pro-
+gram. 
+Lead government collaboration with Stake-
+holders in establishing vaccine inoculation 
+centers in locations that shall include: Sta-
+diums; Arenas; K–12 schools; Colleges and 
+Universities; Places of Worship; and Other lo-
+cations determined to be conducive to reach-
+ing the greatest number of person who are in 
+need of inoculations. 
+EMPOWERING FEMA 
+FEMA will be empowered to engage all 
+stakeholders and marshals the resources of 
+the federal government where needed to ac-
+complish the objectives. 
+FEMA employs about 20,000 people nation-
+wide who are stationed in 10 regional offices 
+and the Washington DC headquarters. 
+FEMA has the authority during times of 
+emergency to leverage its tremendous capac-
+ity to coordinate within the federal govern-
+ment, pull federal agency personnel from 
+agencies throughout the federal government to 
+make sure America is equipped and prepared 
+to respond to disasters. 
+I ask that my Colleagues join me in support 
+of H.R. 22, and greater accountability to the 
+American public on what the federal govern-
+ment is doing and the budget justification that 
+supports expenditures. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I urge passage of 
+H.R. 22, and I yield back the balance of 
+my time. 
+The SPEAKER pro tempore. The 
+question is on the motion offered by 
+the gentlewoman from New York (Mrs. 
+CAROLYN B. MALONEY) that the House 
+suspend the rules and pass the bill, 
+H.R. 22. 
+The question was taken. 
+The SPEAKER pro tempore. In the 
+opinion of the Chair, two-thirds being 
+in the affirmative, the ayes have it. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, on that I demand 
+the yeas and nays. 
+The SPEAKER pro tempore. Pursu-
+ant to section 3(s) of House Resolution 
+8, the yeas and nays are ordered. 
+Pursuant to clause 8 of rule XX, fur-
+ther proceedings on this motion will be 
+postponed. 
+f 
+b 1230 
+INSPECTOR GENERAL PROTECTION 
+ACT 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I move to suspend 
+the rules and pass the bill (H.R. 23) to 
+require congressional notification for 
+certain changes in status of inspectors 
+general, and for other purposes. 
+The Clerk read the title of the bill. 
+The text of the bill is as follows: 
+H.R. 23 
+Be it enacted by the Senate and House of Rep-
+resentatives of the United States of America in 
+Congress assembled, 
+SECTION 1. SHORT TITLE. 
+This Act may be cited as the ‘‘Inspector 
+General Protection Act’’. 
+SEC. 
+2. 
+CONGRESSIONAL 
+NOTIFICATION 
+OF 
+CHANGE IN STATUS OF INSPECTOR 
+GENERAL. 
+(a) CHANGE IN STATUS OF INSPECTOR GEN-
+ERAL OF OFFICES.—Section 3(b) of the Inspec-
+tor General Act of 1978 (5 U.S.C. App.) is 
+amended— 
+(1) by inserting ‘‘, is placed on paid or un-
+paid non-duty status,’’ after ‘‘is removed 
+from office’’; 
+(2) by inserting ‘‘, change in status,’’ after 
+‘‘any such removal’’; and 
+(3) by inserting ‘‘, change in status,’’ after 
+‘‘before the removal’’. 
+(b) CHANGE IN STATUS OF INSPECTOR GEN-
+ERAL
+OF
+DESIGNATED
+FEDERAL
+ENTITIES.— 
+Section 8G(e)(2) of the Inspector General Act 
+of 1978 (5 U.S.C. App.) is amended— 
+(1) by inserting ‘‘, is placed on paid or un-
+paid non-duty status,’’ after ‘‘office’’; 
+(2) by inserting ‘‘, change in status,’’ after 
+‘‘any such removal’’; and 
+(3) by inserting ‘‘, change in status,’’ after 
+‘‘before the removal’’. 
+(c) EFFECTIVE
+DATE.—The amendments 
+made by this section shall take effect 30 days 
+after the date of the enactment of this Act. 
+SEC. 3. PRESIDENTIAL EXPLANATION OF FAIL-
+URE TO NOMINATE AN INSPECTOR 
+GENERAL. 
+(a) IN GENERAL.—Subchapter III of chapter 
+33 of title 5, United States Code, is amended 
+by inserting after section 3349d the following 
+new section: 
+‘‘§ 3349e. Presidential explanation of failure 
+to nominate an Inspector General 
+‘‘If the President fails to make a formal 
+nomination for a vacant Inspector General 
+position that requires a formal nomination 
+by the President to be filled within the pe-
+riod beginning on the date on which the va-
+cancy occurred and ending on the day that is 
+210 days after that date, the President shall 
+communicate, within 30 days after the end of 
+such period, to Congress in writing— 
+‘‘(1) the reasons why the President has not 
+yet made a formal nomination; and 
+‘‘(2) a target date for making a formal 
+nomination.’’. 
+(b) CLERICAL
+AMENDMENT.—The table of 
+sections for chapter 33 of title 5, United 
+States Code, is amended by inserting after 
+the item relating to 3349d the following new 
+item: 
+‘‘3349e. Presidential explanation of failure to 
+nominate an Inspector Gen-
+eral.’’. 
+(c) 
+EFFECTIVE
+DATE.—The 
+amendment 
+made by subsection (a) shall take effect on 
+the date of the enactment of this Act and 
+VerDate Sep 11 2014 
+04:25 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00010
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\A05JA7.014
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 9-
+CONGRESSIONAL RECORD — HOUSE
+H67 
+January 5, 2021 
+shall apply to any vacancy first occurring on 
+or after that date. 
+SEC. 4. DETERMINATION OF BUDGETARY EF-
+FECTS. 
+The budgetary effects of this Act, for the 
+purpose of complying with the Statutory 
+Pay-As-You-Go Act of 2010, shall be deter-
+mined by reference to the latest statement 
+titled ‘‘Budgetary Effects of PAYGO Legisla-
+tion’’ for this Act, submitted for printing in 
+the Congressional Record by the Chairman of 
+the House Budget Committee, provided that 
+such statement has been submitted prior to 
+the vote on passage. 
+The SPEAKER pro tempore. Pursu-
+ant to the rule, the gentlewoman from 
+New York (Mrs. CAROLYN B. MALONEY) 
+and the gentleman from Alabama (Mr. 
+PALMER) each will control 20 minutes. 
+The Chair recognizes the gentle-
+woman from New York. 
+GENERAL LEAVE 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I ask unanimous 
+consent that all Members may have 5 
+legislative days in which to revise and 
+extend their remarks and include ex-
+traneous material on the measure be-
+fore us. 
+The SPEAKER pro tempore. Is there 
+objection to the request of the gentle-
+woman from New York? 
+There was no objection. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I yield myself such 
+time as I may consume. 
+Mr. Speaker, the Inspector General 
+Protection Act was introduced by Rep-
+resentatives TED LIEU and JODY HICE. 
+An identical measure passed the House 
+in the last Congress. 
+I am proud to support this bipartisan 
+measure, which would improve the 
+independence of inspectors general. 
+The bill would also address the disturb-
+ingly slow nomination of IGs that has 
+been the norm across multiple admin-
+istrations. 
+The bill would require notification of 
+Congress 30 days prior to an IG being 
+placed on leave. Such notification is al-
+ready required prior to an IG being re-
+moved from duty. 
+The bill also would require the Presi-
+dent to report to Congress if he has not 
+nominated an IG after 210 days of a va-
+cancy occurring. This report must in-
+clude the reasons for failing to make 
+the nomination and a target date for 
+doing so. The requirement will hope-
+fully prod the executive branch to 
+nominate IGs in a more timely man-
+ner. 
+IGs provide critical oversight and ac-
+countability within Federal agencies, 
+and the positions need to be filled more 
+quickly than is currently the case. 
+I urge Members to support this bipar-
+tisan bill, and I reserve the balance of 
+my time. 
+Mr. PALMER. Mr. Speaker, I yield 
+myself such time as I may consume. 
+Mr. Speaker, I rise in support of H.R. 
+23, the Inspector General Protection 
+Act. I want to thank Representatives 
+TED LIEU and JODY HICE for working 
+together on this legislation. 
+H.R. 23 will help Congress track Fed-
+eral agency inspectors general vacan-
+cies and make sure they are filled by 
+the President in a timely manner. 
+Inspectors general help combat Fed-
+eral fraud, waste, and abuse and im-
+prove the operations of the executive 
+branch departments and agencies. In-
+spectors general help Congress shine 
+light on areas of the government that 
+need improvement and oversight. How-
+ever, both Republican and Democratic 
+administrations have experienced nu-
+merous and prolonged inspector gen-
+eral vacancies. 
+The Inspector General Protection 
+Act would simply require the President 
+to notify Congress of any change to a 
+current inspector general’s employ-
+ment status. The bill would also re-
+quire the President to notify Congress 
+if a nomination to replace an inspector 
+general does not take place within 210 
+days. 
+These provisions will improve con-
+gressional oversight of the executive 
+branch by providing transparency to 
+the 
+President’s 
+inspectors 
+general 
+nominations. 
+Inspectors general are an indispen-
+sable resource to Congress and to the 
+American people, and Congress can re-
+affirm our responsibility to combating 
+government waste, fraud, and abuse by 
+assuring consistent Federal agency in-
+spector general office leadership. 
+I urge my colleagues to support the 
+bill, and I reserve the balance of my 
+time. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I yield 3 minutes to 
+the gentleman from Tennessee (Mr. 
+COHEN). 
+Mr. COHEN. Mr. Speaker, I rise in 
+support of Representative LIEU’s In-
+spector General Protection Act. 
+The inspector general system has 
+been invaluable in rooting out waste, 
+fraud, and abuse in our Federal pro-
+grams, and sometimes even criminal 
+activity. It has also instilled con-
+fidence in Federal agencies by ensuring 
+accountability. That, however, doesn’t 
+mean the system is perfect. 
+Since the initial passage of the In-
+spector General Act of 1978, we have 
+seen what works and what doesn’t. We 
+have added inspectors general and re-
+fined their processes. 
+On January 20, a new President will 
+be sworn into office and a new adminis-
+tration will lead our Federal agencies. 
+Before they begin, now is a good time 
+to update some of our inspector general 
+requirements. 
+This bill makes important improve-
+ments by requiring disclosure to Con-
+gress when an IG is put on nonduty sta-
+tus and why a President has not nomi-
+nated a permanent IG for a vacant po-
+sition. These updates are necessary, 
+and we must also do more. 
+Last Congress, I introduced the Ap-
+pointments Clause Enforcement Act. 
+That bill included several important 
+changes to the IG system that would 
+help make inspectors general more 
+independent and instill confidence in 
+them. 
+For example, rather than the Presi-
+dent appointing an acting IG when a 
+position is vacant, my bill would have 
+the Council of the Inspectors General 
+on Integrity and Efficiency develop a 
+list of qualified candidates and share 
+those with the chief judge of the dis-
+trict court in the District of Columbia, 
+who would make the appointment. 
+That way, a President could not install 
+political allies as acting inspectors 
+general, even ones who didn’t receive 
+the advice and consent of the Senate, 
+as a way to reduce oversight. 
+We should also clarify provisions to 
+make sure that IGs forward legitimate 
+whistleblower complaints to Congress 
+without political interference and that 
+those 
+whistleblowers 
+are 
+protected 
+from political retribution. 
+I thank Representative LIEU for spon-
+soring the Inspector General Protec-
+tion Act and Speaker PELOSI for bring-
+ing it to the floor as one of our first 
+bills. 
+I hope that this is the beginning of 
+the 117th Congress’ efforts to improve 
+the inspector general system that 
+works to improve our Federal Govern-
+ment’s systems of administration and 
+protects policies that are important for 
+transparency and integrity of govern-
+ment. 
+Mr. PALMER. Mr. Speaker, I yield as 
+much time as he may consume to the 
+gentleman from Ohio (Mr. JORDAN). 
+Mr. JORDAN. Mr. Speaker, the integ-
+rity of the inspector general process 
+and the ability of the President of the 
+United States to appoint inspectors 
+general is dependent on the integrity of 
+the Presidential election. 
+During the campaign, Vice President 
+Biden would get 55 people at an event. 
+President Trump got 55,000 at just one 
+rally. President Trump increased his 
+vote with African Americans, increased 
+his vote with Hispanic Americans, won 
+19 of 20 bellwether counties, won Ohio 
+by 8, Iowa by 8, Florida by 3, got 11 mil-
+lion more votes than he got in 2016, and 
+House Republicans won 27 of 27 toss-up 
+races. 
+But somehow Joe Biden, the guy who 
+barely left his house, won the election? 
+Maybe. 
+But 80 million Americans, both Re-
+publicans and Democrats, have their 
+doubts, and 60 million Americans think 
+the election was stolen—60 million peo-
+ple, over one-third of the electorate. 
+But no one in this town seems to 
+care. Democrats don’t care. The media 
+doesn’t care. Eighty million of our fel-
+low citizens have their doubts about 
+the election 2 months ago, and the 
+media and the Democrats say: Nothing 
+to see here. 
+Of course, this town has been out to 
+get the President since July 31, 2016, 
+before he was elected the first time. 
+Four years and $40 million on the Rus-
+sia hoax, but we can’t look into an 
+election that 60 million Americans 
+think was stolen? 
+Nine weeks since election day, not 
+one investigation, not one hearing in 
+the House of Representatives. We asked 
+for it. We asked Chairwoman MALONEY. 
+Mr. COMER and I asked for it. We asked 
+VerDate Sep 11 2014 
+02:27 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00011
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\A05JA7.012
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 10-
+CONGRESSIONAL RECORD — HOUSE
+H68 
+January 5, 2021 
+Chairman NADLER. Nope, not going to 
+do it. 
+We would welcome an inspector gen-
+eral investigation, for goodness sake. 
+Over 200 affidavits and declarations of 
+wrongdoing, but no investigation in 
+the Congress—no subpoenas, no deposi-
+tions, no chance for questioning or 
+cross-examination of witnesses. 
+Why? Why won’t they look into it? 
+Why no hearings? Why no investiga-
+tion? 
+I think it is because deep down they 
+know there were big problems with this 
+past election. They know the Constitu-
+tion was violated. 
+Article I, Section 4: Time, place, and 
+manner for holding elections shall be 
+determined in each State by the legis-
+lature thereof. 
+Article II, Section 1: ‘‘Each State 
+shall appoint, in such manner as the 
+legislature thereof may direct. . . . ’’ 
+Look at Pennsylvania. Pennsylvania 
+law says mail-in ballots by 8 o’clock on 
+election day. Election day ends at 8 
+o’clock. Mail-in ballots have to be in 
+by 8 o’clock on election day. The Dem-
+ocrat State Supreme Court said: No, we 
+are going to extend the election day 
+till Friday, till 5 o’clock on Friday. 
+Pennsylvania State law says mail-in 
+ballots require signature verification. 
+The Democrat secretary of state said 
+no. For 2.6 million ballots, she said: We 
+are not going to follow the law. 
+Pennsylvania law says mail-in bal-
+lots can’t be processed until election 
+day, but some county commissioner 
+said no and allowed ballots to be cured, 
+to be fixed, to be changed before elec-
+tion day. You can imagine which coun-
+ties allowed that, you can just imag-
+ine. Democrat counties allowed it; Re-
+publican counties didn’t. 
+The legislature determines the time, 
+place, and manner of elections, not 
+State supreme courts, not secretaries 
+of states, not county commissioners. 
+All of those entities took actions that 
+directly violated the law, the law that 
+State legislatures enacted, and thereby 
+violated the Constitution. 
+But Democrats don’t care. They 
+don’t want to look into it. They would 
+rather just belittle 60 million of our 
+fellow citizens, call them names, say it 
+is a conspiracy, make fun of the very 
+people we are all supposed to represent. 
+Well, guess what. Tomorrow, those 
+people will get a chance to hear the 
+truth. Tomorrow, those 60 million peo-
+ple, those 80 million people who have 
+their doubts, will not be treated with 
+disrespect; they will be treated with 
+the respect they deserve. 
+Tomorrow, there will be a debate in 
+the people’s House. Tomorrow, the 
+Constitution will be defended, and the 
+American people will see the truth. 
+They will see how Democrats changed 
+the rules in the days and weeks leading 
+up to the election and created chaos in 
+our election process. Tomorrow, they 
+will see what the late Justice Ruth 
+Bader Ginsburg said: The ultimate date 
+of significance is January 6. Tomorrow, 
+the citizens of this great country will 
+see why. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I have no further 
+speakers. I urge a positive vote on H.R. 
+23, and I reserve the balance of my 
+time. 
+Mr. PALMER. Mr. Speaker, I hope we 
+can continue to find bipartisan ways to 
+build on similar good government re-
+forms, such as this bill. 
+Mr. Speaker, I strongly urge my col-
+leagues to support this commonsense 
+legislation, and I yield back the bal-
+ance of my time. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I urge passage of 
+H.R. 23, and I yield back the balance of 
+my time. 
+The SPEAKER pro tempore. The 
+question is on the motion offered by 
+the gentlewoman from New York (Mrs. 
+CAROLYN B. MALONEY) that the House 
+suspend the rules and pass the bill, 
+H.R. 23. 
+The question was taken; and (two- 
+thirds being in the affirmative) the 
+rules were suspended and the bill was 
+passed. 
+A motion to reconsider was laid on 
+the table. 
+f 
+CONSTRUCTION CONSENSUS PRO-
+CUREMENT IMPROVEMENT ACT 
+OF 2021 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I move to suspend 
+the rules and pass the bill (H.R. 26) to 
+amend the Consolidated Appropriations 
+Act, 2021, to correct a provision on the 
+prohibition on the use of a reverse auc-
+tion, and for other purposes. 
+The Clerk read the title of the bill. 
+The text of the bill is as follows: 
+H.R. 26 
+Be it enacted by the Senate and House of Rep-
+resentatives of the United States of America in 
+Congress assembled, 
+SECTION 1. SHORT TITLE. 
+This Act may be cited as the ‘‘Construc-
+tion Consensus Procurement Improvement 
+Act of 2021’’. 
+SEC. 2. AMENDMENT. 
+Section 402 of title IV of division U of the 
+Consolidated Appropriations Act, 2021, is 
+amended to read as follows: 
+‘‘PROHIBITION ON USE OF A REVERSE AUCTION 
+FOR THE AWARD OF A CONTRACT FOR COM-
+PLEX, SPECIALIZED, OR SUBSTANTIAL DESIGN 
+AND CONSTRUCTION SERVICES 
+‘‘SEC. 402. 
+‘‘(a) FINDINGS.—Congress makes the fol-
+lowing findings: 
+‘‘(1) In contrast to a traditional auction in 
+which the buyers bid up the price, sellers bid 
+down the price in a reverse auction. 
+‘‘(2) Reverse auctions, while providing 
+value for the vast majority of Federal acqui-
+sitions, including certain construction-re-
+lated acquisitions, are limited in value for 
+complex, specialized, or substantial design 
+and construction services. 
+‘‘(b) REVERSE AUCTION DEFINED.—In this 
+section, the term ‘reverse auction’ means, 
+with respect to any procurement by an exec-
+utive agency, a real-time auction generally 
+conducted through an electronic medium 
+among two or more offerors who compete by 
+submitting bids for a supply or service con-
+tract, or a delivery order, task order, or pur-
+chase order under the contract, with the 
+ability to submit revised lower bids at any 
+time before the closing of the auction. 
+‘‘(c) PROHIBITION.— 
+‘‘(1) IN GENERAL.—Not later than 270 days 
+after the date of the enactment of this sec-
+tion, the Federal Acquisition Regulation 
+shall be amended to prohibit the use of re-
+verse auctions for awarding contracts for 
+complex, specialized, or substantial design 
+and construction services. 
+‘‘(2) APPLICABILITY TO ACQUISITIONS ABOVE 
+THE SIMPLIFIED ACQUISITION THRESHOLD.—The 
+prohibition on reverse auctions for complex, 
+specialized, or substantial design and con-
+struction services shall apply only to acqui-
+sitions above the simplified acquisition 
+threshold (SAT) for construction and design 
+services pursuant to part 36 of the Federal 
+Acquisition Regulation. 
+‘‘(d) RULEMAKING
+FOR COMPLEX, SPECIAL-
+IZED, OR SUBSTANTIAL SERVICES.—Not later 
+than 180 days after the date of the enactment 
+of this section, the Federal Acquisition Reg-
+ulatory Council shall promulgate a defini-
+tion of complex, specialized, or substantial 
+design and construction services, which shall 
+include— 
+‘‘(1) site planning and landscape design; 
+‘‘(2) architectural and engineering services 
+(as defined in section 1102 of title 40, United 
+States Code); 
+‘‘(3) interior design; 
+‘‘(4) performance of substantial construc-
+tion work for facility, infrastructure, and en-
+vironmental restoration projects; and 
+‘‘(5) construction or substantial alteration 
+of public buildings or public works. 
+‘‘(e) RULE
+OF CONSTRUCTION.—Nothing in 
+this section shall be construed to restrict the 
+use of reverse auctions for the procurement 
+of other goods and services except as specifi-
+cally provided for under this section. 
+‘‘(f) REPORT.—Not later than two years 
+after the date of the enactment of this sec-
+tion, the Administrator of General Services 
+shall submit to the Committee on Homeland 
+Security and Governmental Affairs of the 
+Senate and the Committee on Oversight and 
+Reform of the House of Representatives a re-
+port on the effectiveness of this section in 
+delivering complex, specialized, or substan-
+tial design and construction services to the 
+United States Government.’’. 
+SEC. 3. DETERMINATION OF BUDGETARY EF-
+FECTS. 
+The budgetary effects of this Act, for the 
+purpose of complying with the Statutory 
+Pay-As-You-Go Act of 2010, shall be deter-
+mined by reference to the latest statement 
+titled ‘‘Budgetary Effects of PAYGO Legisla-
+tion’’ for this Act, submitted for printing in 
+the Congressional Record by the Chairman of 
+the House Budget Committee, provided that 
+such statement has been submitted prior to 
+the vote on passage. 
+The SPEAKER pro tempore. Pursu-
+ant to the rule, the gentlewoman from 
+New York (Mrs. CAROLYN B. MALONEY) 
+and the gentleman from Alabama (Mr. 
+PALMER) each will control 20 minutes. 
+The Chair recognizes the gentle-
+woman from New York. 
+GENERAL LEAVE 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I ask unanimous 
+consent that all Members may have 5 
+legislative days in which to revise and 
+extend their remarks and include ex-
+traneous material on the measure be-
+fore us. 
+The SPEAKER pro tempore. Is there 
+objection to the request of the gentle-
+woman from New York? 
+There was no objection. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I yield myself such 
+time as I may consume. 
+VerDate Sep 11 2014 
+02:27 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00012
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\K05JA7.016
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 11-
+CONGRESSIONAL RECORD — HOUSE
+H69 
+January 5, 2021 
+Mr. Speaker, I thank Representatives 
+COMER and KHANNA for their work on 
+this bipartisan bill, and I thank Sen-
+ators PORTMAN and PETERS for their 
+work on last year’s Senate companion. 
+This measure would correct a provi-
+sion of the Consolidated Appropria-
+tions Act for fiscal year 2021 that was 
+incorrectly inserted into the law. 
+The language of this bill had been 
+carefully crafted by the House Over-
+sight and Reform Committee and the 
+Senate Committee on Homeland Secu-
+rity and Governmental Affairs over 
+many months prior to the agreement 
+to include it in last year’s Consolidated 
+Appropriations Act. The bill you see 
+before you today honors that agree-
+ment and resolves the drafting error. 
+The bill would prohibit the use of re-
+verse auctions for the procurement of 
+complex, specialized, or substantial de-
+sign and construction services procured 
+by the Federal Government. 
+Such services would include site 
+planning, architectural and engineer-
+ing services, interior design, construc-
+tion or substantial alteration of public 
+buildings or public works, and substan-
+tial construction work for facility, in-
+frastructure, and environmental res-
+toration projects. 
+Reverse auctions are generally a val-
+uable tool to ensure the responsible 
+stewardship 
+of 
+taxpayer 
+dollars 
+through the acquisition process. 
+b 1245 
+In a reverse auction, a buyer seeking 
+a good or service—in this case the Fed-
+eral Government—solicits bids. Mul-
+tiple sellers offer bids and the seller 
+with the lowest bid wins the competi-
+tion. 
+However, in the specific instance of 
+complex, specialized, or substantial de-
+sign and construction services, the use 
+of reverse auctions can be problematic. 
+While the lowest price is often the goal 
+for standardized goods and services, it 
+is not the only factor that should be 
+considered for these unique projects. 
+Quality is also an important evalua-
+tion factor, especially for complex 
+services, like design-build contracts for 
+major public buildings or works. 
+This bill would not prevent con-
+tracting officers from considering price 
+in evaluating proposals for complex 
+construction services, just the use of 
+reverse auctions designed to achieve 
+the lowest price without regard to 
+quality. 
+Mr. Speaker, I urge Members to sup-
+port this bill, and I reserve the balance 
+of my time. 
+Mr. PALMER. Mr. Speaker, I yield 
+myself such time as I may consume. 
+Mr. Speaker, I rise in support of H.R. 
+26, the Construction Consensus Pro-
+curement Improvement Act of 2021. 
+This bill would prohibit the Federal 
+Government’s use of reverse auctions 
+for complex design and construction 
+services. A reverse auction is one 
+where the sellers bid down the price in-
+stead of the buyers driving up the 
+price. Most often, the contractor with 
+the lowest bid wins the contract. While 
+we all wish for the Federal Government 
+to get the lowest price, it is important 
+that these complex projects are done 
+properly, on time, and on budget. 
+Reverse auctions are not always ap-
+propriate for the types of services this 
+bill deals with because design-build or 
+complex construction projects often 
+have variables which cannot be con-
+templated during the original bidding 
+process. 
+The use of reverse auctions can often 
+result in products that are subpar and, 
+ultimately, over budget. Often, the 
+winning low bid is nowhere near the 
+final cost to the government after un-
+anticipated factors lead to time and 
+budget overruns. 
+Specifically, the Office of Federal 
+Procurement Policy found that, for 
+complex design and construction con-
+tracts, the expertise required to com-
+plete these projects was not built in to 
+reverse auction bids. 
+Construction projects have a high de-
+gree of variability and the reverse auc-
+tion process often does not yield the 
+low costs intended for the taxpayer. 
+This legislation is tailored to ensure 
+that products and services which do 
+not benefit from the reverse auction 
+process will not be affected. 
+Going forward, we must continue to 
+fight for the best possible products at 
+the best price to the taxpayer. That in-
+cludes ensuring benefits are brought to 
+our constituents on time and on budg-
+et. This legislation will help to achieve 
+that. 
+Mr. Speaker, I thank my colleague, 
+Representative RO
+KHANNA, for his 
+work and support on this legislation. I 
+urge my colleagues to support the bill, 
+and I reserve the balance of my time. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I reserve the bal-
+ance of my time. 
+Mr. PALMER. Mr. Speaker, I yield 3 
+minutes to the gentleman from Ken-
+tucky (Mr. COMER). 
+Mr. COMER. Mr. Speaker, I rise in 
+strong support of my bill, H.R. 26, the 
+Construction Consensus Procurement 
+Improvement Act of 2021. 
+It is vitally important that the Fed-
+eral Government procure complex de-
+sign and construction services that re-
+main on time and on budget. This bill 
+would prevent the Federal reverse auc-
+tions procurement process from being 
+used for complex projects. Using re-
+verse auctions for major construction 
+projects only causes problems, such as 
+delays and wasteful spending. 
+Who pays the price? 
+The taxpayer. 
+The Federal Government must be 
+good stewards of taxpayer dollars and 
+get the best possible services for the 
+best price. As ranking member of the 
+Committee on Oversight and Reform, I 
+want to continue to deliver savings to 
+the taxpayer and make stakeholder 
+interaction with the government much 
+easier, and H.R. 26 does just that. 
+This bill is the result of strong bipar-
+tisan, bicameral negotiations and the 
+hard work of many private sector 
+groups. I thank Senator PORTMAN for 
+his hard work on this legislation last 
+Congress. I am also thankful for the 
+support of my Committee on Oversight 
+and Reform colleague, Mr. KHANNA. 
+Mr. Speaker, I would also like to par-
+ticularly thank the Construction In-
+dustry Procurement Coalition, the As-
+sociation of General Contractors, the 
+Design-Build Institute of America, the 
+American Subcontractors Association, 
+and numerous others for their hard 
+work on this legislation. 
+I look forward to continuing to work 
+with the majority to advance common-
+sense legislation to make government 
+more efficient and effective. I encour-
+age the Senate to quickly consider this 
+bill and send it to the President’s desk. 
+Mr. Speaker, I urge my House col-
+leagues to support H.R. 26. 
+Mr. PALMER. Mr. Speaker, I yield 
+myself such time as I may consume. 
+Mr. Speaker, this is a sensible and 
+needed bipartisan reform. I am hopeful 
+to see similar bipartisan procurement 
+reform bills this Congress, and I urge 
+my colleagues to support this legisla-
+tion. 
+Mr. Speaker, I yield back the balance 
+of my time. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I urge passage of 
+H.R. 26, and I yield back the balance of 
+my time. 
+The SPEAKER pro tempore. The 
+question is on the motion offered by 
+the gentlewoman from New York (Mrs. 
+CAROLYN B. MALONEY) that the House 
+suspend the rules and pass the bill, 
+H.R. 26. 
+The question was taken; and (two- 
+thirds being in the affirmative) the 
+rules were suspended and the bill was 
+passed. 
+A motion to reconsider was laid on 
+the table. 
+f 
+SETTLEMENT AGREEMENT INFOR-
+MATION DATABASE ACT OF 2021 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I move to suspend 
+the rules and pass the bill (H.R. 27) to 
+amend chapter 3 of title 5, United 
+States Code, to require the publication 
+of settlement agreements, and for 
+other purposes. 
+The Clerk read the title of the bill. 
+The text of the bill is as follows: 
+H.R. 27 
+Be it enacted by the Senate and House of Rep-
+resentatives of the United States of America in 
+Congress assembled, 
+SECTION 1. SHORT TITLE. 
+This Act may be cited as the ‘‘Settlement 
+Agreement Information Database Act of 
+2021’’. 
+SEC. 2. INFORMATION REGARDING SETTLEMENT 
+AGREEMENTS 
+ENTERED 
+INTO 
+BY 
+FEDERAL AGENCIES. 
+(a) REQUIREMENTS FOR SETTLEMENT AGREE-
+MENTS.—Chapter 3 of title 5, United States 
+Code, is amended by adding at the end the 
+following new section: 
+‘‘§ 307. 
+Information 
+regarding 
+settlement 
+agreements 
+‘‘(a) DEFINITIONS.—In this section: 
+VerDate Sep 11 2014 
+02:27 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00013
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\K05JA7.018
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 12-
+CONGRESSIONAL RECORD — HOUSE
+H70 
+January 5, 2021 
+‘‘(1) LOCAL GOVERNMENT.—The term ‘local 
+government’ has the meaning given that 
+term in section 6501 of title 31. 
+‘‘(2) ORDER
+TYPE.—The term ‘order type’ 
+means the type of action or instrument used 
+to settle a civil or criminal judicial action. 
+‘‘(3) SETTLEMENT
+AGREEMENT.—The term 
+‘settlement agreement’ means a settlement 
+agreement 
+(including 
+a 
+consent 
+decree) 
+that— 
+‘‘(A) is entered into by an Executive agen-
+cy; and 
+‘‘(B) relates to an alleged violation of Fed-
+eral civil or criminal law. 
+‘‘(4) STATE.—The term ‘State’ means each 
+of the several States, the District of Colum-
+bia, each territory or possession of the 
+United States, and each federally recognized 
+Indian Tribe. 
+‘‘(b) SETTLEMENT AGREEMENT INFORMATION 
+DATABASE.— 
+‘‘(1) EXECUTIVE AGENCY REQUIREMENT.— 
+‘‘(A) IN GENERAL.—Subject to subparagraph 
+(B), the head of each Executive agency shall, 
+in accordance with guidance issued pursuant 
+to paragraph (2), submit the following infor-
+mation to the database established under 
+paragraph (3): 
+‘‘(i) A list of each settlement agreement, in 
+a categorized and searchable format, entered 
+into by the Executive agency, as a party to 
+a lawsuit, which shall include, for each set-
+tlement agreement— 
+‘‘(I) the order type of the settlement agree-
+ment; 
+‘‘(II) the date on which the parties entered 
+into the settlement agreement; 
+‘‘(III) a list of specific violations that 
+specify the basis for the action taken, with a 
+description of the claims each party settled 
+under the settlement agreement; 
+‘‘(IV) the amount of attorneys’ fees and 
+other litigation costs awarded, if any, in-
+cluding a description of the statutory basis 
+for such an award; 
+‘‘(V) the amount each party settling a 
+claim under the settlement agreement is ob-
+ligated to pay under the settlement agree-
+ment; 
+‘‘(VI) the total amount the settling parties 
+are obligated to pay under the settlement 
+agreement; 
+‘‘(VII) the amount, if any, the settling 
+party is obligated to pay that is expressly 
+specified under the settlement agreement as 
+a civil or criminal penalty or fine; 
+‘‘(VIII) any payment made under the set-
+tlement agreement, including a description 
+of any payment made to the Federal Govern-
+ment; 
+‘‘(IX) the projected duration of the settle-
+ment agreement, if available; 
+‘‘(X) a list of State or local governments 
+that may be directly affected by the terms of 
+the settlement agreement; 
+‘‘(XI) a brief description of any economic 
+data and methodology used to justify the 
+terms of the settlement agreement; 
+‘‘(XII) any modifications to the settlement 
+agreement, when applicable; 
+‘‘(XIII) notice and comments, when appli-
+cable; and 
+‘‘(XIV) whether the settlement agreement 
+is still under judicial enforcement and any 
+period of time by which the parties agreed to 
+have certain conditions met. 
+‘‘(ii) A copy of each— 
+‘‘(I) settlement agreement entered into by 
+the Executive agency; and 
+‘‘(II) statement issued under paragraph (4). 
+‘‘(B) NONDISCLOSURE.—The requirement to 
+submit information or a copy of a settlement 
+agreement under subparagraph (A) shall not 
+apply to the extent the information or copy 
+(or portion thereof)— 
+‘‘(i) is subject to a confidentiality provi-
+sion that prohibits disclosure of the informa-
+tion or copy (or portion thereof); and 
+‘‘(ii) would not be disclosed under section 
+552, if the Executive agency provides a cita-
+tion to the applicable exemption. 
+‘‘(C) CLARIFICATION OF RESPONSIBLE AGEN-
+CY.—In a case in which an Executive agency 
+is acting at the request or on behalf of an-
+other Executive agency (referred to as the 
+originating agency), the originating agency 
+is responsible for submitting information 
+under subparagraph (A). 
+‘‘(2) GUIDANCE.—The Director of the Office 
+of Management and Budget shall issue guid-
+ance for Executive agencies to implement 
+paragraph (1). Such guidance shall include 
+the following: 
+‘‘(A) Specific dates by which submissions 
+must be made, not less than twice a year. 
+‘‘(B) Data standards, including common 
+data elements and a common, nonpropri-
+etary, searchable, machine-readable, plat-
+form independent format. 
+‘‘(C) A requirement that the information 
+and documents required under paragraph (1) 
+are publicly available for a period starting 
+on the date of the settlement through not 
+less than 5 years after the termination of the 
+settlement agreement. 
+‘‘(3) ESTABLISHMENT OF DATABASE.—The Di-
+rector of the Office of Management and 
+Budget, or the head of an Executive agency 
+designated by the Director, shall establish 
+and 
+maintain 
+a 
+public, 
+searchable, 
+downloadable database for Executive agen-
+cies to directly upload and submit the infor-
+mation and documents required under para-
+graph (1) for immediate publication online. 
+‘‘(4) STATEMENT
+OF
+CONFIDENTIALITY.—If 
+the head of an Executive agency determines 
+that a confidentiality provision in a settle-
+ment agreement, or the sealing of a settle-
+ment agreement, is required to protect the 
+public interest of the United States, the head 
+of the Executive agency may except the set-
+tlement agreement from the requirement in 
+paragraph (1) and shall issue a written public 
+statement stating why such action is re-
+quired to protect the public interest of the 
+United States, which shall explain— 
+‘‘(A) what interests confidentiality pro-
+tects; and 
+‘‘(B) why the interests protected by con-
+fidentiality outweigh the public’s interest in 
+knowing about the conduct of the Federal 
+Government and the expenditure of Federal 
+resources.’’. 
+(b) TECHNICAL
+AND
+CONFORMING
+AMEND-
+MENT.—The table of sections for chapter 3 of 
+title 5, United States Code, is amended by 
+adding at the end the following new item: 
+‘‘307. 
+Information 
+regarding 
+settlement 
+agreements.’’. 
+(c) DEADLINE TO ESTABLISH DATABASE.— 
+Not later than 1 year after the date of the 
+enactment of this Act, the Director of the 
+Office of Management and Budget shall issue 
+guidance required by section 307(b)(2) of title 
+5, United States Code, as added by subsection 
+(a), and establish the settlement agreement 
+information database required by section 
+307(b)(3) of title 5, United States Code, as 
+added by subsection (a). 
+(d) DEADLINE FOR FIRST SUBMISSION.—Not 
+later than 90 days after the Director issues 
+guidance under section 307(b)(2) of title 5, 
+United States Code, as added by subsection 
+(a), the head of each Executive agency (as 
+defined in section 105 of title 5, United States 
+Code) shall begin submitting information to 
+the database established under such section 
+307. 
+SEC. 3. AMENDMENTS TO THE FREEDOM OF IN-
+FORMATION ACT. 
+Section 552(a)(2) of title 5, United States 
+Code, is amended— 
+(1) by redesignating subparagraphs (B) 
+through (E) as subparagraphs (C) through 
+(F), respectively; and 
+(2) by inserting after subparagraph (A) the 
+following new subparagraph: 
+‘‘(B) each settlement agreement (as defined 
+in section 307) entered into by an Executive 
+agency, with redactions for information that 
+the agency may withhold under paragraph 
+(8) and subsections (b) and (c) of this sec-
+tion;’’. 
+SEC. 4. RULE OF CONSTRUCTION. 
+Nothing in this Act, or the amendments 
+made by this Act, shall be construed to re-
+quire 
+the 
+disclosure 
+of 
+information 
+or 
+records that any agency may properly with-
+hold from public disclosure under section 552 
+of title 5, United States Code (commonly 
+known as the ‘‘Freedom of Information 
+Act’’). 
+SEC. 5. EFFECTIVE DATE; APPLICABILITY. 
+This Act shall be effective 180 days after 
+the date of the enactment of this Act and 
+shall apply— 
+(1) with respect to any settlement agree-
+ment (as such term is defined in section 307 
+of title 5, United States Code, as added by 
+section 2), entered into on or after the date 
+of the enactment of this Act; and 
+(2) to the extent practicable, any such set-
+tlement agreement (as such term is defined 
+in section 307 of title 5, United States Code, 
+as added by section 2) that remains in effect 
+on or after the date of the enactment of this 
+Act. 
+SEC. 6. DETERMINATION OF BUDGETARY EF-
+FECTS. 
+The budgetary effects of this Act, for the 
+purpose of complying with the Statutory 
+Pay-As-You-Go Act of 2010, shall be deter-
+mined by reference to the latest statement 
+titled ‘‘Budgetary Effects of PAYGO Legisla-
+tion’’ for this Act, submitted for printing in 
+the Congressional Record by the Chairman of 
+the House Budget Committee, provided that 
+such statement has been submitted prior to 
+the vote on passage. 
+The SPEAKER pro tempore. Pursu-
+ant to the rule, the gentlewoman from 
+New York (Mrs. CAROLYN B. MALONEY) 
+and the gentleman from Alabama (Mr. 
+PALMER) each will control 20 minutes. 
+The Chair recognizes the gentle-
+woman from New York. 
+GENERAL LEAVE 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I ask unanimous 
+consent that all Members have 5 legis-
+lative days in which to revise and ex-
+tend their remarks and include extra-
+neous material on the measure before 
+us. 
+The SPEAKER pro tempore. Is there 
+objection to the request of the gentle-
+woman from New York? 
+There was no objection. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I yield myself such 
+time as I may consume. 
+Mr. Speaker, I support this common-
+sense measure, and I thank Represent-
+atives PALMER and COOPER for their 
+hard work on it. 
+The Settlement Agreement Informa-
+tion Database Act would create a data-
+base of settlement agreements entered 
+into by Federal agencies that relate to 
+alleged violations of Federal, civil, or 
+criminal law. The Office of Manage-
+ment and Budget would manage this 
+database and set deadlines for submis-
+sion. 
+The heads of executive agencies 
+would be required to submit details 
+about the types of settlement agree-
+ments, the parties involved in the set-
+tlements, specific violations, and the 
+VerDate Sep 11 2014 
+02:27 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00014
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\A05JA7.006
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 13-
+CONGRESSIONAL RECORD — HOUSE
+H71 
+January 5, 2021 
+dates on which the settlement agree-
+ments were agreed to. 
+The information about the settle-
+ment agreements would remain public 
+until 5 years after the termination of 
+the agreements. The information in the 
+agreements would remain subject to 
+the Freedom of Information Act; but if 
+the head of the agency decided to keep 
+an entire agreement confidential, he or 
+she would be required to provide an ex-
+planation of that action. 
+This bill would improve the trans-
+parency surrounding settlement agree-
+ments, which in the past have been dif-
+ficult for the public to access. 
+Mr. Speaker, I reserve the balance of 
+my time. 
+Mr. PALMER. Mr. Speaker, I yield 
+myself such time as I may consume. 
+Mr. Speaker, I rise in support of H.R. 
+27, the Settlement Agreement Informa-
+tion Database Act. Transparency and 
+public participation are vital to ensure 
+the public’s continued trust in our gov-
+ernment. Increasingly, Federal agen-
+cies are using legally binding settle-
+ment agreements to resolve litigation 
+without going through lengthy public 
+trials. 
+However, it is impossible for Con-
+gress and the public to determine the 
+comprehensive impact of these settle-
+ment agreements on the State and 
+local governments and private sector 
+entities, which must continue to follow 
+the mandated requirements. Such se-
+cret negotiations and agreements es-
+sentially prevent the public from par-
+ticipating in important policy deci-
+sions. 
+The burden of Federal settlement 
+agreements can be difficult to see and 
+understand, but State and local gov-
+ernments, industry stakeholders, and 
+taxpayers can be directly affected by 
+the settlements for years, and yet they 
+are unable to provide input. This legis-
+lation seeks to correct that problem. 
+The Settlement Agreement Informa-
+tion Database Act, or SAID Act, re-
+quires Federal agencies to submit in-
+formation regarding consent decrees 
+and settlement agreements to a public 
+electronic database. This public re-
+source, to be overseen by the Office of 
+Management and Budget, would in-
+clude dates, payments, attorney fees 
+awards, and a list of State and local 
+governments and entities impacted by 
+the settlement. 
+Currently, agencies release informa-
+tion about settlements at their discre-
+tion and will only publicize the facts 
+that reflect favorably upon the agency. 
+Furthermore, the terms of settlement 
+agreements are often deemed confiden-
+tial. 
+Under the requirements of the SAID 
+Act, if the agency believes that the in-
+formation 
+regarding 
+an 
+agreement 
+should remain confidential, the agency 
+head must publish an explanation of 
+why it is confidential. This will in-
+crease the transparency of the Federal 
+Government and shine a much-needed 
+light on settlement agreements. 
+Mr. Speaker, I thank my colleagues, 
+Representatives JIM
+COOPER, GERRY 
+CONNOLLY, and VAN TAYLOR, for sup-
+porting this important legislation. I 
+am happy we could expedite its consid-
+eration again in the House after pass-
+ing this bill unanimously in the 116th 
+Congress. I thank the chairman for 
+bringing this bill and making it part of 
+this first legislative day package. 
+Mr. Speaker, I urge my colleagues on 
+both sides of the aisle to support this 
+commonsense legislation, and I reserve 
+the balance of my time. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, if the gentleman 
+has no further speakers, I am prepared 
+to close, and I reserve the balance of 
+my time. 
+Mr. PALMER. Mr. Speaker, I hope we 
+can continue to find bipartisan ways to 
+increase transparency of the Federal 
+Government. I strongly urge my col-
+leagues to support this commonsense 
+legislation, and I yield back the bal-
+ance of my time. 
+Mrs. CAROLYN B. MALONEY of New 
+York. Mr. Speaker, I urge passage of 
+H.R. 27. I am strongly in support of this 
+bipartisan legislation, and I yield back 
+the balance of my time. 
+The SPEAKER pro tempore. The 
+question is on the motion offered by 
+the gentlewoman from New York (Mrs. 
+CAROLYN B. MALONEY) that the House 
+suspend the rules and pass the bill, 
+H.R. 27. 
+The question was taken; and (two- 
+thirds being in the affirmative) the 
+rules were suspended and the bill was 
+passed. 
+A motion to reconsider was laid on 
+the table. 
+f 
+CONGRESSIONAL 
+BUDGET 
+JUS-
+TIFICATION TRANSPARENCY ACT 
+OF 2021 
+The SPEAKER pro tempore. Pursu-
+ant to clause 8 of rule XX, the unfin-
+ished business is the vote on the mo-
+tion to suspend the rules and pass the 
+bill (H.R. 22) to amend the Federal 
+Funding Accountability and Trans-
+parency Act of 2006, to require the 
+budget justifications and appropriation 
+requests of agencies be made publicly 
+available, on which the yeas and nays 
+were ordered. 
+The Clerk read the title of the bill. 
+The SPEAKER pro tempore. The 
+question is on the motion offered by 
+the gentlewoman from New York (Mrs. 
+CAROLYN B. MALONEY) that the House 
+suspend the rules and pass the bill. 
+The vote was taken by electronic de-
+vice, and there were—yeas 412, nays 2, 
+not voting 16, as follows: 
+[Roll No. 9] 
+YEAS—412 
+Adams 
+Aderholt 
+Aguilar 
+Allen 
+Allred 
+Amodei 
+Armstrong 
+Arrington 
+Auchincloss 
+Axne 
+Babin 
+Bacon 
+Baird 
+Balderson 
+Banks 
+Barr 
+Barraga´n 
+Bass 
+Bentz 
+Bera 
+Bergman 
+Beyer 
+Bice (OK) 
+Biggs 
+Bilirakis 
+Bishop (GA) 
+Bishop (NC) 
+Blumenauer 
+Blunt Rochester 
+Boebert 
+Bonamici 
+Bost 
+Bourdeaux 
+Bowman 
+Boyle, Brendan 
+F. 
+Brooks 
+Brown 
+Buchanan 
+Buck 
+Bucshon 
+Budd 
+Burchett 
+Burgess 
+Bush 
+Bustos 
+Butterfield 
+Calvert 
+Cammack 
+Carbajal 
+Ca´rdenas 
+Carl 
+Carson 
+Carter (GA) 
+Carter (TX) 
+Cartwright 
+Case 
+Casten 
+Castor (FL) 
+Castro (TX) 
+Cawthorn 
+Chabot 
+Cheney 
+Chu 
+Cicilline 
+Clarke (NY) 
+Cleaver 
+Cline 
+Cloud 
+Clyburn 
+Clyde 
+Cohen 
+Cole 
+Comer 
+Connolly 
+Cooper 
+Correa 
+Costa 
+Courtney 
+Craig 
+Crawford 
+Crenshaw 
+Crist 
+Crow 
+Cuellar 
+Curtis 
+Davids (KS) 
+Davis, Danny K. 
+Davis, Rodney 
+Dean 
+DeFazio 
+DeGette 
+DeLauro 
+DelBene 
+Delgado 
+Demings 
+DesJarlais 
+Deutch 
+Diaz-Balart 
+Dingell 
+Doggett 
+Donalds 
+Doyle, Michael 
+F. 
+Duncan 
+Dunn 
+Emmer 
+Escobar 
+Eshoo 
+Espaillat 
+Estes 
+Evans 
+Fallon 
+Feenstra 
+Ferguson 
+Fischbach 
+Fitzgerald 
+Fitzpatrick 
+Fleischmann 
+Fletcher 
+Fortenberry 
+Foster 
+Foxx 
+Frankel, Lois 
+Franklin, C. 
+Scott 
+Fudge 
+Fulcher 
+Gaetz 
+Gallagher 
+Gallego 
+Garamendi 
+Garbarino 
+Garcia (CA) 
+Garcı´a (IL) 
+Garcia (TX) 
+Gibbs 
+Gimenez 
+Gohmert 
+Golden 
+Gomez 
+Gonzales, Tony 
+Gonzalez (OH) 
+Gonzalez, 
+Vicente 
+Good (VA) 
+Gooden (TX) 
+Gosar 
+Gottheimer 
+Graves (LA) 
+Graves (MO) 
+Green (TN) 
+Green, Al (TX) 
+Greene (GA) 
+Griffith 
+Grijalva 
+Grothman 
+Guest 
+Guthrie 
+Haaland 
+Hagedorn 
+Harder (CA) 
+Harris 
+Harshbarger 
+Hartzler 
+Hayes 
+Hern 
+Herrell 
+Herrera Beutler 
+Hice (GA) 
+Higgins (LA) 
+Higgins (NY) 
+Hill 
+Himes 
+Hinson 
+Hollingsworth 
+Horsford 
+Houlahan 
+Hoyer 
+Hudson 
+Huffman 
+Huizenga 
+Issa 
+Jackson 
+Jackson Lee 
+Jacobs (CA) 
+Jacobs (NY) 
+Jayapal 
+Jeffries 
+Johnson (GA) 
+Johnson (LA) 
+Johnson (OH) 
+Johnson (SD) 
+Johnson (TX) 
+Jones 
+Jordan 
+Joyce (OH) 
+Joyce (PA) 
+Kahele 
+Kaptur 
+Katko 
+Keating 
+Keller 
+Kelly (IL) 
+Kelly (MS) 
+Kelly (PA) 
+Khanna 
+Kildee 
+Kilmer 
+Kim (CA) 
+Kim (NJ) 
+Kind 
+Kinzinger 
+Kirkpatrick 
+Krishnamoorthi 
+Kuster 
+Kustoff 
+LaHood 
+LaMalfa 
+Lamb 
+Lamborn 
+Langevin 
+Larsen (WA) 
+Latta 
+LaTurner 
+Lawrence 
+Lawson (FL) 
+Lee (CA) 
+Lee (NV) 
+Leger Fernandez 
+Lesko 
+Levin (CA) 
+Levin (MI) 
+Lieu 
+Lofgren 
+Long 
+Loudermilk 
+Lucas 
+Luetkemeyer 
+Luria 
+Lynch 
+Mace 
+Malinowski 
+Malliotakis 
+Maloney, 
+Carolyn B. 
+Maloney, Sean 
+Mann 
+Manning 
+Massie 
+Mast 
+Matsui 
+McBath 
+McCarthy 
+McCaul 
+McClain 
+McClintock 
+McCollum 
+McGovern 
+McHenry 
+McKinley 
+McNerney 
+Meeks 
+Meijer 
+Meng 
+Meuser 
+Mfume 
+Miller (IL) 
+Miller (WV) 
+Miller-Meeks 
+Moolenaar 
+Mooney 
+Moore (AL) 
+Moore (UT) 
+Moore (WI) 
+Morelle 
+Moulton 
+Mrvan 
+Mullin 
+Murphy (FL) 
+Murphy (NC) 
+Neal 
+Neguse 
+Nehls 
+Newhouse 
+Newman 
+Norcross 
+Norman 
+Nunes 
+O’Halleran 
+Obernolte 
+Ocasio-Cortez 
+Omar 
+Owens 
+Palazzo 
+Pallone 
+Palmer 
+Panetta 
+Pappas 
+Pascrell 
+Payne 
+Pence 
+Perlmutter 
+Perry 
+Peters 
+Pfluger 
+Phillips 
+Pingree 
+Pocan 
+Porter 
+Pressley 
+Price (NC) 
+Quigley 
+Reed 
+Reschenthaler 
+Rice (NY) 
+Rice (SC) 
+Rodgers (WA) 
+Rogers (AL) 
+Rogers (KY) 
+Rose 
+Rosendale 
+Ross 
+Rouzer 
+Roy 
+Roybal-Allard 
+Ruiz 
+Ruppersberger 
+Rush 
+Rutherford 
+VerDate Sep 11 2014 
+04:25 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00015
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\K05JA7.021
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 14-
+CONGRESSIONAL RECORD — HOUSE
+H72 
+January 5, 2021 
+Ryan 
+Sa´nchez 
+Sarbanes 
+Scalise 
+Scanlon 
+Schakowsky 
+Schiff 
+Schneider 
+Schrader 
+Schrier 
+Schweikert 
+Scott (VA) 
+Scott, Austin 
+Scott, David 
+Sessions 
+Sewell 
+Sherman 
+Sherrill 
+Sires 
+Slotkin 
+Smith (MO) 
+Smith (NE) 
+Smith (NJ) 
+Smith (WA) 
+Smucker 
+Soto 
+Spanberger 
+Spartz 
+Speier 
+Stanton 
+Stauber 
+Steel 
+Stefanik 
+Steil 
+Steube 
+Stevens 
+Stewart 
+Stivers 
+Strickland 
+Suozzi 
+Swalwell 
+Takano 
+Taylor 
+Thompson (CA) 
+Thompson (MS) 
+Thompson (PA) 
+Tiffany 
+Timmons 
+Titus 
+Tlaib 
+Tonko 
+Torres (CA) 
+Torres (NY) 
+Trahan 
+Turner 
+Underwood 
+Upton 
+Van Drew 
+Van Duyne 
+Vargas 
+Veasey 
+Vela 
+Vela´zquez 
+Wagner 
+Walberg 
+Walorski 
+Waltz 
+Wasserman 
+Schultz 
+Waters 
+Watson Coleman 
+Weber (TX) 
+Webster (FL) 
+Welch 
+Wenstrup 
+Westerman 
+Wexton 
+Wild 
+Williams (GA) 
+Williams (TX) 
+Wilson (FL) 
+Wilson (SC) 
+Wittman 
+Womack 
+Wright 
+Yarmuth 
+Young 
+Zeldin 
+NAYS—2 
+Davidson 
+Posey 
+NOT VOTING—16 
+Beatty 
+Brady 
+Brownley 
+Clark (MA) 
+DeSaulnier 
+Granger 
+Hastings 
+Larson (CT) 
+Lowenthal 
+McEachin 
+Nadler 
+Napolitano 
+Raskin 
+Richmond 
+Simpson 
+Trone 
+b 1343 
+Messrs. RESCHENTHALER, BABIN, 
+and TAYLOR changed their vote from 
+‘‘nay’’ to ‘‘yea.’’ 
+So (two-thirds being in the affirma-
+tive) the rules were suspended and the 
+bill was passed. 
+The result of the vote was announced 
+as above recorded. 
+A motion to reconsider was laid on 
+the table. 
+Stated for: 
+Ms. GRANGER. Mr. Speaker, I missed 
+votes due to circumstances beyond my con-
+trol. Had I been present, I would have voted 
+‘‘yea’’ on rollcall No. 9. 
+Mr. BRADY. Mr. Speaker, I was unexpect-
+edly withheld. Had I been present, I would 
+have voted ‘‘yea’’ on rollcall No. 9, H.R. 22. 
+f 
+ADJOURNMENT 
+The SPEAKER pro tempore. Pursu-
+ant to section 5(a)(1)(B) of House Reso-
+lution 8, the House stands adjourned 
+until noon tomorrow. 
+Thereupon (at 1 o’clock and 47 min-
+utes p.m.), the House adjourned until 
+tomorrow, Wednesday, January 6, 2021, 
+at noon. 
+f 
+BUDGETARY EFFECTS OF PAYGO 
+LEGISLATION 
+Pursuant to the Statutory Pay-As- 
+You-Go Act of 2010 (PAYGO), Mr. YAR-
+MUTH hereby submits, prior to the vote 
+on passage, for printing in the CON-
+GRESSIONAL RECORD, that H.R. 22, the 
+Congressional 
+Budget 
+Justification 
+Transparency Act of 2021, as amended, 
+would have no significant effect on the 
+deficit, and therefore, the budgetary ef-
+fects of such bill are estimated as zero. 
+Pursuant to the Statutory Pay-As- 
+You-Go Act of 2010 (PAYGO), Mr. YAR-
+MUTH hereby submits, prior to the vote 
+on passage, for printing in the CON-
+GRESSIONAL RECORD, that H.R. 26, the 
+Construction Consensus Procurement 
+Improvement Act of 2021, as amended, 
+would have no significant effect on the 
+deficit, and therefore, the budgetary ef-
+fects of such bill are estimated as zero. 
+Pursuant to the Statutory Pay-As- 
+You-Go Act of 2010 (PAYGO), Mr. YAR-
+MUTH hereby submits, prior to the vote 
+on passage, for printing in the CON-
+GRESSIONAL RECORD, that H.R. 27, the 
+Settlement 
+Agreement 
+Information 
+Database Act of 2021, as amended, 
+would have no significant effect on the 
+deficit, and therefore, the budgetary ef-
+fects of such bill are estimated as zero. 
+f 
+PUBLIC BILLS AND RESOLUTIONS 
+Under clause 2 of rule XII, public 
+bills and resolutions of the following 
+titles were introduced and severally re-
+ferred, as follows: 
+By Mr. CLOUD (for himself, Mr. MOON-
+EY, Mr. TIFFANY, Mr. MULLIN, Mr. 
+GAETZ, Mr. ROUZER, Mr. ALLEN, Mr. 
+BIGGS, Mr. KELLY of Mississippi, Mr. 
+WALTZ, Mr. BANKS, Mr. GOSAR, Mr. 
+WILLIAMS
+of Texas, Mr. JOYCE
+of 
+Pennsylvania, 
+Mr. 
+LAMBORN, 
+Mr. 
+TIMMONS, Mr. CHABOT, Mr. BUDD, Mr. 
+DUNCAN, Mr. NORMAN, Mr. LAMALFA, 
+Mr. GALLAGHER, Mr. STEUBE, Mr. 
+SMITH of New Jersey, Mr. FULCHER, 
+Mr. BAIRD, Mr. LATTA, Mr. GOHMERT, 
+Mr. KUSTOFF, Mr. ADERHOLT, Mr. 
+WEBER of Texas, Mr. MCKINLEY, Mr. 
+GROTHMAN, Mr. GRAVES of Louisiana, 
+Mrs. HINSON, and Mr. WRIGHT): 
+H.R. 188. A bill to amend title XIX of the 
+Social Security Act to allow for greater 
+State flexibility with respect to excluding 
+providers who are involved in abortions; to 
+the Committee on Energy and Commerce. 
+By Ms. BARRAGA´ N (for herself, Mr. 
+CARTER of Georgia, and Mr. TAYLOR): 
+H.R. 189. A bill to amend the Public Health 
+Service Act to provide that the authority of 
+the Director of the National Institute on Mi-
+nority Health and Health Disparities to 
+make certain research endowments applies 
+with respect to both current and former cen-
+ters of excellence, and for other purposes; to 
+the Committee on Energy and Commerce. 
+By Mr. BURGESS: 
+H.R. 190. A bill to repeal certain amend-
+ments to the Clean Air Act relating to the 
+expansion of the renewable fuel program, and 
+for other purposes; to the Committee on En-
+ergy and Commerce. 
+By Mr. BURGESS: 
+H.R. 191. A bill to repeal Federal energy 
+conservation standards, and for other pur-
+poses; to the Committee on Energy and Com-
+merce. 
+By Mr. BURGESS: 
+H.R. 192. A bill to provide that certain bad 
+faith communications in connection with the 
+assertion of a United States patent are un-
+fair or deceptive acts or practices, and for 
+other purposes; to the Committee on Energy 
+and Commerce. 
+By Mr. BURGESS: 
+H.R. 193. A bill to reduce the amount of 
+foreign assistance to El Salvador, Guate-
+mala, and Honduras based on the number of 
+unaccompanied alien children who are na-
+tionals or citizens of such countries and who 
+in the preceding fiscal year are placed in 
+Federal custody by reason of their immigra-
+tion status; to the Committee on Foreign Af-
+fairs. 
+By Mr. BURGESS: 
+H.R. 194. A bill to require the Inspector 
+General, Department of Justice, to submit a 
+report to the Congress on the number of fire-
+arm transaction denials issued by the Na-
+tional Instant Criminal Background Check 
+System that are referred to the Bureau of 
+Alcohol, Tobacco, Firearms, and Explosives 
+for investigation, the number of prosecutions 
+resulting from such investigations, and the 
+number of firearms recovered by the Bureau 
+in cases in which such a denial was issued 
+after the firearm was transferred; to the 
+Committee on the Judiciary. 
+By Mr. BURGESS: 
+H.R. 195. A bill to amend the Internal Rev-
+enue Code of 1986 to increase the dollar limi-
+tation on employer-provided group term life 
+insurance that can be excluded from the 
+gross income of the employee; to the Com-
+mittee on Ways and Means. 
+By Mr. BURGESS: 
+H.R. 196. A bill to prohibit the Central In-
+telligence Agency from using an unmanned 
+aerial vehicle to carry out a weapons strike 
+or other deliberately lethal action and to 
+transfer the authority to conduct such 
+strikes or lethal action to the Department of 
+Defense; to the Committee on Intelligence 
+(Permanent Select), and in addition to the 
+Committee on Armed Services, for a period 
+to be subsequently determined by the Speak-
+er, in each case for consideration of such pro-
+visions as fall within the jurisdiction of the 
+committee concerned. 
+By Mr. CALVERT (for himself, Mr. 
+MAST, Mr. GAETZ, Mr. BUCHANAN, Ms. 
+BROWNLEY, and Ms. TITUS): 
+H.R. 197. A bill to amend the ICCVAM Au-
+thorization Act of 2000 to improve reporting 
+about animal testing and alternative test 
+method use by Federal agencies, and for 
+other purposes; to the Committee on Energy 
+and Commerce. 
+By Mr. COHEN: 
+H.R. 198. A bill to waive certain prohibi-
+tions with respect to nationals of Cuba com-
+ing to the United States to play organized 
+professional baseball; to the Committee on 
+Foreign Affairs, and in addition to the Com-
+mittee on the Judiciary, for a period to be 
+subsequently determined by the Speaker, in 
+each case for consideration of such provi-
+sions as fall within the jurisdiction of the 
+committee concerned. 
+By Mr. DELGADO (for himself, Mr. 
+ZELDIN, and Mr. KATKO): 
+H.R. 199. A bill to provide funding for cit-
+ies, counties, and other units of general local 
+government to prevent, prepare for, and re-
+spond to coronavirus; to the Committee on 
+Appropriations, and in addition to the Com-
+mittee on the Budget, for a period to be sub-
+sequently determined by the Speaker, in 
+each case for consideration of such provi-
+sions as fall within the jurisdiction of the 
+committee concerned. 
+By Mr. EMMER: 
+H.R. 200. A bill to direct the Secretary of 
+Transportation to establish a national inter-
+section and interchange safety construction 
+program, and for other purposes; to the Com-
+mittee on Transportation and Infrastruc-
+ture. 
+By Mr. EMMER: 
+H.R. 201. A bill to direct the Secretary of 
+Transportation to establish a national bridge 
+replacement and improvement program, and 
+for other purposes; to the Committee on 
+Transportation and Infrastructure. 
+By Mr. GARCIA of California: 
+H.R. 202. A bill to amend the Internal Rev-
+enue Code of 1986 to repeal the limitation on 
+deduction for State and local taxes, and for 
+other purposes; to the Committee on Ways 
+and Means. 
+VerDate Sep 11 2014 
+04:25 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00016
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\A05JA7.007
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 15-
+CONGRESSIONAL RECORD — HOUSE
+H73 
+January 5, 2021 
+By Ms. GARCIA of Texas (for herself, 
+Mr. CASTRO of Texas, Mr. BABIN, Mr. 
+VELA, Ms. JOHNSON
+of Texas, Ms. 
+JACKSON LEE, Mr. ROY, Mr. VEASEY, 
+Mr. TAYLOR, Mr. WILLIAMS of Texas, 
+and Mr. GREEN of Texas): 
+H.R. 203. A bill to designate the facility of 
+the United States Postal Service located at 
+4020 Broadway Street in Houston, Texas, as 
+the ‘‘Benny C. Martinez Post Office Build-
+ing’’; to the Committee on Oversight and Re-
+form. 
+By Ms. JOHNSON of Texas (for herself 
+and Mr. LUCAS): 
+H.R. 204. A bill to direct the Director of the 
+Office of Science and Technology Policy to 
+carry out programs and activities to ensure 
+that Federal science agencies and institu-
+tions of higher education receiving Federal 
+research and development funding are fully 
+engaging their entire talent pool, and for 
+other 
+purposes; 
+to 
+the 
+Committee 
+on 
+Science, Space, and Technology. 
+By Mr. KELLY of Mississippi: 
+H.R. 
+205. 
+A 
+bill 
+to 
+accelerate 
+rural 
+broadband deployment; to the Committee on 
+Energy and Commerce. 
+By Mr. KELLY of Mississippi: 
+H.R. 206. A bill to streamline the applica-
+tion process for H-2A employers and for 
+other purposes; to the Committee on the Ju-
+diciary. 
+By Mr. KELLY of Mississippi: 
+H.R. 207. A bill to designate the facility of 
+the United States Postal Service located at 
+215 1st Avenue in Amory, Mississippi, as the 
+‘‘Command Sergeant Major Lawrence E. 
+‘Rabbit’ Kennedy Post Office Building’’; to 
+the Committee on Oversight and Reform. 
+By Mr. KELLY of Mississippi: 
+H.R. 208. A bill to designate the facility of 
+the United States Postal Service located at 
+500 West Main Street, Suite 102 in Tupelo, 
+Mississippi, as the ‘‘Colonel Carlyle ‘Smitty’ 
+Harris Post Office’’; to the Committee on 
+Oversight and Reform. 
+By Mr. KELLY of Mississippi (for him-
+self, Mr. GUEST, and Mr. THOMPSON of 
+Mississippi): 
+H.R. 209. A bill to designate the facility of 
+the United States Postal Service located at 
+305 Highway 15 North in Pontotoc, Mis-
+sissippi, as the ‘‘Lance Corporal Marc Lucas 
+Tucker Post Office Building’’; to the Com-
+mittee on Oversight and Reform. 
+By Mr. LUCAS (for himself and Ms. 
+JOHNSON of Texas): 
+H.R. 210. A bill to coordinate Federal re-
+search and development efforts focused on 
+STEM education and workforce development 
+in rural areas, including the development 
+and application of new technologies to sup-
+port and improve rural STEM education, and 
+for other purposes; to the Committee on 
+Science, Space, and Technology. 
+By Mr. MCCLINTOCK: 
+H.R. 211. A bill to amend the Lacey Act 
+Amendments of 1981 to clarify provisions en-
+acted by the Captive Wildlife Safety Act, to 
+further the conservation of certain wildlife 
+species, and for other purposes; to the Com-
+mittee on Natural Resources, and in addition 
+to the Committee on the Budget, for a period 
+to be subsequently determined by the Speak-
+er, in each case for consideration of such pro-
+visions as fall within the jurisdiction of the 
+committee concerned. 
+By Mr. SCHNEIDER (for himself and 
+Mr. KATKO): 
+H.R. 212. A bill to require Federal agencies 
+to submit plans for responding to the 
+COVID-19 pandemic, and for other purposes; 
+to the Committee on Oversight and Reform, 
+and in addition to the Committee on the 
+Budget, for a period to be subsequently de-
+termined by the Speaker, in each case for 
+consideration of such provisions as fall with-
+in the jurisdiction of the committee con-
+cerned. 
+By Mr. SIRES: 
+H.R. 213. A bill to modify the minimum al-
+location requirement for the emergency so-
+lutions grants program; to the Committee on 
+Financial Services. 
+By Mr. STEWART: 
+H.R. 214. A bill to allow States to elect to 
+observe daylight savings time for the dura-
+tion of the year, and for other purposes; to 
+the Committee on Energy and Commerce. 
+By Mr. STEWART: 
+H.R. 215. A bill to amend the Congressional 
+Accountability Act of 1995 to prohibit the 
+imposition of a nondisclosure agreement as a 
+condition of the payment of any award or 
+settlement in connection with a violation of 
+such Act; to the Committee on House Ad-
+ministration. 
+By Ms. TITUS: 
+H.R. 216. A bill to designate a peak in the 
+State of Nevada as Maude Frazier Mountain, 
+and for other purposes; to the Committee on 
+Natural Resources. 
+[Omitted from the Record of January 4, 2021] 
+By Mr. MCGOVERN: 
+H. Con. Res. 1. A concurrent resolution re-
+garding consent to assemble outside the seat 
+of government; considered and agreed to. 
+[Omitted from the Record of January 4, 2021] 
+By Mr. HOYER: 
+H. Res. 8. A resolution adopting the Rules 
+of the House of Representatives of the One 
+Hundred Seventeenth Congress, and for other 
+purposes; considered and agreed to. 
+By Mr. JEFFRIES: 
+H. Res. 9. A resolution electing Members to 
+certain standing committees of the House of 
+Representatives; considered and agreed to. 
+By Ms. CHENEY: 
+H. Res. 10. A resolution electing Members 
+to certain standing committees of the House 
+of Representatives; considered and agreed to. 
+By Mr. MCGOVERN: 
+H. Res. 11. A resolution fixing the daily 
+hour of meeting of the First Session of the 
+One Hundred Seventeenth Congress; consid-
+ered and agreed to. 
+By Mr. BURGESS: 
+H. Res. 17. A resolution expressing the 
+sense of the House of Representatives that 
+the President should redirect and target for-
+eign assistance provided to El Salvador, Gua-
+temala, and Honduras in a manner that ad-
+dresses the driving causes of illegal immigra-
+tion into the United States from such coun-
+tries, and for other purposes; to the Com-
+mittee on Foreign Affairs. 
+By Mr. FITZPATRICK (for himself, Mr. 
+EVANS, Ms. WILD, Ms. HOULAHAN, and 
+Ms. DEAN): 
+H. Res. 18. A resolution honoring the life of 
+Dr. Frank Erdman Boston as a World War I 
+veteran, military surgeon, community doc-
+tor, and founder of the Elm Terrace/Abing-
+ton Lansdale Hospital and the Volunteer 
+Medical Service Corps (VMSC) ambulance 
+corps; to the Committee on Oversight and 
+Reform. 
+By Ms. WASSERMAN SCHULTZ: 
+H. Res. 19. A resolution condemning and 
+censuring Representative Louie Gohmert of 
+Texas; to the Committee on Ethics. 
+f 
+CONSTITUTIONAL AUTHORITY 
+STATEMENT 
+Pursuant to clause 7 of rule Xll of the 
+Rules of the House of Representatives, 
+the following statements are submitted 
+regarding the specific powers granted 
+to Congress in the Constitution to 
+enact the accompanying bil1 or joint 
+resolution. 
+By Mr. CLOUD: 
+H.R. 188. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+This bill makes specific changes to exist-
+ing law in a manner that returns power to 
+the States and to the people, in accordance 
+with Amendment X of the United States 
+Constitution. 
+By Ms. BARRAGA´ N: 
+H.R. 189. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article 1, Section 8 of the United States 
+Constitution 
+By Mr. BURGESS: 
+H.R. 190. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+The legislation falls under Congress’ enu-
+merated constitutional authority to regulate 
+interstate commerce pursuant to Article I, 
+Section 8, clause 3. 
+By Mr. BURGESS: 
+H.R. 191. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+This legislation would repeal existing fed-
+eral law which was passed under the claimed 
+constitutional authority of Article I, Section 
+8, Clause 3, often referred to as the ‘‘Com-
+merce Clause.’’ 
+By Mr. BURGESS: 
+H.R. 192. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+The authority granted to Congress to regu-
+late patent and intellectual property law is 
+derived from Article I, Section 8, clause 8 of 
+the Constitution, providing the legislature 
+with the power to ‘‘promote the progress of 
+science and useful arts, by securing for lim-
+ited times to authors and inventors the ex-
+clusive right to their respective writings and 
+discoveries.’’ Further, the Necessary and 
+Proper Clause found in Article I, Section 8, 
+clause 18, provides Congress with the power 
+to ‘‘make all laws which shall be necessary 
+and proper for carrying into execution the 
+foregoing powers, and all other powers vest-
+ed by this Constitution in the government of 
+the United States, or in any department or 
+officer thereof.’’ 
+By Mr. BURGESS: 
+H.R. 193. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article I, Section 9, Clause 7 of the Con-
+stitution of the United States: No Money 
+shall be drawn from the Treasury, but in 
+Consequence of Appropriations made by law. 
+and 
+Article I, Section 8, Clause 4 of the Con-
+stitution of the United States: To Establish 
+an uniform Rule of Naturalization; 
+By Mr. BURGESS: 
+H.R. 194. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article I, Section 8, Clause 3: To regulate 
+commerce with foreign Nations, and among 
+the several States, and with the Indian 
+Tribes; and 
+Article I, Section 8, Clause 18: To make all 
+laws which shall be necessary and proper for 
+carrying into Execution the foregoing Pow-
+ers, and all other Powers vested by this Con-
+stitution in the Government of the United 
+States or in any Department or Officer 
+thereof. 
+By Mr. BURGESS: 
+H.R. 195. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article I, Section VIII, clause 1 enumerates 
+that, ‘‘The Congress shall have power to lay 
+and 
+collect 
+taxes, 
+duties, 
+imposts 
+and 
+excises . . . ’’ 
+Further, 
+Amendment 
+XVI 
+states that ‘‘The Congress shall have power 
+to lay and collect taxes on incomes, from 
+VerDate Sep 11 2014 
+04:25 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00017
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\L05JA7.100
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 16-
+CONGRESSIONAL RECORD — HOUSE
+H74 
+January 5, 2021 
+whatever source derived, without apportion-
+ment among the several states, and without 
+regard to any census or enumeration.’’ 
+By Mr. BURGESS: 
+H.R. 196. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Under Article I, Section VIII, Clause 1, 
+‘‘The Congress shall have power to lay and 
+collect taxes, duties, imposts and excises, to 
+pay the debts and provide for the common 
+defense and general welfare of the United 
+States . . .’’ In addition, Article I, Section 
+VIII, Clause 14 provides, ‘‘To make rules for 
+the government and regulation of the land 
+and naval forces.’’ Lastly, Article I, Section 
+VIII, Clause 16 states ‘‘The Congress shall 
+have Power To provide for organizing, arm-
+ing, and disciplining, the Militia, and for 
+governing such Part of them as may be em-
+ployed in the Service of the United States, 
+reserving to the States respectively, the Ap-
+pointment of the Officers, and the Authority 
+of training the Militia according to the dis-
+cipline prescribed by Congress.’’ 
+By Mr. CALVERT: 
+H.R. 197. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article 1, Section 8, Clause 18 of the United 
+States Constitution relating to the power to 
+make all laws necessary and proper for car-
+rying out the powers vested in Congress. 
+By Mr. COHEN: 
+H.R. 198. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article I, Section 8 
+By Mr. DELGADO: 
+H.R. 199. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article 1 
+By Mr. EMMER: 
+H.R. 200. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article 1, Section 8, Clause 7 
+By Mr. EMMER: 
+H.R. 201. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article I, Section 8. 
+By Mr. GARCIA of California: 
+H.R. 202. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article I, Section 8, Clause 1 
+By Ms. GARCIA of Texas: 
+H.R. 203. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article I, Section 8, Clause 7: [The Con-
+gress shall have Power . . .] To establish 
+Post Offices and post Roads; 
+By Ms. JOHNSON of Texas: 
+H.R. 204. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article I, section 8 of the Constitution of 
+the United States. 
+By Mr. KELLY of Mississippi: 
+H.R. 205. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Under Clause 1 Section 8 of Article 1 of the 
+United States Constitution, Congress as the 
+ability to enact legislation necessary and 
+proper to effectuate its purposes in taxing 
+and pending. 
+By Mr. KELLY of Mississippi: 
+H.R. 206. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+The Congress enacts this bill pursuant to 
+Clause 1 of Section 8 of Article I of the 
+United States Constitution, which provides 
+Congress with the ability to enact legisla-
+tion necessary and proper to effectuate its 
+purposes in taxing and spending. 
+By Mr. KELLY of Mississippi: 
+H.R. 207. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+The Congress enacts this bill pursuant to 
+Clause 7 of Section 8 of Article I. 
+By Mr. KELLY of Mississippi: 
+H.R. 208. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+The Congress enacts this bill pursuant to 
+Clause 7 of Section 8 of Article I. 
+By Mr. KELLY of Mississippi: 
+H.R. 209. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+The Congress enacts this bill pursuant to 
+Clause 7 of Section 8 of Article I. 
+By Mr. LUCAS: 
+H.R. 210. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+U.S. Constitution, Article I, Section 8, 
+Clause 18: 
+‘‘The Congress shall pave Power . . . To 
+make all Laws which shall be necessary and 
+proper for carrying into Execution the fore-
+going Powers, and all other Powers vested by 
+this Constitution in the Government of the 
+United States, or in any Department or Offi-
+cer thereof.’’ 
+By Mr. MCCLINTOCK: 
+H.R. 211. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article 1, Section 8, Clause 3 of the U.S. 
+Constitution 
+By Mr. SCHNEIDER: 
+H.R. 212. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article I, Section 8 
+By Mr. SIRES: 
+H.R. 213. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Pursuant to clause 3(d)(1) of rule XIII of 
+the Rules of the House of Representatives, 
+the Committee find the authority for this 
+legislation in article 1, Section 8 of the Con-
+stitution. 
+By Mr. STEWART: 
+H.R. 214. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article I, Section 8, Clause 3, which states 
+that Congress has the power ‘‘to regulate 
+commerce with foreign nations, and among 
+the several states, and with the Indian 
+tribes.’’ 
+By Mr. STEWART: 
+H.R. 215. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+Article I, Section 5, Clause 2 and Article I, 
+Section 8 Clause 18 of the Constitution 
+By Ms. TITUS: 
+H.R. 216. 
+Congress has the power to enact this legis-
+lation pursuant to the following: 
+The Congress enacts this bill pursuant to 
+Clause 18 of Section 8 of Article I of the 
+United States Constitution. 
+f 
+ADDITIONAL SPONSORS 
+Under clause 7 of rule XII, sponsors 
+were added to public bills and resolu-
+tions, as follows: 
+H.R. 22: Mr. CLINE. 
+H.R. 38: Mr. GOOD of Virginia and Mr. 
+CARL. 
+H.R. 40: Ms. SA´ NCHEZ, Mr. RYAN, and Ms. 
+BROWNLEY. 
+H.R. 79: Ms. BARRAGA´ N and Mr. GARCI´A of 
+Illinois. 
+H.R. 151: Mr. LOWENTHAL, Mrs. AXNE, Mr. 
+SUOZZI, Mr. HIGGINS
+of New York, Mr. 
+WELCH, Mr. SIRES, Mr. FITZPATRICK, Ms. STE-
+VENS, Mr. KHANNA, and Mr. MICHAEL
+F. 
+DOYLE of Pennsylvania. 
+H.R. 152: Mr. COHEN. 
+H.R. 153: Mr. DAVID SCOTT of Georgia. 
+H.R. 160: Ms. PLASKETT. 
+H.R. 161: Mrs. MURPHY of Florida and Miss 
+GONZA´ LEZ-COLO´ N. 
+H.R. 176: Mrs. HAYES. 
+H. Res. 14: Mr. HASTINGS, Mr. VEASEY, Mr. 
+ALLRED, Mr. MOULTON, Mrs. LURIA, Mr. 
+TONKO, Ms. SA´ NCHEZ, Mrs. TRAHAN, Mr. 
+CLEAVER, and Mrs. AXNE. 
+VerDate Sep 11 2014 
+02:27 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00018
+Fmt 0636
+Sfmt 0634
+E:\CR\FM\A05JA7.016
+H05JAPT1
+ctelli on DSK11ZRN23PROD with HOUSE
+
+ -Page 17-
+EXTENSIONS OF REMARKS
+∑ This ‘‘bullet’’ symbol identifies statements or insertions which are not spoken by a Member of the Senate on the floor.
+Matter set in this typeface indicates words inserted or appended, rather than spoken, by a Member of the House on the floor.
+CONGRESSIONAL RECORD — Extensions of Remarks
+E5 
+January 5, 2021 
+HONORING THE SERVICE OF 
+DAVID TWA 
+HON. MARK DeSAULNIER 
+OF CALIFORNIA 
+IN THE HOUSE OF REPRESENTATIVES 
+Tuesday, January 5, 2021 
+Mr. DESAULNIER. Madam Speaker, I rise 
+today with Congressman MIKE
+THOMPSON, 
+Congressman JERRY MCNERNEY, and Con-
+gressman ERIC SWALWELL to recognize the 
+service of an esteemed leader in Contra Costa 
+County, David Twa. 
+David began his career as a public servant 
+in Minnesota where he served as a county 
+manager and county attorney. With significant 
+experience under his belt, David moved to 
+California and was appointed as the Contra 
+Costa County Administrator in 2008. In this 
+role, David has managed 24 departments, 
+agencies, and special districts; over 10,000 
+employees; and a multibillion-dollar budget. 
+During his tenure as County Administrator, 
+David worked to implement the County’s goals 
+and improve the lives of its residents. One of 
+David’s many accomplishments is helping the 
+County achieve a AAA bond rating from 
+Standard and Poor’s in 2013. David’s legacy 
+extends beyond his job description. He was 
+dedicated to career development for County 
+staff and worked to create leadership opportu-
+nities for employees, including helping estab-
+lish the Contra Costa Local Government Lead-
+ership Academy in 2014. Throughout his many 
+years with Contra Costa County, David has in-
+spired his colleagues and peers to continue 
+working to improve our community. In 2018, 
+David won the Distinguished Service Award 
+from the California Association of County Ex-
+ecutives, a testament to his career and serv-
+ice. 
+David is known by his colleagues as a dedi-
+cated and respected leader. Please join me 
+and Congressman MIKE THOMPSON, Congress-
+man JERRY
+MCNERNEY, and Congressman 
+ERIC SWALWELL in thanking David for his serv-
+ice to our County and wishing him the best in 
+his retirement. 
+f 
+HONORING THE LIFE OF THE 
+HONORABLE MARK MYERS 
+HON. DEBBIE WASSERMAN SCHULTZ 
+OF FLORIDA 
+IN THE HOUSE OF REPRESENTATIVES 
+Tuesday, January 5, 2021 
+Ms. 
+WASSERMAN 
+SCHULTZ. 
+Madam 
+Speaker, it is with a heavy heart that I rise to 
+honor the life of former City of Weston Com-
+missioner, Mark Myers. 
+I was heartbroken to learn of his passing 
+and join my community in celebrating his life. 
+Commissioner Myers was one of the original 
+founders of my hometown of Weston, FL, 
+serving on the first City Commission in 1997. 
+In November 1991, Mr. Myers was elected to 
+serve as Treasurer on the Board of Super-
+visors, the panel that helped to incorporate the 
+City of Weston in 1996. His life is part of the 
+fabric of our South Florida history, and we are 
+grateful for his service. 
+Mark always emphasized supporting our 
+community’s young people as well as improv-
+ing access to the arts. He was instrumental in 
+expanding cultural and economic opportunities 
+for a new community and even helped design 
+the City of Weston seal. Mr. Myers was an 
+avid art collector and advocate supporting nu-
+merous organizations whose work helped im-
+prove our surroundings. 
+Commissioner Myers was a graduate of 
+Cornell University and also served our nation 
+with distinction as a pilot in the U.S. Air Force. 
+I join Mark’s children, grandchildren, great 
+grandchildren, and my friends and neighbors 
+in mourning the loss of an incredible advocate, 
+visionary, and devoted public servant. May his 
+memory be a blessing. 
+f 
+RECOGNIZING THE LIFE OF DOCK 
+GABBERT 
+HON. TRENT KELLY 
+OF MISSISSIPPI 
+IN THE HOUSE OF REPRESENTATIVES 
+Tuesday, January 5, 2021 
+Mr. KELLY of Mississippi. Madam Speaker, 
+I rise today to celebrate the life of Dock 
+Gabbert who passed away on December 30. 
+Dock dedicated his life to serving the people 
+of Mississippi and his legacy will be long re-
+membered. 
+Born on July 30, 1942 in Banner, MS to 
+Dock and Rena Gabbert, Dock went on to 
+graduate from Bruce High School. In 1960, he 
+married Gloria Kay Ramage and spent 25 
+years with Willis Engineering. He also served 
+in the Mississippi Army National Guard. Dock 
+was known for his deep love for the outdoors. 
+He went on hunting trips with friends that took 
+him across the country. He could often be 
+found fishing or working in his yard. His love 
+for his community was at the forefront of all he 
+did. 
+Dock began his career in public service in 
+1967 on the Derma Board of Alderman. In 
+1969, he was elected mayor of Derma, where 
+he ultimately served 51 years making him Mis-
+sissippi’s longest serving mayor. He won 14 
+elections, one by only a two-vote margin. He 
+took pride in his contributions to the city infra-
+structure and his part in making Denna an en-
+joyable city to live in. His tenure allowed con-
+tinuity in local projects and his impact on the 
+quality of life in Derma will endure. 
+Dock Gabbert was an outstanding Mississip-
+pian who exemplified a commitment to public 
+service. He dedicated his life to making life 
+better for his community. I am grateful for men 
+like Dock who so humbly served our great 
+state, and my deepest condolences are with 
+those who loved him. 
+STEM OPPORTUNITIES ACT 
+HON. EDDIE BERNICE JOHNSON 
+OF TEXAS 
+IN THE HOUSE OF REPRESENTATIVES 
+Tuesday, January 5, 2021 
+Ms. JOHNSON of Texas. Madam Speaker, 
+today I am pleased to be joined by Ranking 
+Member LUCAS in introducing the STEM Op-
+portunities Act. 
+The need for full engagement in science, 
+technology, engineering, and mathematics 
+(STEM) by women and other underrep-
+resented groups goes beyond enabling individ-
+uals to fulfill their dreams of becoming a sci-
+entist. As the global competition in science 
+and technology continues to intensify, the lack 
+of diversity in the U.S. STEM workforce cre-
+ates a significant drag on our own capacity to 
+innovate. Our future prosperity depends on 
+what we do now to nurture the STEM talent 
+that will be necessary to keep pace with our 
+competitors and deliver benefits to all Ameri-
+cans. 
+Study after study has shown that the under-
+representation of women, and racial and eth-
+nic minorities is not attributable to a lack of in-
+terest or talent. Institutional and cultural bar-
+riers, including discrimination, harassment, un-
+conscious bias in hiring and promotion, limited 
+access to the internet, poor mentoring, and 
+limited support networks serve to disadvan-
+tage, marginalize, and push talented individ-
+uals at all education and career levels to 
+abandon their interest in pursuing STEM ca-
+reers. Unfortunately, the COVID–19 crisis has 
+only exacerbated these challenges. 
+The goal of the STEM Opportunities Act is 
+to develop and implement evidence-based 
+policies to promote the advancement of 
+women, minorities, and other groups under-
+represented in STEM studies and research ca-
+reers. This bill is focused on identifying and 
+lowering barriers for those who have already 
+chosen a STEM path. First, so that we better 
+understand the nature and scope of the chal-
+lenges, the STEM Opportunities Act requires 
+more comprehensive demographic data collec-
+tion on the recipients of federal research 
+awards and on STEM faculty at U.S. univer-
+sities. These data would be available to re-
+searchers to study the participation and trajec-
+tories of women and underrepresented minori-
+ties in STEM so that policy makers can design 
+more effective policies and practices to reduce 
+barriers. 
+Next, this bill requires the development of 
+consistent federal policies, such as no-cost 
+award extensions, for recipients of federal re-
+search awards who have caregiving respon-
+sibilities, including care for a newborn or newly 
+adopted child and care for a sick family mem-
+ber. The bill also requires consistent federal 
+guidance to grant reviewers and program offi-
+cers on best practices to minimize the effects 
+of implicit bias in the review of federal re-
+search grants. It requires OSTP to develop 
+guidance for universities and Federal labora-
+tories to aid them in identifying any cultural 
+VerDate Sep 11 2014 
+03:01 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00001
+Fmt 0626
+Sfmt 9920
+E:\CR\FM\A05JA8.001
+E05JAPT1
+sspencer on DSK126QN23PROD with REMARKS
+
+ -Page 18-
+CONGRESSIONAL RECORD — Extensions of Remarks
+E6 
+January 5, 2021 
+and institutional barriers limiting the recruit-
+ment, retention, and achievement of women, 
+minorities, rural students, and other underrep-
+resented groups in academic and government 
+STEM research careers and in developing and 
+implementing current best practices for reduc-
+ing such barriers. Finally, the legislation au-
+thorizes NSF to award grants to universities to 
+implement or expand research-based prac-
+tices targeted specifically at increasing the re-
+cruitment and retention of minority students 
+and faculty. 
+The STEM Opportunities Act has been a 
+priority of mine for well over a decade. Every 
+Congress since 2007 I have worked to raise 
+awareness among my colleagues about the 
+urgent challenges this bill addresses. While 
+we were successful in passing this bill out of 
+the House last year, we have yet to garner the 
+necessary support to advance this bill in the 
+Senate. I am hopeful that this year will be dif-
+ferent. I am honored to be joined by my good 
+friend, Ranking Member LUCAS, again in this 
+effort and I look forward to working with my 
+colleagues in the Senate to get this bill to the 
+President’s desk. 
+I want to thank Ranking Member LUCAS for 
+his 
+continued 
+partnership 
+in 
+advancing 
+thoughtful solutions to the challenges we face 
+in maintaining our standing as the global lead-
+er in science and innovation. The STEM work-
+force is the bedrock of this effort and, in the 
+wake of the COVID–19 crisis, the need to act 
+is more urgent than ever. I encourage the rest 
+of our colleagues to join us and to help us 
+move this bill forward into law. 
+f 
+IN RECOGNITION OF DANIEL 
+PALETKO 
+HON. RASHIDA TLAIB 
+OF MICHIGAN 
+IN THE HOUSE OF REPRESENTATIVES 
+Tuesday, January 5, 2021 
+Ms. TLAIB. Madam Speaker, I rise today to 
+acknowledge the legacy of public service and 
+commitment to our communities of the late 
+Mayor of Dearborn Heights, Michigan, Daniel 
+Paletko. 
+Dan Paletko served as mayor of Dearborn 
+Heights from 2004 until his death in 2020. 
+Paletko served one term as a Michigan State 
+Representative and more than two decades as 
+a Dearborn Heights City Councilman. He 
+prioritized making Dearborn Heights a wel-
+coming place for all its residents to call home 
+and was especially proud of the city’s rich cul-
+tural diversity and recreational resources. His 
+pride in Dearborn Heights was evident in his 
+dedication. 
+Beyond his public service, Mr. Paletko vol-
+unteered his time to many community-based 
+organizations. He was particularly involved 
+with his church community at St. Linus 
+Church, where he served as an usher. He 
+also proudly gave his time to Volunteer In-
+come Tax Assistance (VITA) programs and to 
+the American Legion. 
+Please join me as we recognize Mayor Dan-
+iel Paletko’s many contributions to the families 
+of Dearborn Heights and the 13th Congres-
+sional District as we give honor to his mem-
+ory. 
+HONORING THE LIFE OF FIRST 
+LIEUTENANT JAMES B. MILLER 
+HON. TOM RICE 
+OF SOUTH CAROLINA 
+IN THE HOUSE OF REPRESENTATIVES 
+Tuesday, January 5, 2021 
+Mr. RICE of South Carolina. Madam Speak-
+er, I rise today to honor the life of First Lieu-
+tenant James B. Miller of Marion, South Caro-
+lina. 
+First Lieutenant Miller honorably served his 
+country in the Army during the Korean War. 
+He was awarded the Purple Heart twice while 
+serving with the 179th Infantry Regiment, 45th 
+Infantry Division in Korea. He was seriously 
+wounded by enemy fire in North Korea on 
+March 6, 1953. First Lieutenant Miller returned 
+to duty only a week later. On July 26, 1953, 
+First Lieutenant Miller was tragically killed in 
+action while fighting the enemy in North 
+Korea. 
+Madam Speaker, I join his family and 
+friends in recognizing the life of First Lieuten-
+ant James B. Miller of Marion, South Carolina. 
+We honor him and thank him for his service 
+and sacrifice for our nation. 
+f 
+RECOGNIZING THE LIFE OF 
+QUTHEL MCNATT 
+HON. TRENT KELLY 
+OF MISSISSIPPI 
+IN THE HOUSE OF REPRESENTATIVES 
+Tuesday, January 5, 2021 
+Mr. KELLY of Mississippi. Madam Speaker, 
+I rise today to celebrate the life of Quthel 
+McNatt of Tishomingo who passed away De-
+cember 14 at North Mississippi Medical Center 
+in Tupelo. 
+Mr. McNatt was a beacon of kindess and 
+generosity to all who had the opportunity to 
+know him. He served as a Deacon at 
+Tishomingo Baptist Church. In his free time, 
+Mr. McNatt enjoyed fishing, hunting, and 
+spending time with family and friends. He was 
+a member of IBEW Local 474. From 1989 to 
+1993 Quthel McNatt served as the mayor of 
+Tishomingo. 
+Left to cherish his memory are his wife of 
+67 years, Sara Haines McNatt; sons, Edward, 
+Wesley, and Joshua; and grandchildren, gage, 
+Brady, Belle, Karmen, and Maddyx. 
+Quthel McNatt was a man of faith and a 
+servant to family, state, and country. He was 
+a blessing to those who knew him and an out-
+standing Mississippian. 
+f 
+DEDICATED PATRIOTS IN 
+WASHINGTON 
+HON. JOE WILSON 
+OF SOUTH CAROLINA 
+IN THE HOUSE OF REPRESENTATIVES 
+Tuesday, January 5, 2021 
+Mr. WILSON of South Carolina. Madam 
+Speaker, thousands of dedicated patriots will 
+be in Washington tomorrow to Stop The Steal 
+peacefully protesting the irregularities of the 
+2020 election. I will welcome the Stedmans of 
+New Jersey, the Durhams of South Carolina, 
+and the Carons of Florida. They are already 
+winners with Republican gains in Congress 
+with 19 additional Republican women, and all 
+Republican House incumbents re-elected as 
+15 incumbent Democrats lost, and The Epoch 
+Times, December 2nd by Pete Svab high-
+lighted Republican gains in the state legisla-
+tures: 
+‘‘Republicans expanded their control of 
+state legislatures in the 2020 election, flip-
+ping both chambers in one state while gain-
+ing more than 160 seats overall.’’ 
+‘‘Their lead over Democrats thus increased 
+to more than 700 seats (about 67 percent) 
+from over 400.’’ 
+‘‘The 2020 gains bring the GOP to a total of 
+more than 4,000 seats.’’ 
+‘‘The balance of power has major con-
+sequences. States decide much of the policy 
+that affects people’s daily lives, in areas 
+such as education, law enforcement, health 
+care, housing, and infrastructure.’’ 
+I especially appreciate in South Carolina the 
+leadership of President Donald Trump has 
+produced the largest Republican majorities in 
+140 years at all levels of government. 
+In conclusion, God Bless our Troops and we 
+will never forget September 11th in the Global 
+War on Terrorism. 
+f 
+HONORING REV. JAMES C. 
+BIRDSONG, JR. 
+HON. DAVID SCOTT 
+OF GEORGIA 
+IN THE HOUSE OF REPRESENTATIVES 
+Tuesday, January 5, 2021 
+Mr. DAVID SCOTT of Georgia. Madam 
+Speaker, I rise today to honor an extraordinary 
+Georgian and a great American, Reverend 
+James C. Birdsong, Jr. 
+Rev. Birdsong is a multi-talented preacher, 
+gospel musician, nationally published author, 
+motivational 
+speaker, 
+and 
+entrepreneur. 
+Through 
+his 
+faith-based 
+outreach, 
+Rev. 
+Birdsong has reached thousands of Georgians 
+with his message of perseverance and trust in 
+God’s plan. 
+Rev. Birdsong was born into a family of tal-
+ented artists in Richmond, California. From a 
+young age, he knew that his mission in life 
+was to share the word of God with others. 
+Rev. Birdsong exhibited courage and resil-
+ience in overcoming a developmental disability 
+to pursue his goals and further his education, 
+culminating in a degree in Biblical Education 
+from Beulah Heights University in Atlanta. 
+In recent years, Reverend Birdsong has 
+kept busy, conducting numerous media inter-
+views, accepting awards across the country, 
+authoring a moving autobiography, and con-
+tinuing to preach the gospel. He remains 
+deeply involved in his community, founding the 
+Birdsong Association of Broadcasting and 
+Arts, to provide young voices with the platform 
+and guidance to refine their talents and follow 
+their dreams. He has further helped young 
+Georgians to find their path in life through his 
+continued youth advocacy efforts, leaving a 
+positive impact on so many young people. 
+Madam Speaker, I congratulate Reverend 
+Birdsong on his impactful career, and extend 
+my sincerest wishes for his continued health 
+and success, as he inspires people across the 
+United States. 
+May God continue to bless Reverend James 
+C. Birdsong, Jr. 
+VerDate Sep 11 2014 
+03:01 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00002
+Fmt 0626
+Sfmt 0634
+E:\CR\FM\A05JA8.004
+E05JAPT1
+sspencer on DSK126QN23PROD with REMARKS
+
+ -Page 19-
+CONGRESSIONAL RECORD — Extensions of Remarks
+E7 
+January 5, 2021 
+RECOGNIZING THE LIFE OF NOLAN 
+METTETAL 
+HON. TRENT KELLY 
+OF MISSISSIPPI 
+IN THE HOUSE OF REPRESENTATIVES 
+Tuesday, January 5, 2021 
+Mr. KELLY of Mississippi. Madam Speaker, 
+I rise today to celebrate the life of Nolan 
+Mettetal who passed away Monday, Decem-
+ber 28, 2020 at the age of 75. As a fellow leg-
+islator, I am grateful for Mr. Mettetal’s dedica-
+tion to family, state, and country. 
+Mr. Mettetal was born on November 19, 
+1945 in Baton Rouge, Louisiana to Wayne 
+and Georgia Mettetal. He began his career as 
+a registered pharmacist, but soon realized his 
+gift for public service when he ran for Mis-
+sissippi legislature. Mr. Mettetal served as 
+Mississippi District 10’s representative, serving 
+constituents across Panola, Lafayette and 
+Tallahatchie Counties. He handily won two 
+elections for this seat and enjoyed meaningful 
+relationships with members and staff at the 
+Mississippi Capitol. Mr. Mettetal also valued 
+his free time with his wife, affectionately 
+known by their community as ‘‘Mrs. Kay.’’ The 
+two took daily walks around Sardis Lake 
+where he enjoyed watching for hummingbirds 
+and feeding the deer. 
+Nolan Mettetal is survived by his wife, Kay 
+Ford Mettetal; daughter, Kim; son, Carey; and 
+five grandchildren, gracie, Julien, Nolan, Ade-
+laide and Sadie. 
+Nolan Mettetal was a light unto all who had 
+the opportunity to know and love him, and he 
+will be deeply missed. My deepest condo-
+lences are with his family and friends. 
+VerDate Sep 11 2014 
+03:01 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00003
+Fmt 0626
+Sfmt 9920
+E:\CR\FM\A05JA8.010
+E05JAPT1
+sspencer on DSK126QN23PROD with REMARKS
+
+ -Page 20-
+D18 
+Tuesday, January 5, 2021 
+Daily Digest 
+Senate 
+Chamber Action 
+The Senate was not in session and stands ad-
+journed until 12:30 p.m., on Wednesday, January 6, 
+2021. 
+Committee Meetings 
+No committee meetings were held. 
+h 
+House of Representatives 
+Chamber Action 
+Public Bills and Resolutions Introduced: 29 pub-
+lic bills, H.R. 188–216; and 8 resolutions, H. Con. 
+Res. 1; and H. Res. 8–11 and 17–19, were intro-
+duced.                                                                          Pages H72–73 
+Additional Cosponsors:                                           Page H74 
+Reports Filed: There were no reports filed today. 
+Speaker: Read a letter from the Speaker wherein she 
+appointed Representative Cuellar to act as Speaker 
+pro tempore for today.                                                Page H57 
+Oath of Office Designation—Communication: 
+Pursuant to the provisions of House Resolution 7, 
+117th Congress, the Chair laid down a communica-
+tion from the Honorable Debbie Wasserman Schultz 
+of Florida reporting the administration of the oath 
+of office to the Honorable Alcee L. Hastings of Flor-
+ida on January 4, 2021, and stating that two copies 
+of the oath, signed by Representative Hastings, had 
+been delivered to the Clerk of the House.        Page H57 
+Whole Number of the House: The Chair an-
+nounced to the House that, in light of the adminis-
+tration of the oath to the gentleman from Florida, 
+the whole number of the House is 431.            Page H57 
+Suspensions: The House agreed to suspend the rules 
+and pass the following measures: 
+Federal Risk and Authorization Management 
+Program Authorization Act of 2021: H.R. 21, to 
+enhance the innovation, security, and availability of 
+cloud computing products and services used in the 
+Federal Government by establishing the Federal Risk 
+and Authorization Management Program within the 
+General Services Administration and by establishing 
+a risk management, authorization, and continuous 
+monitoring process to enable the Federal Govern-
+ment to leverage cloud computing products and 
+services using a risk-based approach consistent with 
+the Federal Information Security Modernization Act 
+of 2014 and cloud-based operations;            Pages H58–62 
+Congressional 
+Budget 
+Justification 
+Trans-
+parency Act of 2021: H.R. 22, to amend the Federal 
+Funding Accountability and Transparency Act of 
+2006, to require the budget justifications and appro-
+priation requests of agencies be made publicly avail-
+able, by a 2⁄3 yea-and-nay vote of 412 yeas to 2 nays, 
+Roll No. 9;                                                Pages H62–66, H71–72 
+Inspector General Protection Act: H.R. 23, to re-
+quire congressional notification for certain changes in 
+status of inspectors general;                              Pages H66–68 
+Construction Consensus Procurement Improve-
+ment Act of 2021: H.R. 26, to amend the Consoli-
+dated Appropriations Act, 2021, to correct a provi-
+sion on the prohibition on the use of a reverse auc-
+tion; and                                                                     Pages H68–69 
+Settlement Agreement Information Database 
+Act of 2021: H.R. 27, to amend chapter 3 of title 
+5, United States Code, to require the publication of 
+settlement agreements.                                        Pages H69–71 
+Quorum Calls—Votes: One yea-and-nay vote de-
+veloped during the proceedings of today and appears 
+on pages H71–72. 
+Adjournment: The House met at 12 noon and ad-
+journed at 1:47 p.m. 
+VerDate Sep 11 2014 
+04:24 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00001
+Fmt 0627
+Sfmt 0627
+E:\CR\FM\D05JA1.REC
+D05JAPT1
+sspencer on DSK126QN23PROD with DIGEST
+
+ -Page 21-
+CONGRESSIONAL RECORD — DAILY DIGEST
+D19 
+January 5, 2021 
+Committee Meetings 
+No hearings were held. 
+Joint Meetings 
+No joint committee meetings were held. 
+COMMITTEE MEETINGS FOR WEDNESDAY, 
+JANUARY 6, 2021 
+(Committee meetings are open unless otherwise indicated) 
+Senate 
+Select Committee on Intelligence: to receive a closed brief-
+ing on certain intelligence matters, 10 a.m., SVC–217. 
+House 
+No hearings are scheduled. 
+VerDate Sep 11 2014 
+04:24 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00002
+Fmt 0627
+Sfmt 0627
+E:\CR\FM\D05JA1.REC
+D05JAPT1
+sspencer on DSK126QN23PROD with DIGEST
+
+ -Page 22-
+CONGRESSIONAL RECORD — DAILY DIGEST
+Congressional Record
+The Congressional Record (USPS 087–390). The Periodicals postage
+is paid at Washington, D.C. The public proceedings of each House
+of Congress, as reported by the Official Reporters thereof, are
+printed pursuant to directions of the Joint Committee on Printing as authorized by appropriate provisions of Title 44, United
+States Code, and published for each day that one or both Houses are in session, excepting very infrequent instances when
+two or more unusually small consecutive issues are printed one time. ¶ Public access to the Congressional Record is available online through
+the U.S. Government Publishing Office, at www.govinfo.gov, free of charge to the user. The information is updated online each day the
+Congressional Record is published. For more information, contact the GPO Customer Contact Center, U.S. Government Publishing Office.
+Phone 202–512–1800, or 866–512–1800 (toll-free). E-Mail, contactcenter@gpo.gov. ¶ To place an order for any of these products, visit the U.S.
+Government Online Bookstore at: bookstore.gpo.gov. Mail orders to: Superintendent of Documents, P.O. Box 979050, St. Louis, MO
+63197–9000, or phone orders to 866–512–1800 (toll-free), 202–512–1800 (D.C. area), or fax to 202–512–2104. Remit check or money order, made
+payable to the Superintendent of Documents, or use VISA, MasterCard, Discover, American Express, or GPO Deposit Account. ¶ Following
+each session of Congress, the daily Congressional Record is revised, printed, permanently bound and sold by the Superintendent of Documents
+in individual parts or by sets. ¶ With the exception of copyrighted articles, there are no restrictions on the republication of material from
+the Congressional Record.
+POSTMASTER: Send address changes to the Superintendent of Documents, Congressional Record, U.S. Government Publishing Office,
+Washington, D.C. 20402, along with the entire mailing label from the last issue received.
+U
+N
+U
+M
+E
+P
+LU
+RI
+B
+U
+S
+D20 
+January 5, 2021 
+Next Meeting of the SENATE 
+12:30 p.m., Wednesday, January 6 
+Senate Chamber 
+Program for Wednesday: Senate will be in a period of 
+morning business. 
+At 1 p.m., the Joint Session of Congress will convene 
+in the Hall of the House of Representatives under the 
+provisions of S. Con. Res. 1, to provide for the counting 
+of the electoral votes for President and Vice President of 
+the United States. 
+Senators attending the Joint Session will gather in the 
+Senate Chamber at 12:45 p.m., and proceed as a body to 
+the Hall of the House of Representatives at 12:50 p.m. 
+Next Meeting of the HOUSE OF REPRESENTATIVES 
+12 noon, Wednesday, January 6 
+House Chamber 
+Program for Wednesday: The House will meet in Joint 
+Session with the Senate to count the electoral votes for 
+President and Vice President of the United States. 
+Extensions of Remarks, as inserted in this issue 
+HOUSE 
+DeSaulnier, Mark, Calif., E5 
+Johnson, Eddie Bernice, Tex., E5 
+Kelly, Trent, Miss., E5, E6, E7 
+Rice, Tom, N.C., E6 
+Scott, David, Ga., E6 
+Tlaib, Rashida, Mich., E6 
+Wasserman Schultz, Debbie, Fla., E5 
+Wilson, Joe, S.C., E6 
+VerDate Sep 11 2014 
+04:24 Jan 06, 2021
+Jkt 019060
+PO 00000
+Frm 00003
+Fmt 0664
+Sfmt 0664
+E:\CR\FM\D05JA1.REC
+D05JAPT1
+sspencer on DSK126QN23PROD with DIGEST
+
+ -Page 23-
