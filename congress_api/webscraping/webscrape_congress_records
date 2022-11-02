@@ -1,0 +1,141 @@
+import requests
+import sys
+import os
+import json
+import datetime
+import requests
+from urllib.request import Request,urlopen
+from selenium.common.exceptions import InvalidSelectorException, NoSuchElementException
+from bs4 import BeautifulSoup as bs
+from selenium.webdriver.remote.errorhandler import TimeoutException
+import matplotlib.pyplot as plt 
+import os
+import re 
+import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By 
+from selenium.webdriver.support.ui import Select
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.wait import WebDriverWait
+import time
+
+with open('GovInfo Web Scraping/Marco Rubio.txt','r') as fp:
+    rubio = fp.read()
+rubio = rubio.strip('][').split(', ')
+
+headers = {
+    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Methods': 'GET',
+    'Access-Control-Allow-Headers': 'Content-Type',
+    'Access-Control-Max-Age': '3600',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
+    }
+
+allrubiotxt = []
+for i in rubio:
+    newi = i.replace("'","")
+    print(newi)
+    req = requests.get(newi,headers)
+    soup = bs(req.content,'html.parser')
+    txt = soup.find('body').get_text()
+    print(txt)
+    allrubiotxt.append(txt)
+with open('Marcorubiotest.txt','w') as p:
+    p.write(str(allrubiotxt))
+
+
+# Candidate dictionary 
+candidatedict = [{'Name':'Ron Johnson','Party':'Republican','BIOGUIDEID':'J000293','State':'Wisconsin',"Winning Prob":[60]},
+{'Name':'Mandela Barnes','Party':'Democrat','BIOGUIDEID':'-','State':'Wisconsin',"Winning Prob":[40]},{'Name':'Catherine Cortez Masto','Party':'Democrat','BIOGUIDEID':'C001113','State':'Nevada',"Winning Prob":[56]},
+{'Name':'Adam Paul Laxalt','Party':'Republican','BIOGUIDEID':'L000148','State':'Nevada',"Winning Prob":[44]},{'Name':'Mark Kelly','Party':'Democrat','BIOGUIDEID':'K000377','State':'Arizona',"Winning Prob":[84]},
+{'Name':'Blake Masters','Party':'Republican','BIOGUIDEID':'-','State':'Arizona',"Winning Prob":[16]},{'Name':'Marco Rubio','Party':'Republican','BIOGUIDEID':'R000595','State':'Florida',"Winning Prob":[85]},
+{'Name':'Val Demings','Party':'Democrat','BIOGUIDEID':'D000627','State':'Florida',"Winning Prob":[15]},{'Name':'Raphael Warnock','Party':'Democrat','BIOGUIDEID':'W000790','State':'Georgia',"Winning Prob":[55]},
+{'Name':'Herschel Junior Walker','Party':'Republican','BIOGUIDEID':'-','State':'Georgia',"Winning Prob":[45]},{'Name':'Tedd Budd','Party':'Republican','BIOGUIDEID':'B001305','State':'North Carolina',"Winning Prob":[62]},
+{'Name':'James David Vance','Party':'Republican','BIOGUIDEID':'-','State':'Ohio',"Winning Prob":[72]},{'Name':'Cheri Beasley','Party':'Democrat','BIOGUIDEID':'-','State':'North Carolina',"Winning Prob":[38]},
+{'Name':'Tim Ryan','Party':'Democrat','BIOGUIDEID':'R000577','State':'Ohio',"Winning Prob":[28]},{'Name':'Wiley Nickel','Party':'Democrat','BIOGUIDEID':'-','State':'North Carolina',"Winning Prob":[46]},
+{'Name':'John Fetterman','Party':'Democrat','BIOGUIDEID':'-','State':'Pennsylvania',"Winning Prob":[81]},{'Name':'Bo Hines','Party':'Republican','BIOGUIDEID':'-','State':'North Carolina',"Winning Prob":[54]},
+{'Name':'Mehmet Oz','Party':'Republican','BIOGUIDEID':'-','State':'Pennsylvania',"Winning Prob":[19]},{'Name':'Yvette Herrell','Party':'Republican','BIOGUIDEID':'H001084','State':'New-Mexico',"Winning Prob":[40]},
+{'Name':'Maggie Hassan','Party':'Democrat','BIOGUIDEID':'H001076','State':'New Hampshire',"Winning Prob":[86]},{'Name':'Gabriel Vasquez','Party':'Democrat','BIOGUIDEID':'-','State':'New-Mexico',"Winning Prob":[40]},
+{'Name':'Donald C. Bolduc','Party':'Republican','BIOGUIDEID':'-','State':'New Hampshire',"Winning Prob":[14]},{'Name':'April Becker','Party':'Republican','BIOGUIDEID':'-','State':'Nevada',"Winning Prob":[35]},
+{'Name':'Mike Lee','Party':'Republican','BIOGUIDEID':'-','State':'Utah',"Winning Prob":[93]},{'Name':'Susie Lee','Party':'Democrat','BIOGUIDEID':'L000590','State':'Nevada',"Winning Prob":[65]},
+{'Name':'Evan McMullin','Party':'Independent','BIOGUIDEID':'-','State':'Utah',"Winning Prob":[7]},{'Name':'Tyler Kistner','Party':'Republican','BIOGUIDEID':'-','State':'Minnesota',"Winning Prob":[31]},
+{'Name':'Sarah Palin','Party':'Republican','BIOGUIDEID':'-','State':'Alaska',"Winning Prob":[46]},{'Name':'Angie Craig','Party':'Democrat','BIOGUIDEID':'C001119','State':'Minnesota',"Winning Prob":[69]},
+{'Name':'Mary S. Peltola','Party':'Democrat','BIOGUIDEID':'P000619','State':'Alaska',"Winning Prob":[39]},{'Name':'Neil C. Parrott','Party':'Democrat','BIOGUIDEID':'-','State':'Maryland',"Winning Prob":[41]},
+{'Name':'Mark Begich','Party':'Republican','BIOGUIDEID':'B001265','State':'Alaska',"Winning Prob":[15]},{'Name':'David J Trone','Party':'Republican','BIOGUIDEID':'T000483','State':'Maryland',"Winning Prob":[59]},
+{'Name':'Eli Crane','Party':'Republican','BIOGUIDEID':'-','State':'Arizona',"Winning Prob":[66]},{'Name':'Bruce Poliquin','Party':'Republican','BIOGUIDEID':'P000611','State':'Maine',"Winning Prob":[47]},
+{'Name':"Tom O'Halleran",'Party':'Democrat','BIOGUIDEID':'O000171','State':'Arizona',"Winning Prob":[34]},{'Name':'Jared Forest Golden','Party':'Democrat','BIOGUIDEID':'G000592','State':'Maine',"Winning Prob":[53]},
+{'Name':'Barbara Kirkmeyer','Party':'Republican','BIOGUIDEID':'-','State':'Colorado',"Winning Prob":[56]},{'Name':'Sharice Davids','Party':'Democrat','BIOGUIDEID':'D000629','State':'Kansas',"Winning Prob":[47]},
+{'Name':'Yadira Caraveo','Party':'Democrat','BIOGUIDEID':'-','State':'Colorado',"Winning Prob":[44]},{'Name':'Amanda L. Adkins','Party':'Republican','BIOGUIDEID':'-','State':'Kansas',"Winning Prob":[53]},
+{'Name':'Eric Sorensen','Party':'Democrat','BIOGUIDEID':'-','State':'Illinois',"Winning Prob":[54]},{'Name':'Esther Joy King','Party':'Republican','BIOGUIDEID':'-','State':'Illinois',"Winning Prob":[46]}]
+
+canddf = pd.DataFrame()
+for cand in candidatedict:
+    c = pd.DataFrame.from_dict(cand)
+    ls = [canddf,c]
+    canddf = pd.concat(ls)
+candidates = list(canddf['Name'])
+print(candidates)
+
+def pullcandidatetext(candidate:str)->list:        
+    path = 'chromedriver'
+    driver = webdriver.Chrome(path)
+
+    driver.get('https://www.govinfo.gov/')
+    time.sleep(1)
+
+
+    links = []
+    congresssearchar = driver.find_element(By.ID,"searchString")
+    congresssearchar.send_keys(f"collection:(CREC) AND publishdate:range(2020-01-02,) AND member:({candidate})")
+    driver.find_element(By.ID,'searchButton').click()
+    time.sleep(5)
+    #alertwarning  = WebDriverWait(driver, 5).until(EC.visibility_of_all_elements_located((By.CLASS_NAME, 'alert.alert-warning')))
+
+    try:
+        alert_warning = driver.find_element(By.CLASS_NAME,"alert.alert-warning")
+        print(f"There are no available recods for {candidate}")
+        return 
+    except (InvalidSelectorException,NoSuchElementException):
+        print(f"There are available records for {candidate}")
+        pass
+    time.sleep(10)
+    sbutton = driver.find_element(By.ID,'itemsPerPage')
+    driver.execute_script("arguments[0].scrollIntoView();", sbutton)
+    select = Select(driver.find_element(By.ID,'itemsPerPage'))
+    select.select_by_value('100')
+    time.sleep(5)
+    nopages = WebDriverWait(driver, 10).until(EC.visibility_of_all_elements_located((By.CLASS_NAME, 'fw-pagination-btn ')))[-2]
+    p = int(nopages.text)
+    for i in range(0,p):
+        print(i)
+        results = driver.find_element(By.CLASS_NAME,'btn.btn-sm.btn-format')
+        driver.execute_script("arguments[0].scrollIntoView();", results)
+        titles = WebDriverWait(driver, 10).until(EC.visibility_of_all_elements_located((By.CLASS_NAME, 'btn.btn-sm.btn-format')))
+
+            #links is list object that has all links to text by candidate
+        for title in titles:
+            if title.text=='TEXT' and i==p-1:
+                textlink = title.get_attribute('href')
+                links.append(textlink)
+                driver.close()
+                return links
+            elif title.text=='TEXT':
+                textlink = title.get_attribute('href')
+                links.append(textlink)
+            else:
+                continue
+        nxt = WebDriverWait(driver, 10).until(EC.visibility_of_all_elements_located((By.CLASS_NAME, 'next.fw-pagination-btn')))[0]
+        driver.execute_script("arguments[0].click();", nxt)
+        time.sleep(10)
+    
+notgrabbed = ['Jared Golden']
+for i in notgrabbed:
+    alllinks = pullcandidatetext(i)
+    with open(f'GovInfo Web Scraping/{i}.txt','w') as p:
+        p.write(str(alllinks))
+
+
+#print(textlink)
+#links = [textlink.get_attrbute('href') for elem in textlink]
+
