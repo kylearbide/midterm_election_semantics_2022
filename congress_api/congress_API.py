@@ -9,9 +9,18 @@ import fitz
 import pdfplumber
 import matplotlib.pyplot as plt 
 import os
+import re 
 import pandas as pd
+import selenium as se
+
+"""
+grabbing congressional records since 2020-01-01. Creates date range with dates that aren't in the
+2 month period we initially grabbed data from (july 07-September 07), and grabs data from those dates
+"""
 
 
+
+# Candidate dictionary 
 candidatedict = [{'Name':'Ron Johnson','Party':'Republican','BIOGUIDEID':'J000293','State':'Wisconsin',"Winning Prob":[60]},
 {'Name':'Mandela Barnes','Party':'Democrat','BIOGUIDEID':'-','State':'Wisconsin',"Winning Prob":[40]},{'Name':'Catherine Cortez Masto','Party':'Democrat','BIOGUIDEID':'C001113','State':'Nevada',"Winning Prob":[56]},
 {'Name':'Adam Paul Laxalt','Party':'Republican','BIOGUIDEID':'L000148','State':'Nevada',"Winning Prob":[44]},{'Name':'Mark Kelly','Party':'Democrat','BIOGUIDEID':'K000377','State':'Arizona',"Winning Prob":[84]},
@@ -43,7 +52,7 @@ for cand in candidatedict:
     canddf = pd.concat(ls)
 
 """
-Figures
+Figures for Capstone Plan 2 Presentation
 fig,ax = plt.subplots()
 canddf = canddf.rename({'Winning Prob':'Likelihood'},axis='columns')
 withoutindependent = canddf.loc[(canddf['Party']=='Republican') | (canddf['Party']=='Democrat')]
@@ -66,32 +75,8 @@ plt.show()
 
 """
 
-direct = os.listdir('Congressional Records')
-for record in direct:
-    txtname=record[0:-4]
-    doc = fitz.open(f"Congressional Records/{record}")
-    txt = ''
-    no_pages = len(doc)
-    print(no_pages)
-    for i in range(0,no_pages):
-        page = doc[i]
-        txt += page.get_text()
-        txt+=f"\n -Page {i}-\n"
-    with open(f"Records as txt/{txtname}.txt",'w') as f:
-        f.write(txt)
-    
-print(direct)
 
 
-
-
-"""
-tried pdfplumber but results aren't as good
-print('asare')
-doc = pdfplumber.open('Congressional Records/Congress_Records_2022-7-11.pdf')
-page = doc.pages[3]
-print(page.extract_text())
-"""
 
 
 
@@ -100,26 +85,6 @@ with open(r'config.json', 'r') as f:
 client = CDGClient(CONFIG['congress_API'])  # pass the key, response_format="xml" if needed
 
 # use requests args and kwargs below modify the request:
-
-def bill_test():
-    BILL_HR = "hr"
-    BILL_NUM = 21
-    BILL_PATH = "bill"
-    CONGRESS = 117
-
-    endpoint = f"{BILL_PATH}/{CONGRESS}/{BILL_HR}/{BILL_NUM}/text"
-    data, status_code = client.get(endpoint)
-
-    print(data)
-
-def congressional_record():
-    endpoint = f"congressional-record/?y=2022&m=6&d=28"
-    data, status_code = client.get(endpoint)
-
-    print(data['Results']['Issues'][0]['Links']['FullRecord'])
-
-congressional_record()
-=======
 BILL_HR = "hr"
 BILL_NUM = 21
 BILL_PATH = "bill"
@@ -141,12 +106,40 @@ iterate over list using package spaacy
 
 
 """
+write records as text
+"""
+direct = os.listdir('Congressional Records')
+for record in direct:
+    txtname=record[0:-4]
+    doc = fitz.open(f"Congressional Records/{record}")
+    txt = ''
+    no_pages = len(doc)
+    print(no_pages)
+    for i in range(0,no_pages):
+        page = doc[i]
+        txt += page.get_text()
+        txt+=f"\n -Page {i}-\n"
+    with open(f"Records as txt/{txtname}.txt",'w') as f:
+        f.write(txt)
+    
+
+
+
+
+
+"""
 getting range of dates starting from July 7-September 7 (August 7 was climate bill).
 This will give us all records in 2 month span with climate bill in the middle
 """
+daterange = pd.date_range(start="2021-02-16",end=datetime.datetime.today())
 base=datetime.datetime(2022,9,7)
 date_list = [base-datetime.timedelta(days=x) for x in range(61)]
+daterange = list(pd.to_datetime(daterange).to_series())
+
 for day in date_list:
+    if day in daterange:
+        daterange.remove(day)
+for day in daterange:
     d = day.day
     m = day.month
     y = day.year
@@ -168,12 +161,4 @@ for day in date_list:
         file.write(resp.read())
         file.close()
         print("completed")
-
-
-doc = fitz.open('Congressional Records/Congress_Records_2022-7-11.pdf')
-page = doc[3]
-txt=''
-txt = page.get_text()
-print(txt)
-
 

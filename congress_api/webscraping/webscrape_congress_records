@@ -20,9 +20,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 import time
 
-with open('GovInfo Web Scraping/Marco Rubio.txt','r') as fp:
-    rubio = fp.read()
-rubio = rubio.strip('][').split(', ')
+govinfolinks = os.listdir('GovInfo Web Scraping')
+govinfolinks.remove('Records')
+print(govinfolinks)
 
 headers = {
     'Access-Control-Allow-Origin': '*',
@@ -32,17 +32,20 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
     }
 
-allrubiotxt = []
-for i in rubio:
-    newi = i.replace("'","")
-    print(newi)
-    req = requests.get(newi,headers)
-    soup = bs(req.content,'html.parser')
-    txt = soup.find('body').get_text()
-    print(txt)
-    allrubiotxt.append(txt)
-with open('Marcorubiotest.txt','w') as p:
-    p.write(str(allrubiotxt))
+for i in govinfolinks:
+    with open(f'GovInfo Web Scraping/{i}','r') as fp:
+        txtflile = fp.read()
+    txtfile = txtflile.strip('][').split(', ')
+    alltxt = []
+    for j in txtfile:
+        newj = j.replace("'","")
+        req = requests.get(newj,headers)
+        soup = bs(req.content,'html.parser')
+        txt = soup.find('body').get_text()
+        alltxt.append(txt)
+    with open(f'GovInfo Web Scraping/Records/{i[:len(i)-4]} all congress speeches.txt','w') as p:
+        print(alltxt[0])
+        p.write(str(alltxt))
 
 
 # Candidate dictionary 
@@ -134,8 +137,4 @@ for i in notgrabbed:
     alllinks = pullcandidatetext(i)
     with open(f'GovInfo Web Scraping/{i}.txt','w') as p:
         p.write(str(alllinks))
-
-
-#print(textlink)
-#links = [textlink.get_attrbute('href') for elem in textlink]
 
