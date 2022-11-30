@@ -1,2 +1,4 @@
 *config.json
 *.pyc
+cspan_recordings/chromedriver.exe
+twitter/data/clean_topics_tweets_final.csv
