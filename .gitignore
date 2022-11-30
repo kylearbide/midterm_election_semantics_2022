@@ -1,3 +1,4 @@
 *config.json
 *.pyc
 chromedriver*
+twitter/data/clean_topics_tweets_final.csv
